@@ -1,0 +1,1201 @@
+date	area	crime_type	time_of_day	weapon_used	arrest_made	latitude	longitude
+13/04/2023	Residential Block A	Theft	Morning	Gun	0	29.89827149	71.69171739
+13/03/2023	North Zone	Robbery	Morning	None	1	29.79932924	71.67800932
+11/04/2024	Downtown	Theft	Morning	Knife	0	29.54998746	71.82962445
+08/01/2024	Market Area	Vehicle Theft	Morning	Knife	1	29.80055751	71.95403629
+23/10/2024	North Zone	Burglary	Evening	None	0	29.52820579	71.96099939
+18/02/2024	Residential Block A	Burglary	Evening	Gun	0	29.60616956	71.69091248
+04/10/2023	North Zone	Vandalism	Evening	None	0	29.80874075	71.90582658
+10/09/2023	University Town	Theft	Evening	Gun	1	29.71597251	71.74561457
+28/02/2023	Residential Block B	Theft	Night	None	1	29.69993049	71.62333283
+30/11/2024	Downtown	Vehicle Theft	Evening	Gun	0	29.68318092	71.82803499
+17/11/2024	Residential Block A	Theft	Morning	Knife	1	29.809193	71.791231
+01/09/2023	Downtown	Vandalism	Afternoon	None	1	29.79620728	71.62322521
+08/10/2024	Industrial Area	Burglary	Evening	Knife	1	29.58526206	71.6325258
+23/01/2024	Industrial Area	Robbery	Evening	None	0	29.97110088	71.88164411
+12/12/2023	Market Area	Fraud	Afternoon	Knife	1	29.54883606	71.94211651
+02/01/2024	University Town	Assault	Afternoon	Gun	0	29.84163176	71.90499833
+04/02/2023	North Zone	Vandalism	Morning	Gun	1	29.9546602	71.72938999
+23/01/2024	Industrial Area	Theft	Afternoon	Gun	0	29.65585554	71.86003401
+16/04/2023	Residential Block A	Burglary	Night	Blunt Object	0	29.78385016	71.61565665
+06/02/2024	Industrial Area	Robbery	Afternoon	Gun	1	29.88756641	72.06974947
+27/09/2023	Market Area	Burglary	Evening	Knife	0	29.863636	71.76327038
+06/04/2024	Market Area	Burglary	Morning	None	0	29.59799143	71.62261364
+23/10/2023	North Zone	Fraud	Afternoon	Blunt Object	0	29.92226692	71.97366006
+22/02/2023	University Town	Burglary	Night	Gun	0	29.79337558	72.08262765
+07/07/2023	Residential Block A	Fraud	Morning	Gun	1	29.77134804	71.67046211
+15/01/2023	Downtown	Assault	Night	Knife	1	29.58263347	71.6078182
+04/06/2024	Downtown	Fraud	Evening	Knife	0	29.88612238	71.69935784
+16/04/2024	Residential Block B	Fraud	Evening	Knife	0	29.50703991	71.6994212
+27/01/2024	Industrial Area	Vandalism	Afternoon	None	1	29.86450358	71.98563517
+04/05/2024	University Town	Theft	Morning	Gun	1	29.67923286	71.65793453
+15/05/2023	North Zone	Theft	Afternoon	None	0	29.92501929	71.82472534
+02/02/2023	Residential Block A	Burglary	Morning	Knife	0	29.53177918	71.75549116
+28/12/2024	Residential Block A	Burglary	Afternoon	Gun	1	29.83296118	71.89564889
+26/12/2024	North Zone	Vehicle Theft	Afternoon	Gun	1	29.94360637	71.83610746
+04/09/2024	Residential Block A	Fraud	Evening	Blunt Object	1	29.98585605	72.02445691
+05/01/2023	Downtown	Robbery	Afternoon	None	1	29.7806386	71.98548359
+28/01/2024	Downtown	Vehicle Theft	Afternoon	Knife	0	29.85533144	71.65544541
+05/04/2024	Downtown	Fraud	Morning	Knife	0	29.6008596	72.0478818
+29/08/2023	Downtown	Vandalism	Evening	None	0	29.65717799	71.85428535
+29/04/2024	Industrial Area	Fraud	Night	Knife	0	29.62464611	71.80519146
+20/06/2023	Residential Block A	Vehicle Theft	Night	Knife	1	29.60153061	72.07142679
+29/11/2024	Residential Block B	Burglary	Afternoon	None	0	29.84739247	72.04023392
+12/11/2024	Residential Block A	Burglary	Evening	Blunt Object	1	29.90406019	71.91670188
+07/10/2024	University Town	Vandalism	Morning	None	0	29.72826729	71.70922022
+06/12/2023	University Town	Fraud	Evening	None	0	29.9462795	71.86967112
+20/05/2024	North Zone	Robbery	Night	Knife	1	29.56104398	71.77814892
+09/07/2023	North Zone	Assault	Night	Knife	0	29.55502596	71.71396758
+24/09/2024	University Town	Vandalism	Morning	None	0	29.90900738	72.03036529
+25/12/2023	Downtown	Vandalism	Afternoon	Knife	1	29.58232793	71.86704471
+14/11/2023	University Town	Burglary	Afternoon	Blunt Object	0	29.61105391	71.65993268
+14/11/2024	North Zone	Burglary	Morning	Blunt Object	1	29.62206276	71.68414552
+02/11/2024	Residential Block B	Vandalism	Night	Gun	1	29.75939531	71.95150948
+23/04/2023	Residential Block A	Fraud	Night	Knife	0	29.53244612	71.72695771
+25/09/2023	Industrial Area	Robbery	Morning	None	1	29.62589115	71.84862425
+23/04/2023	Downtown	Theft	Night	Knife	0	29.57404346	72.09887024
+29/11/2024	Market Area	Theft	Afternoon	None	0	29.80478217	71.85133951
+19/07/2024	Residential Block A	Vandalism	Afternoon	Blunt Object	0	29.51652537	71.77253562
+20/01/2024	Market Area	Robbery	Morning	None	1	29.61978095	71.67244744
+14/11/2024	Residential Block A	Vehicle Theft	Evening	Gun	0	29.72389158	71.87644654
+04/09/2023	Residential Block A	Fraud	Evening	Knife	1	29.83606777	71.98080981
+03/05/2023	University Town	Robbery	Evening	Blunt Object	1	29.62107997	72.00156988
+01/09/2024	Residential Block B	Theft	Morning	Blunt Object	0	29.81676486	71.86788734
+24/05/2023	Downtown	Vehicle Theft	Afternoon	Gun	0	29.91765125	71.76039003
+22/11/2023	Industrial Area	Theft	Afternoon	Gun	1	29.8479064	72.0291794
+07/02/2024	North Zone	Burglary	Evening	None	1	29.85557477	72.00475052
+28/05/2023	Residential Block A	Theft	Afternoon	Gun	0	29.8225864	71.68718321
+01/10/2024	Downtown	Fraud	Afternoon	Gun	1	29.75887568	72.01885505
+17/04/2024	Market Area	Robbery	Evening	Knife	1	29.60453581	71.87072399
+25/10/2023	Market Area	Burglary	Evening	None	0	29.62897081	71.92999202
+12/12/2023	Residential Block A	Burglary	Evening	None	0	29.99108417	71.85831795
+02/01/2023	Industrial Area	Vandalism	Afternoon	Gun	0	29.99812685	72.08270968
+28/03/2024	Residential Block A	Burglary	Night	None	0	29.95020903	71.91655073
+09/01/2023	Downtown	Fraud	Afternoon	None	1	29.63943568	71.95017891
+27/07/2023	Market Area	Vehicle Theft	Afternoon	Blunt Object	0	29.94855513	72.04354321
+30/04/2023	Downtown	Assault	Evening	None	1	29.94388505	72.02546422
+16/09/2024	North Zone	Fraud	Afternoon	None	1	29.58081436	72.04927709
+11/09/2023	Residential Block B	Vehicle Theft	Night	Knife	0	29.50459853	71.65073577
+09/04/2023	Residential Block B	Robbery	Afternoon	Blunt Object	0	29.98683192	71.74196049
+04/12/2023	North Zone	Fraud	Evening	Blunt Object	0	29.74280688	71.82421207
+11/11/2024	Industrial Area	Robbery	Morning	Blunt Object	0	29.58796263	71.60903768
+02/02/2024	Residential Block B	Burglary	Afternoon	Knife	1	29.66269985	71.9732457
+27/01/2024	Industrial Area	Assault	Afternoon	Knife	0	29.92461171	71.92880645
+02/02/2023	Residential Block A	Robbery	Night	Gun	1	29.77127012	71.85440704
+14/04/2024	Residential Block B	Theft	Evening	Gun	1	29.63260118	71.72199482
+07/02/2023	Residential Block A	Vandalism	Evening	None	0	29.98944643	71.84337108
+10/10/2023	Industrial Area	Robbery	Evening	None	0	29.71719718	71.7750392
+31/08/2024	Market Area	Burglary	Evening	Gun	1	29.78845194	71.84625885
+28/03/2024	Market Area	Vehicle Theft	Morning	Blunt Object	0	29.61509263	71.84959669
+30/05/2024	Industrial Area	Theft	Night	None	0	29.51215798	71.92273615
+17/01/2023	Industrial Area	Burglary	Morning	Gun	1	29.99727526	71.83497226
+15/02/2023	Residential Block A	Vandalism	Morning	Gun	1	29.9574322	71.78507935
+06/02/2023	Residential Block A	Burglary	Evening	Blunt Object	1	29.96415928	71.81409207
+30/06/2023	Market Area	Robbery	Afternoon	Blunt Object	1	29.78614623	72.09016579
+26/04/2023	Residential Block A	Fraud	Afternoon	Gun	1	29.64722445	71.79254886
+10/06/2023	Market Area	Vandalism	Morning	Gun	1	29.658461	71.68474637
+19/07/2024	North Zone	Burglary	Evening	Blunt Object	1	29.8480149	71.88503059
+17/09/2024	University Town	Fraud	Afternoon	Blunt Object	0	29.80750361	72.09502693
+30/09/2024	Residential Block A	Theft	Evening	Gun	0	29.75916483	72.03868654
+14/04/2023	Residential Block B	Vandalism	Afternoon	Gun	0	29.84850787	71.95124204
+25/06/2023	Residential Block B	Robbery	Afternoon	None	0	29.77640999	71.74825507
+21/06/2024	North Zone	Burglary	Morning	Blunt Object	1	29.9050567	72.03353616
+08/06/2024	Residential Block A	Vehicle Theft	Afternoon	Blunt Object	1	29.54079709	71.60259243
+05/02/2023	University Town	Robbery	Afternoon	None	0	29.89914759	71.92498197
+26/05/2024	Residential Block B	Burglary	Afternoon	Knife	1	29.69839191	71.62538427
+15/04/2024	Downtown	Vehicle Theft	Afternoon	None	1	29.51380839	71.88943245
+27/12/2024	North Zone	Vandalism	Night	Gun	1	29.83601307	71.76407633
+28/11/2024	Market Area	Vandalism	Night	Blunt Object	0	29.77132232	71.74327063
+10/11/2023	Residential Block A	Vandalism	Night	Blunt Object	1	29.93020231	71.72512568
+12/11/2024	Residential Block B	Robbery	Evening	Blunt Object	0	29.91130028	71.78009532
+19/03/2024	Industrial Area	Burglary	Morning	Gun	0	29.66332562	72.0139345
+25/07/2024	Industrial Area	Assault	Evening	None	0	29.60791051	71.91144524
+15/07/2023	North Zone	Robbery	Night	Knife	0	29.92101154	71.69719002
+16/12/2023	Downtown	Burglary	Night	Gun	1	29.77031756	71.91871495
+17/10/2024	University Town	Theft	Afternoon	Blunt Object	1	29.98792604	71.85815017
+31/10/2024	Residential Block B	Vehicle Theft	Morning	Blunt Object	1	29.52053376	71.79941045
+26/08/2024	Downtown	Assault	Evening	Blunt Object	1	29.87202132	71.72543026
+18/04/2024	Market Area	Fraud	Afternoon	Blunt Object	0	29.98132421	72.01799006
+28/01/2024	Industrial Area	Burglary	Night	None	1	29.84424995	71.6290968
+25/09/2024	Industrial Area	Fraud	Night	Knife	1	29.57821852	71.72512145
+29/09/2024	North Zone	Vehicle Theft	Morning	Blunt Object	0	29.54693665	71.691433
+25/08/2023	Downtown	Fraud	Night	Knife	1	29.63996695	72.07743264
+04/12/2024	North Zone	Theft	Evening	Blunt Object	1	29.77717703	71.90586037
+04/09/2023	North Zone	Burglary	Evening	Gun	1	29.52385806	71.88301861
+10/03/2024	Industrial Area	Vandalism	Night	Gun	0	29.87892306	71.60719674
+08/08/2023	University Town	Theft	Morning	Gun	0	29.52300132	71.6203644
+28/03/2024	Residential Block A	Theft	Morning	None	0	29.73708691	71.64891708
+07/03/2024	North Zone	Vandalism	Morning	Knife	0	29.90345649	71.77315216
+11/09/2023	North Zone	Burglary	Morning	Knife	1	29.71692582	71.79925237
+05/06/2024	Residential Block A	Assault	Evening	Knife	0	29.97457287	72.04334019
+29/06/2023	Residential Block B	Vandalism	Afternoon	Gun	0	29.68730631	71.91292996
+17/03/2024	Market Area	Theft	Evening	Blunt Object	1	29.75051994	71.86968872
+30/05/2024	Residential Block A	Robbery	Morning	Knife	0	29.80792558	72.0719458
+15/09/2023	Residential Block A	Vandalism	Evening	None	0	29.51325566	71.89288779
+19/04/2024	Industrial Area	Vehicle Theft	Night	Gun	0	29.90047465	71.93858417
+05/11/2024	Market Area	Fraud	Evening	None	1	29.82164411	71.82912645
+21/11/2024	Residential Block B	Burglary	Morning	Blunt Object	1	29.91031974	71.91296984
+30/07/2024	Residential Block A	Vandalism	Night	Knife	1	29.98059528	72.05267532
+09/07/2024	North Zone	Fraud	Evening	Blunt Object	1	29.63698056	71.70729456
+29/10/2023	University Town	Vandalism	Evening	Gun	0	29.50911091	71.64722148
+04/02/2023	Residential Block B	Theft	Evening	Blunt Object	0	29.66827711	71.92786132
+27/08/2024	Residential Block B	Burglary	Night	Gun	0	29.92243766	71.61163597
+22/02/2024	University Town	Vandalism	Evening	Knife	1	29.63034726	71.84801873
+15/05/2024	North Zone	Assault	Evening	Gun	1	29.6741683	72.06832408
+11/01/2024	Market Area	Fraud	Evening	None	0	29.86753552	72.00174047
+06/11/2024	Downtown	Robbery	Night	Blunt Object	0	29.58871977	71.97530738
+11/07/2023	Residential Block A	Burglary	Night	Blunt Object	0	29.78796229	71.96582388
+01/07/2024	Downtown	Assault	Afternoon	Blunt Object	0	29.68600904	71.98820648
+25/10/2024	Industrial Area	Fraud	Evening	Blunt Object	1	29.9335583	71.88093335
+04/01/2024	University Town	Fraud	Evening	Gun	1	29.83992239	71.96995438
+30/09/2023	Industrial Area	Assault	Evening	Knife	0	29.76716374	71.8482806
+29/12/2024	Residential Block A	Robbery	Evening	None	0	29.6600248	72.04776161
+26/06/2023	North Zone	Robbery	Night	Gun	1	29.52674265	72.07927075
+17/03/2023	Downtown	Vandalism	Afternoon	Gun	0	29.6774526	72.07840044
+19/01/2024	Industrial Area	Robbery	Evening	None	0	29.74126047	71.84651283
+24/05/2023	Industrial Area	Theft	Morning	Gun	0	29.72422276	71.74660539
+25/01/2023	Residential Block A	Vandalism	Night	None	0	29.77685153	71.70636395
+18/07/2024	Market Area	Assault	Night	Blunt Object	1	29.89578952	71.99480907
+19/04/2023	Industrial Area	Robbery	Morning	Gun	1	29.96546455	72.0871241
+02/02/2024	Downtown	Vandalism	Morning	Blunt Object	1	29.77476444	71.82076525
+03/08/2023	Downtown	Vehicle Theft	Morning	Knife	0	29.77295789	71.95291574
+10/08/2024	Residential Block B	Vehicle Theft	Evening	None	0	29.84401501	72.01848194
+10/09/2023	Downtown	Vehicle Theft	Night	Knife	1	29.91924038	71.81304574
+17/06/2023	University Town	Burglary	Evening	Blunt Object	1	29.5363815	72.01093003
+25/09/2024	Market Area	Vehicle Theft	Morning	None	0	29.57330241	71.85666308
+26/02/2024	Residential Block A	Robbery	Evening	None	0	29.99331979	71.7871354
+08/12/2023	North Zone	Robbery	Morning	Knife	0	29.90639978	72.07362429
+05/08/2023	University Town	Burglary	Night	Gun	0	29.79594437	71.77510912
+09/09/2023	North Zone	Assault	Evening	Blunt Object	0	29.54175036	71.98857346
+01/07/2023	Residential Block A	Robbery	Evening	Knife	1	29.85254218	71.72436208
+14/06/2024	Downtown	Vehicle Theft	Afternoon	Knife	1	29.55559874	71.84631255
+14/10/2024	Residential Block B	Robbery	Morning	None	0	29.70260104	71.88573651
+21/10/2024	Residential Block B	Assault	Evening	Blunt Object	0	29.55940896	71.65876312
+27/12/2023	University Town	Fraud	Evening	Blunt Object	1	29.87210583	71.94051971
+14/12/2023	Market Area	Vehicle Theft	Night	Blunt Object	0	29.98108627	71.78743529
+04/01/2024	Market Area	Theft	Night	Gun	1	29.54144566	71.86418506
+27/04/2023	Downtown	Theft	Afternoon	None	1	29.98161127	71.60607724
+02/11/2024	Market Area	Theft	Afternoon	Blunt Object	1	29.77800252	71.76134319
+21/03/2023	Industrial Area	Robbery	Night	Blunt Object	0	29.76385055	72.0964824
+17/08/2023	University Town	Assault	Night	Gun	1	29.62649508	71.94770556
+16/03/2024	Residential Block A	Theft	Afternoon	Gun	1	29.76154892	71.91469932
+09/06/2024	Residential Block A	Burglary	Evening	Blunt Object	0	29.64724697	72.09791569
+19/07/2024	University Town	Theft	Evening	Gun	1	29.79215716	72.05057901
+12/01/2023	Downtown	Vandalism	Night	None	1	29.9793512	71.62893195
+24/12/2023	University Town	Theft	Afternoon	Gun	1	29.72782838	71.9100663
+08/01/2023	Residential Block A	Burglary	Morning	Knife	1	29.58483995	71.92342418
+09/10/2024	Market Area	Robbery	Evening	Blunt Object	1	29.67667611	71.89182806
+10/02/2023	Downtown	Theft	Afternoon	Knife	1	29.62997493	71.82662042
+25/05/2023	Market Area	Theft	Night	None	0	29.63988175	71.80560336
+05/04/2024	Residential Block B	Theft	Night	None	0	29.84236559	71.68130847
+11/07/2024	University Town	Fraud	Evening	Gun	1	29.53810019	72.07026591
+13/09/2023	Residential Block B	Burglary	Night	Knife	1	29.79058131	72.05958828
+10/01/2023	Market Area	Robbery	Night	Knife	0	29.96636424	72.03303194
+05/01/2023	Residential Block B	Theft	Evening	Blunt Object	1	29.51318349	71.78823168
+06/03/2023	Residential Block B	Vehicle Theft	Evening	None	1	29.74018504	72.09264303
+09/10/2023	Residential Block A	Assault	Night	Knife	1	29.69044543	72.0849572
+19/11/2024	Market Area	Burglary	Evening	Gun	1	29.91916435	71.83434658
+09/04/2023	University Town	Assault	Afternoon	Knife	1	29.56692606	71.60683598
+01/06/2024	North Zone	Vandalism	Night	None	1	29.8458572	71.86717314
+06/10/2024	Residential Block A	Burglary	Night	Blunt Object	0	29.99831842	71.87771585
+18/07/2024	University Town	Theft	Afternoon	Gun	0	29.97238286	72.0248237
+25/05/2023	Residential Block B	Vandalism	Night	None	1	29.62054242	71.70252266
+01/01/2023	Downtown	Fraud	Afternoon	Blunt Object	0	29.97702551	71.90308732
+21/03/2024	Downtown	Burglary	Evening	Gun	1	29.93911033	71.97849957
+03/02/2023	Residential Block A	Theft	Evening	Blunt Object	1	29.67908136	71.6567788
+03/06/2023	Residential Block A	Fraud	Night	None	0	29.74908259	71.83810535
+02/11/2023	North Zone	Fraud	Evening	Knife	0	29.92609075	71.87595342
+24/01/2024	University Town	Theft	Morning	Blunt Object	0	29.54420411	71.99590892
+05/02/2024	Residential Block A	Assault	Morning	None	1	29.56700761	71.61439134
+26/07/2023	Residential Block B	Theft	Evening	Gun	1	29.89233413	71.91968068
+16/03/2023	University Town	Robbery	Afternoon	Blunt Object	0	29.60648208	71.66818574
+02/11/2023	North Zone	Robbery	Morning	Blunt Object	0	29.79495884	71.79612202
+10/03/2024	University Town	Vehicle Theft	Afternoon	Knife	1	29.95207935	71.77412773
+15/06/2023	Residential Block A	Assault	Night	Gun	0	29.72545522	72.05523564
+25/06/2024	Residential Block B	Burglary	Evening	Knife	0	29.81104335	72.03118185
+13/05/2023	University Town	Assault	Evening	Blunt Object	1	29.89823589	71.8296734
+05/02/2024	University Town	Vandalism	Evening	Knife	1	29.74605815	71.72912219
+10/03/2023	Residential Block B	Burglary	Morning	Knife	1	29.99001629	71.84630905
+24/07/2023	Market Area	Assault	Evening	Gun	0	29.6045654	71.88982497
+21/04/2023	Residential Block B	Fraud	Night	Gun	0	29.56443986	71.66402292
+05/04/2023	Market Area	Vandalism	Morning	Blunt Object	1	29.70015024	71.94883379
+26/12/2023	Residential Block B	Vandalism	Afternoon	Gun	0	29.84825073	71.80583061
+14/07/2023	Residential Block A	Robbery	Evening	Knife	0	29.75761803	72.08655517
+02/03/2023	Residential Block A	Fraud	Morning	Gun	1	29.59614451	71.62043431
+05/01/2023	Downtown	Vehicle Theft	Evening	Knife	0	29.67254131	71.77380961
+17/06/2024	Industrial Area	Assault	Night	Knife	0	29.54435127	71.66031794
+21/08/2023	North Zone	Vandalism	Evening	Gun	0	29.67799574	72.04710863
+19/03/2023	Industrial Area	Vandalism	Night	Gun	1	29.66504976	71.76079138
+06/09/2023	Residential Block B	Theft	Night	None	0	29.7405727	71.94389236
+25/02/2023	Residential Block B	Robbery	Night	Gun	0	29.93678931	72.0604362
+26/07/2024	Residential Block B	Burglary	Morning	Gun	0	29.50129751	72.03415055
+08/01/2023	University Town	Assault	Evening	Blunt Object	1	29.87412985	71.69226051
+19/12/2024	Downtown	Fraud	Afternoon	Blunt Object	0	29.76829532	72.06202088
+09/06/2024	Market Area	Vehicle Theft	Evening	Knife	0	29.80912739	71.78445682
+04/08/2023	Residential Block A	Vandalism	Night	Gun	1	29.86025803	71.63117068
+29/11/2024	Downtown	Robbery	Morning	None	1	29.62621847	71.95667479
+14/09/2024	University Town	Theft	Morning	Knife	0	29.92222034	71.97480812
+22/05/2024	University Town	Burglary	Evening	Blunt Object	0	29.55358601	71.82370618
+15/01/2023	University Town	Fraud	Morning	Blunt Object	1	29.55243458	71.9687026
+28/01/2023	Industrial Area	Theft	Evening	Knife	1	29.5100356	71.76103958
+19/08/2023	University Town	Robbery	Evening	None	1	29.54460216	71.86766778
+20/06/2024	Market Area	Fraud	Evening	None	1	29.94526364	71.89679623
+02/08/2024	Industrial Area	Robbery	Morning	Blunt Object	0	29.67755215	71.92441142
+26/05/2023	Residential Block A	Robbery	Morning	None	1	29.54346014	71.86855327
+03/02/2023	North Zone	Robbery	Afternoon	None	0	29.77887113	71.89326772
+17/08/2024	Market Area	Robbery	Afternoon	Gun	0	29.68938631	71.76872342
+22/11/2024	Residential Block B	Vehicle Theft	Morning	Gun	0	29.82295862	71.88538915
+11/11/2023	North Zone	Vehicle Theft	Evening	Knife	0	29.99325762	71.90288741
+16/10/2023	Residential Block A	Vandalism	Morning	Knife	0	29.50376718	71.7126664
+04/08/2024	Industrial Area	Vandalism	Afternoon	Gun	0	29.62297886	71.68034069
+21/03/2024	North Zone	Assault	Morning	Knife	1	29.64254758	71.6866868
+17/05/2023	Market Area	Theft	Morning	Blunt Object	1	29.54011687	71.86225569
+09/02/2023	Residential Block B	Assault	Morning	Blunt Object	0	29.84848073	72.09862777
+06/01/2023	Market Area	Theft	Evening	Blunt Object	0	29.6989278	72.08473522
+04/01/2023	Downtown	Burglary	Night	Blunt Object	0	29.50265	72.08753358
+28/08/2024	University Town	Fraud	Night	None	0	29.58544379	71.93432161
+16/03/2024	Industrial Area	Vehicle Theft	Afternoon	None	0	29.85922864	71.86751837
+26/01/2023	Industrial Area	Vehicle Theft	Evening	Blunt Object	1	29.63998955	71.98474647
+22/11/2023	University Town	Vehicle Theft	Night	None	0	29.98399703	71.95547624
+24/12/2024	Residential Block B	Fraud	Afternoon	Blunt Object	1	29.75380519	71.72120487
+12/07/2024	North Zone	Burglary	Evening	Blunt Object	1	29.85361505	71.98388975
+03/07/2024	University Town	Fraud	Morning	Gun	1	29.79061911	71.67718136
+16/09/2023	Industrial Area	Fraud	Evening	Gun	0	29.52591177	71.76830214
+10/01/2023	Residential Block A	Burglary	Morning	None	0	29.77430156	71.87446099
+13/01/2023	Downtown	Burglary	Morning	Gun	0	29.84228577	71.64393406
+15/11/2023	Market Area	Theft	Evening	None	1	29.84075136	71.98011393
+03/07/2024	Industrial Area	Vandalism	Night	None	1	29.70592046	71.77443413
+03/08/2024	Market Area	Assault	Evening	None	0	29.9153097	72.08251346
+30/11/2023	North Zone	Fraud	Night	Knife	0	29.96646903	72.09546474
+10/08/2024	Industrial Area	Vandalism	Evening	None	1	29.68961429	72.06322471
+16/11/2023	Market Area	Robbery	Night	None	1	29.78723656	72.02091439
+17/08/2023	Downtown	Robbery	Evening	Gun	1	29.60081366	71.68182797
+25/12/2024	Industrial Area	Theft	Afternoon	Knife	1	29.59320249	71.71784587
+19/03/2023	Downtown	Robbery	Morning	None	0	29.76153271	71.77941524
+11/02/2023	University Town	Burglary	Night	Gun	0	29.69622255	72.00829972
+22/10/2023	Industrial Area	Assault	Evening	None	0	29.85689123	72.04983372
+28/09/2024	North Zone	Robbery	Morning	None	1	29.65068894	71.97380469
+23/05/2023	University Town	Fraud	Night	Blunt Object	1	29.78874314	71.77768123
+17/05/2024	University Town	Assault	Afternoon	None	1	29.76592874	71.63330956
+14/04/2023	University Town	Theft	Evening	Blunt Object	1	29.812119	71.65844902
+07/10/2024	Downtown	Robbery	Night	None	0	29.66640789	71.96527457
+07/07/2024	North Zone	Assault	Afternoon	Knife	1	29.56963604	71.99701259
+30/10/2024	Industrial Area	Assault	Morning	None	1	29.74771181	71.97073046
+24/02/2024	Residential Block A	Burglary	Afternoon	Knife	1	29.99884631	71.97620156
+15/02/2024	Market Area	Fraud	Afternoon	Gun	0	29.87197315	71.61676622
+20/08/2024	University Town	Vandalism	Morning	Blunt Object	0	29.85703204	71.84699074
+28/04/2023	University Town	Theft	Evening	Blunt Object	1	29.91062865	71.65531587
+16/08/2023	Residential Block A	Fraud	Night	Gun	0	29.72850011	71.90197894
+15/01/2023	University Town	Theft	Evening	Knife	1	29.89864768	71.67495871
+16/02/2023	Residential Block B	Fraud	Evening	None	1	29.70447759	71.98594099
+15/02/2024	Residential Block B	Theft	Afternoon	Blunt Object	1	29.82057382	71.94697422
+19/10/2023	Market Area	Theft	Night	Gun	1	29.85808954	71.89951468
+21/10/2024	North Zone	Assault	Afternoon	None	0	29.59079886	72.05422528
+03/07/2024	Market Area	Vehicle Theft	Afternoon	Gun	1	29.61367549	71.81179843
+12/12/2023	Residential Block A	Vandalism	Afternoon	Knife	0	29.97364167	71.6766757
+21/05/2023	North Zone	Assault	Afternoon	Knife	0	29.5695581	71.6503973
+14/09/2024	Residential Block B	Vandalism	Morning	Knife	1	29.86304779	71.89648145
+22/12/2023	University Town	Vandalism	Night	Gun	1	29.95937526	71.99504232
+07/05/2023	North Zone	Burglary	Morning	Blunt Object	1	29.57626952	71.88814418
+13/01/2024	Residential Block A	Assault	Evening	None	1	29.53446077	71.63866053
+06/04/2024	Market Area	Theft	Evening	Blunt Object	1	29.96718351	72.06278426
+11/02/2024	Downtown	Theft	Evening	Gun	0	29.56140539	71.71795302
+12/12/2023	Residential Block A	Vandalism	Morning	Blunt Object	1	29.91944904	71.66233134
+01/01/2023	Market Area	Vehicle Theft	Morning	Blunt Object	0	29.93494818	71.85941903
+22/10/2024	Industrial Area	Vehicle Theft	Night	Knife	0	29.68965285	71.97212483
+21/07/2023	University Town	Theft	Evening	None	0	29.90142672	71.60231601
+28/07/2024	Downtown	Robbery	Night	Blunt Object	0	29.70725229	72.03175907
+21/01/2024	Industrial Area	Assault	Evening	Blunt Object	1	29.73285006	71.84041849
+13/12/2023	Residential Block B	Assault	Morning	Gun	0	29.72610897	71.71230241
+28/06/2023	Industrial Area	Theft	Night	Gun	1	29.62411322	71.88881598
+29/06/2023	Residential Block A	Vandalism	Afternoon	Gun	0	29.70946272	72.05742295
+26/06/2023	Market Area	Fraud	Afternoon	Gun	1	29.89024785	71.73879359
+27/10/2024	Residential Block A	Fraud	Night	Knife	0	29.50654723	71.93176869
+25/03/2023	Industrial Area	Vehicle Theft	Night	Gun	0	29.72949449	71.87865268
+08/12/2023	Residential Block A	Fraud	Morning	Blunt Object	1	29.54267483	72.09843713
+14/07/2024	Downtown	Assault	Evening	Knife	0	29.64979796	71.75496846
+03/08/2023	Industrial Area	Vandalism	Night	Knife	0	29.71339445	71.99989101
+14/11/2023	North Zone	Robbery	Morning	Gun	0	29.60256982	71.69534386
+04/03/2024	Market Area	Vandalism	Morning	Gun	0	29.68886297	72.01828241
+19/01/2023	Market Area	Burglary	Afternoon	Knife	0	29.53285432	71.98776381
+24/06/2023	Residential Block B	Fraud	Afternoon	Blunt Object	0	29.76382387	71.86722795
+23/04/2023	University Town	Assault	Afternoon	Blunt Object	1	29.70038153	71.87982017
+05/10/2024	Residential Block B	Fraud	Night	Knife	0	29.59096407	72.03089281
+04/10/2024	Industrial Area	Vandalism	Night	Knife	1	29.68665466	71.73537234
+11/06/2023	Residential Block A	Vehicle Theft	Night	Blunt Object	1	29.70436709	71.61269318
+20/04/2024	Residential Block B	Burglary	Night	Knife	0	29.91989443	72.03349688
+08/01/2023	Residential Block B	Vehicle Theft	Afternoon	Gun	0	29.513548	71.71098608
+18/03/2024	Residential Block A	Burglary	Evening	None	0	29.75275394	71.89752449
+27/08/2023	Industrial Area	Theft	Afternoon	Gun	1	29.78472176	72.04373024
+26/08/2024	Market Area	Robbery	Night	None	0	29.61909139	71.6497207
+06/04/2023	Residential Block B	Burglary	Evening	None	1	29.99436439	71.9015987
+05/05/2024	Downtown	Burglary	Evening	Knife	1	29.98132466	72.07220486
+01/07/2023	Downtown	Assault	Afternoon	None	1	29.60249215	71.74657387
+07/01/2023	Downtown	Vandalism	Evening	Knife	0	29.81662039	71.96795231
+26/03/2023	Downtown	Assault	Night	Knife	1	29.5132661	71.69071772
+01/07/2024	University Town	Vehicle Theft	Morning	None	0	29.82146278	71.95197307
+09/12/2024	Industrial Area	Robbery	Afternoon	Blunt Object	0	29.67090868	71.72971172
+21/01/2024	Residential Block B	Assault	Afternoon	Gun	0	29.68152961	71.61711406
+15/06/2024	Downtown	Robbery	Night	Blunt Object	0	29.81207445	71.80470583
+14/08/2023	Downtown	Vandalism	Night	None	0	29.93053401	71.70975526
+20/05/2024	Residential Block A	Robbery	Evening	Blunt Object	0	29.8818029	71.67005659
+14/12/2024	Market Area	Assault	Afternoon	Blunt Object	0	29.78288831	72.09268366
+27/12/2024	Residential Block A	Fraud	Morning	Gun	0	29.89992763	71.81260675
+25/04/2023	Market Area	Vehicle Theft	Morning	Blunt Object	1	29.75622883	71.97084347
+25/08/2023	Downtown	Fraud	Night	Gun	1	29.70127502	71.70901155
+05/10/2023	Residential Block A	Theft	Evening	None	1	29.91746512	72.09220109
+17/03/2024	North Zone	Fraud	Morning	Gun	0	29.95028615	71.94561093
+16/03/2023	Downtown	Assault	Evening	Knife	1	29.91129194	71.86483084
+11/02/2023	Residential Block A	Burglary	Afternoon	Knife	0	29.78825824	71.73702761
+17/01/2023	Residential Block A	Vandalism	Night	None	1	29.70262404	71.84873245
+10/08/2024	North Zone	Theft	Afternoon	None	1	29.60321064	71.60549791
+27/01/2023	Industrial Area	Vehicle Theft	Night	Blunt Object	1	29.95000932	72.03694504
+17/06/2023	Downtown	Vandalism	Afternoon	Gun	1	29.62536533	71.91654903
+30/03/2024	Residential Block B	Vandalism	Morning	Gun	1	29.78664719	72.01905348
+20/04/2024	Downtown	Vandalism	Evening	Blunt Object	1	29.88545569	71.81101803
+10/05/2023	Residential Block A	Burglary	Night	Gun	0	29.58314168	71.96901681
+23/11/2024	University Town	Fraud	Night	Gun	1	29.80157605	71.72267455
+29/05/2023	Residential Block B	Theft	Night	None	1	29.9185395	71.8185967
+06/11/2024	Market Area	Vandalism	Afternoon	Gun	1	29.85952295	71.74856086
+15/08/2023	Downtown	Theft	Evening	Gun	1	29.9746534	71.79832469
+25/10/2024	University Town	Vehicle Theft	Night	Knife	1	29.96841487	71.96628605
+16/10/2023	Industrial Area	Burglary	Morning	Gun	1	29.63495561	71.86992139
+11/04/2024	Industrial Area	Fraud	Morning	None	1	29.79753897	71.62571291
+21/05/2024	Industrial Area	Vehicle Theft	Afternoon	None	0	29.79842142	71.76712195
+03/06/2023	Residential Block B	Vehicle Theft	Night	None	0	29.73711865	71.77219187
+23/10/2023	Downtown	Robbery	Evening	Gun	1	29.86409438	71.84774566
+07/09/2024	Market Area	Theft	Afternoon	Blunt Object	1	29.71741367	71.72320102
+11/05/2023	Industrial Area	Burglary	Morning	Knife	1	29.53888267	71.6011697
+10/03/2024	University Town	Assault	Evening	Knife	0	29.63607257	71.89511533
+02/10/2023	Downtown	Fraud	Afternoon	Blunt Object	1	29.65729828	72.00371513
+17/01/2023	Market Area	Theft	Evening	Gun	1	29.97511868	71.82300289
+12/01/2023	North Zone	Vehicle Theft	Evening	Blunt Object	0	29.77095047	72.03647292
+22/10/2024	Downtown	Robbery	Morning	Blunt Object	0	29.87951792	71.96205166
+10/12/2024	Residential Block A	Burglary	Morning	Gun	1	29.9902884	72.05168191
+25/09/2023	Residential Block A	Theft	Evening	Gun	0	29.61060472	72.093834
+21/06/2024	Residential Block A	Fraud	Afternoon	Gun	0	29.51971341	71.95278759
+11/12/2024	Downtown	Robbery	Afternoon	Knife	1	29.99967675	71.87790329
+27/03/2023	Downtown	Assault	Evening	Blunt Object	0	29.95774415	71.61697299
+20/09/2024	Market Area	Theft	Morning	Gun	1	29.86551184	71.69629951
+12/05/2024	Residential Block A	Fraud	Night	Blunt Object	1	29.71088133	71.99767092
+11/08/2023	Residential Block B	Vehicle Theft	Morning	Knife	1	29.93102133	72.0222747
+06/02/2024	Residential Block A	Theft	Night	Blunt Object	1	29.76121729	71.92227333
+09/06/2024	North Zone	Vandalism	Afternoon	Knife	1	29.79813494	71.71500442
+07/07/2023	Market Area	Vandalism	Morning	None	0	29.74053094	72.04249918
+20/06/2023	Industrial Area	Robbery	Afternoon	Gun	0	29.66993748	71.96238339
+30/12/2023	Industrial Area	Vehicle Theft	Evening	None	1	29.78621388	72.00198849
+30/05/2024	North Zone	Fraud	Evening	Knife	1	29.89536158	71.75937625
+22/12/2024	Market Area	Vehicle Theft	Morning	Knife	0	29.76008405	71.81340853
+18/04/2023	North Zone	Fraud	Evening	None	0	29.61647974	71.61220039
+19/06/2023	Downtown	Theft	Evening	Knife	1	29.99517066	71.60011876
+21/05/2023	Market Area	Fraud	Morning	Blunt Object	1	29.69198194	72.06629495
+08/02/2023	Residential Block A	Assault	Night	Knife	1	29.50474272	71.62634192
+21/04/2024	Industrial Area	Burglary	Morning	None	0	29.51879839	71.83989066
+29/09/2023	University Town	Burglary	Night	Blunt Object	0	29.93683856	72.09204173
+23/09/2023	Industrial Area	Vehicle Theft	Afternoon	Gun	1	29.54584967	71.76818523
+06/12/2023	Residential Block A	Vandalism	Evening	Blunt Object	0	29.86879115	71.71938857
+03/01/2023	Residential Block B	Assault	Morning	Gun	0	29.73365538	71.74850144
+20/11/2023	University Town	Theft	Evening	Blunt Object	0	29.85777666	71.89455427
+07/03/2024	North Zone	Theft	Morning	Gun	1	29.50893697	72.09386119
+07/08/2024	Residential Block B	Vehicle Theft	Night	Knife	0	29.5547338	71.79581507
+20/05/2023	Residential Block B	Assault	Evening	Knife	0	29.97820785	71.99899466
+15/01/2024	University Town	Vehicle Theft	Night	Blunt Object	1	29.70879039	72.03955915
+29/10/2023	University Town	Theft	Morning	Blunt Object	1	29.80039922	72.05186198
+14/08/2023	North Zone	Robbery	Evening	None	0	29.58351697	72.09558431
+24/07/2024	Industrial Area	Burglary	Night	Gun	0	29.70079012	72.01891287
+06/11/2023	Residential Block B	Theft	Night	Knife	1	29.8038684	71.85634426
+26/11/2023	Residential Block A	Assault	Night	Gun	0	29.52347268	71.79204531
+20/05/2024	University Town	Theft	Afternoon	Gun	1	29.88979224	71.77506263
+23/02/2023	Downtown	Burglary	Night	Gun	0	29.98455132	72.04189294
+09/04/2023	North Zone	Theft	Night	Gun	1	29.79863704	71.86251575
+04/05/2024	Market Area	Assault	Afternoon	Knife	1	29.75762396	71.84559317
+25/05/2023	Market Area	Theft	Morning	None	0	29.57694795	72.00791656
+30/04/2023	Residential Block A	Assault	Night	Blunt Object	0	29.8739358	71.61743258
+02/08/2024	Market Area	Vehicle Theft	Afternoon	Gun	1	29.7900431	71.64574342
+08/09/2024	North Zone	Burglary	Evening	Gun	1	29.69558488	71.73647969
+24/06/2024	Residential Block A	Vehicle Theft	Evening	Blunt Object	0	29.94437404	72.07782575
+28/11/2023	Industrial Area	Assault	Morning	Blunt Object	1	29.51771118	71.76452568
+20/06/2024	Residential Block B	Fraud	Morning	Blunt Object	1	29.77542869	71.64349338
+04/05/2023	Residential Block A	Vandalism	Afternoon	None	1	29.68634426	71.72987689
+25/06/2023	North Zone	Vehicle Theft	Night	Knife	0	29.74793787	71.64052311
+12/11/2023	Downtown	Vehicle Theft	Morning	Knife	0	29.55473443	72.04723997
+15/08/2024	University Town	Assault	Night	Knife	1	29.53075851	72.04145313
+14/11/2023	Residential Block A	Robbery	Night	Blunt Object	0	29.79620389	72.01234048
+21/07/2024	Residential Block A	Robbery	Afternoon	Gun	1	29.83105601	71.87188945
+16/10/2023	Market Area	Burglary	Evening	Knife	1	29.93931499	71.99871301
+17/06/2023	Market Area	Assault	Evening	Gun	1	29.62264277	71.67867033
+11/11/2024	North Zone	Robbery	Evening	Gun	0	29.66700444	71.71934502
+23/11/2024	Industrial Area	Vandalism	Evening	Knife	1	29.84007039	71.90930569
+26/02/2024	Industrial Area	Burglary	Evening	Gun	1	29.59461077	72.04081857
+10/07/2024	Downtown	Vehicle Theft	Night	Blunt Object	1	29.93592176	71.61462364
+18/06/2024	Residential Block B	Vandalism	Afternoon	Gun	0	29.50257259	72.00997346
+12/03/2024	Industrial Area	Fraud	Morning	Gun	1	29.87175413	71.68037995
+22/12/2023	Residential Block A	Assault	Night	Knife	0	29.77809087	71.9783179
+07/06/2024	Residential Block B	Vehicle Theft	Evening	Gun	0	29.50319294	71.74351907
+15/02/2023	Downtown	Vehicle Theft	Afternoon	Knife	0	29.66321679	71.87992216
+26/12/2023	Residential Block A	Vehicle Theft	Afternoon	Knife	0	29.62990179	71.91700285
+31/12/2023	Downtown	Burglary	Evening	Blunt Object	0	29.8899227	71.65349032
+18/02/2024	Residential Block A	Vandalism	Afternoon	None	0	29.50921386	71.81612039
+16/02/2024	University Town	Fraud	Night	Blunt Object	0	29.81631095	72.06601405
+05/10/2023	Residential Block B	Assault	Evening	Gun	0	29.96861424	71.94394286
+30/08/2023	Residential Block B	Theft	Afternoon	None	0	29.97364894	71.68318879
+07/06/2024	University Town	Vandalism	Afternoon	None	1	29.5336753	71.89108523
+05/12/2024	Residential Block B	Burglary	Afternoon	Gun	0	29.52896023	71.63734721
+29/07/2023	Downtown	Assault	Morning	Gun	1	29.9357684	72.08674448
+12/10/2023	University Town	Fraud	Night	Knife	1	29.72297915	71.92378682
+16/01/2024	Industrial Area	Robbery	Morning	Gun	0	29.69180613	71.63281307
+02/02/2023	Residential Block A	Burglary	Evening	Knife	0	29.66180511	71.8443216
+03/04/2024	Residential Block A	Assault	Evening	Knife	0	29.84164769	71.82295135
+05/03/2024	Market Area	Vandalism	Night	Blunt Object	1	29.73426971	72.07215182
+09/04/2023	Downtown	Burglary	Morning	Knife	0	29.72569351	71.68181191
+06/06/2023	University Town	Assault	Afternoon	None	1	29.64918722	72.01997358
+17/11/2024	University Town	Robbery	Night	Gun	1	29.84024965	71.92725561
+22/06/2024	Industrial Area	Vehicle Theft	Morning	Gun	1	29.93402716	72.08161833
+15/03/2024	Residential Block A	Robbery	Morning	None	1	29.7161674	72.07180796
+25/03/2023	Industrial Area	Robbery	Night	Gun	0	29.6987972	71.7371076
+22/01/2024	Residential Block A	Assault	Evening	Knife	0	29.655976	71.76037137
+10/06/2024	North Zone	Burglary	Afternoon	Blunt Object	1	29.87291851	71.70017957
+07/06/2024	University Town	Fraud	Night	Knife	0	29.78137514	71.83576623
+22/06/2024	Residential Block A	Vandalism	Morning	Blunt Object	1	29.98409671	71.69276276
+18/10/2024	Downtown	Vehicle Theft	Morning	None	0	29.54558225	71.67682902
+27/01/2023	Market Area	Vehicle Theft	Afternoon	Knife	1	29.92239161	71.980512
+22/01/2024	Residential Block B	Vehicle Theft	Night	None	0	29.89839891	71.74708399
+19/06/2024	Residential Block A	Vehicle Theft	Night	None	1	29.96042392	71.90832516
+11/07/2024	Residential Block B	Theft	Night	Knife	1	29.73104865	71.60061592
+30/03/2024	University Town	Vehicle Theft	Morning	Blunt Object	1	29.5625929	71.94278264
+04/06/2024	Residential Block A	Theft	Night	Gun	0	29.60026236	71.84579727
+26/12/2024	Residential Block A	Robbery	Morning	None	1	29.7909857	71.7344967
+10/12/2023	Industrial Area	Fraud	Morning	None	0	29.71662337	72.0921757
+21/12/2024	University Town	Theft	Evening	Blunt Object	0	29.50581027	71.63622344
+16/11/2023	Residential Block B	Robbery	Night	Gun	1	29.69777254	72.08734993
+15/06/2023	University Town	Vandalism	Night	Blunt Object	0	29.64583129	71.94749094
+12/04/2023	Residential Block A	Fraud	Afternoon	Gun	0	29.95390933	71.96214265
+21/11/2024	North Zone	Vehicle Theft	Night	Knife	0	29.55246509	71.72102251
+15/02/2023	Residential Block B	Theft	Morning	Gun	1	29.57124777	71.84944408
+27/03/2023	Residential Block A	Fraud	Night	Blunt Object	0	29.60517479	71.77300828
+30/08/2023	North Zone	Burglary	Evening	Knife	1	29.66323065	71.85885582
+11/08/2024	North Zone	Fraud	Morning	None	1	29.53928925	71.79846164
+13/07/2023	Market Area	Vandalism	Morning	Knife	0	29.98873319	71.70042954
+02/05/2023	Downtown	Theft	Morning	Blunt Object	0	29.90029335	71.70007512
+03/03/2024	North Zone	Fraud	Morning	Blunt Object	1	29.55228392	71.91821512
+26/09/2024	North Zone	Vehicle Theft	Afternoon	None	0	29.51579307	72.06810612
+25/12/2023	Market Area	Assault	Afternoon	Gun	1	29.80647209	71.74941794
+16/12/2024	North Zone	Assault	Afternoon	Knife	1	29.93548456	71.95704347
+14/11/2023	Industrial Area	Assault	Morning	Knife	1	29.89171136	71.90612899
+18/01/2024	Market Area	Burglary	Morning	Gun	1	29.54005742	72.04740833
+25/01/2024	Residential Block B	Vehicle Theft	Evening	Blunt Object	1	29.90864888	71.82615914
+29/05/2024	North Zone	Assault	Night	Knife	1	29.52037705	71.68199974
+14/01/2023	North Zone	Vandalism	Afternoon	Gun	0	29.54081499	71.63017604
+28/03/2023	Residential Block B	Burglary	Morning	Blunt Object	1	29.82514709	71.83963946
+31/08/2023	Market Area	Vehicle Theft	Afternoon	Blunt Object	0	29.60960699	72.08793263
+22/12/2023	Industrial Area	Robbery	Evening	None	1	29.87213953	72.03591639
+05/11/2023	Residential Block B	Assault	Morning	Knife	0	29.82935389	71.84909786
+16/08/2024	Industrial Area	Burglary	Morning	None	0	29.51043057	71.92663151
+02/07/2024	Residential Block B	Vandalism	Afternoon	Blunt Object	0	29.99816696	72.08739658
+04/10/2024	Residential Block B	Assault	Evening	None	0	29.54076324	71.80163068
+20/03/2024	North Zone	Fraud	Morning	Blunt Object	0	29.5360992	71.61532625
+19/12/2023	Residential Block A	Vehicle Theft	Afternoon	Blunt Object	0	29.9202262	71.68709667
+25/12/2024	Market Area	Assault	Evening	Blunt Object	1	29.86358453	71.97135326
+08/02/2024	Market Area	Fraud	Evening	Gun	1	29.81438241	71.96767515
+17/01/2024	Industrial Area	Vehicle Theft	Night	Blunt Object	0	29.99382478	71.6200546
+19/11/2024	Residential Block B	Fraud	Night	Gun	0	29.75699793	71.89402919
+07/09/2023	Industrial Area	Assault	Night	None	0	29.86262883	71.84333447
+31/07/2024	Residential Block A	Robbery	Morning	Gun	1	29.79886178	71.99647805
+22/10/2023	Industrial Area	Robbery	Afternoon	Gun	0	29.6384139	71.89617516
+03/09/2023	University Town	Vehicle Theft	Afternoon	Blunt Object	1	29.67957551	71.79192358
+13/06/2024	Industrial Area	Vandalism	Night	Blunt Object	1	29.81578011	71.96655651
+03/06/2024	North Zone	Fraud	Evening	Knife	0	29.70265509	71.90092769
+25/10/2023	Residential Block A	Vehicle Theft	Night	Knife	0	29.61877166	72.08569755
+10/01/2024	Market Area	Theft	Morning	None	0	29.70651559	71.63456639
+06/07/2024	University Town	Robbery	Afternoon	None	0	29.62361554	72.03537495
+14/09/2024	Downtown	Robbery	Night	Gun	0	29.7964592	71.88970745
+25/03/2023	Market Area	Fraud	Night	Blunt Object	0	29.79647543	71.68176194
+28/01/2023	Downtown	Vehicle Theft	Night	None	0	29.62906672	71.92836833
+24/03/2024	Market Area	Fraud	Evening	Gun	0	29.88673656	71.66543683
+28/10/2023	Market Area	Vandalism	Night	Knife	0	29.61851393	71.71733702
+10/01/2023	Downtown	Vehicle Theft	Afternoon	Knife	0	29.53674837	71.68487895
+27/08/2024	Market Area	Vehicle Theft	Evening	Gun	1	29.66850159	72.01444168
+14/09/2023	Residential Block B	Burglary	Morning	Gun	1	29.72471692	71.89394219
+27/05/2024	University Town	Vehicle Theft	Afternoon	Knife	1	29.62626389	71.77962537
+11/10/2023	Residential Block A	Vandalism	Morning	None	0	29.51833571	71.96820101
+23/07/2023	University Town	Burglary	Night	Blunt Object	0	29.73731544	72.02208522
+09/07/2024	Residential Block A	Theft	Afternoon	None	1	29.72318432	72.03210809
+11/09/2024	Residential Block B	Burglary	Evening	None	0	29.76995292	71.61709388
+30/11/2023	North Zone	Robbery	Night	Gun	0	29.52854343	71.86558476
+20/01/2023	Downtown	Fraud	Evening	None	0	29.52584842	71.92000148
+04/02/2023	Residential Block B	Assault	Morning	Knife	0	29.72609951	72.06693751
+10/06/2023	Residential Block B	Vandalism	Night	None	1	29.7536174	71.62078643
+04/05/2024	North Zone	Vehicle Theft	Afternoon	Blunt Object	1	29.69868949	71.83994854
+08/09/2023	University Town	Vandalism	Afternoon	None	1	29.50246999	72.07590589
+02/11/2023	Downtown	Theft	Night	Knife	0	29.98654887	71.89005611
+03/07/2023	Industrial Area	Vehicle Theft	Night	Gun	0	29.75779801	71.84442329
+03/03/2024	Residential Block A	Assault	Night	Blunt Object	0	29.76612249	71.66287076
+29/09/2024	Industrial Area	Vehicle Theft	Night	Blunt Object	0	29.65396497	71.95234038
+10/01/2024	Residential Block A	Vehicle Theft	Night	None	1	29.58119095	71.69417454
+30/10/2024	Residential Block B	Robbery	Morning	None	1	29.72187511	72.03407113
+27/03/2023	North Zone	Burglary	Afternoon	Blunt Object	1	29.62765326	71.93081618
+29/04/2023	Industrial Area	Theft	Morning	None	1	29.97230711	71.94162401
+24/04/2023	University Town	Assault	Evening	None	0	29.62207365	72.0154386
+30/10/2023	Downtown	Robbery	Night	Blunt Object	1	29.78530487	71.61519353
+11/12/2023	Downtown	Theft	Morning	Gun	0	29.84476338	71.93825669
+27/05/2023	Market Area	Vehicle Theft	Evening	Blunt Object	0	29.97043768	72.01341944
+31/10/2023	Industrial Area	Burglary	Night	None	0	29.82561649	71.65329652
+08/08/2023	Market Area	Vehicle Theft	Afternoon	Blunt Object	0	29.57964372	71.90247696
+28/07/2024	North Zone	Assault	Evening	Gun	1	29.98858709	71.80345398
+18/11/2024	North Zone	Theft	Afternoon	Blunt Object	1	29.87621388	71.64524085
+08/06/2023	University Town	Assault	Night	None	1	29.8692246	72.03925778
+16/01/2024	Industrial Area	Robbery	Night	Knife	1	29.88259543	72.06283742
+19/01/2023	Downtown	Robbery	Evening	None	1	29.90392297	71.98114257
+06/10/2023	Industrial Area	Vandalism	Night	Gun	1	29.71779166	72.00891711
+10/12/2023	Industrial Area	Burglary	Afternoon	Gun	1	29.64843464	71.92453733
+25/12/2024	Market Area	Fraud	Afternoon	Blunt Object	1	29.66229291	71.78323077
+11/12/2024	North Zone	Burglary	Evening	Gun	1	29.78171946	71.79020985
+27/08/2024	Market Area	Vandalism	Afternoon	Gun	1	29.72434681	71.71877207
+11/05/2024	Industrial Area	Vandalism	Night	Gun	0	29.72220973	71.60733353
+24/09/2023	Market Area	Robbery	Afternoon	None	1	29.8017243	71.9341064
+03/01/2023	Residential Block A	Robbery	Night	Gun	0	29.77118183	72.07573928
+25/03/2024	Residential Block B	Vandalism	Night	Blunt Object	0	29.73959094	71.61282103
+03/06/2023	Residential Block A	Assault	Afternoon	Gun	0	29.55445917	71.67449593
+31/10/2023	Residential Block A	Burglary	Night	None	1	29.79008618	71.86680127
+12/02/2023	Market Area	Burglary	Night	Blunt Object	0	29.88244163	72.00649287
+12/05/2024	Residential Block B	Assault	Morning	None	0	29.85774545	71.86061707
+21/01/2023	Residential Block A	Fraud	Evening	Knife	0	29.59788899	71.60378144
+27/04/2023	Market Area	Fraud	Night	Gun	1	29.94901527	71.72174115
+15/12/2024	Downtown	Theft	Morning	Gun	0	29.69003725	71.69857706
+21/05/2023	Market Area	Fraud	Afternoon	Blunt Object	1	29.67581134	71.65071041
+08/01/2024	University Town	Burglary	Afternoon	Gun	0	29.64243645	71.75364498
+05/06/2023	University Town	Theft	Evening	Blunt Object	0	29.76958064	71.75565385
+24/02/2024	Downtown	Vandalism	Afternoon	Gun	1	29.85881789	71.7999526
+11/08/2024	Industrial Area	Burglary	Afternoon	Blunt Object	1	29.70677455	71.66094305
+03/04/2024	University Town	Theft	Night	Blunt Object	1	29.56161133	72.0297079
+08/02/2023	Downtown	Assault	Morning	None	0	29.76258169	71.95452313
+08/11/2023	Residential Block B	Assault	Morning	Knife	0	29.89670363	71.69261422
+05/02/2023	Market Area	Robbery	Afternoon	Gun	1	29.71226371	71.64351948
+20/01/2024	University Town	Robbery	Night	Knife	0	29.68675484	71.8632496
+12/07/2024	Residential Block A	Fraud	Night	Blunt Object	0	29.97570167	71.90080591
+28/04/2023	Residential Block A	Vehicle Theft	Afternoon	Blunt Object	1	29.75758759	71.89676928
+26/01/2023	University Town	Theft	Afternoon	Knife	1	29.60602242	71.90549049
+13/01/2024	Residential Block B	Fraud	Morning	None	0	29.68038626	72.05294555
+01/06/2023	Industrial Area	Assault	Afternoon	Blunt Object	0	29.67671069	71.71843528
+20/10/2023	Industrial Area	Fraud	Night	Gun	1	29.65103025	71.96597903
+03/09/2024	Market Area	Burglary	Morning	Gun	1	29.71186913	71.93377495
+26/05/2023	Residential Block B	Burglary	Afternoon	Gun	0	29.88332807	71.67485198
+14/03/2024	Residential Block A	Robbery	Evening	None	0	29.79330423	71.6840071
+27/04/2024	Industrial Area	Theft	Afternoon	Gun	0	29.93462981	71.83644598
+22/10/2024	Market Area	Burglary	Night	Knife	1	29.54785728	71.61181929
+16/10/2024	University Town	Robbery	Night	Knife	0	29.61512308	71.70309308
+06/06/2024	University Town	Assault	Afternoon	Knife	1	29.61597355	71.795453
+23/05/2024	Residential Block B	Burglary	Morning	Gun	0	29.52922731	71.6708872
+16/11/2023	University Town	Robbery	Afternoon	Blunt Object	1	29.56821988	71.94757228
+07/07/2024	University Town	Fraud	Night	Blunt Object	1	29.71409981	71.95879888
+03/04/2024	University Town	Robbery	Morning	None	0	29.995628	71.66419714
+14/06/2024	Industrial Area	Theft	Evening	Knife	1	29.80160971	71.76861357
+15/10/2023	North Zone	Vandalism	Night	Blunt Object	0	29.63708033	71.63970968
+19/12/2023	Market Area	Theft	Evening	Gun	0	29.79787536	71.80059396
+19/12/2023	Residential Block B	Fraud	Night	Knife	1	29.6133282	71.77749815
+08/12/2024	Downtown	Fraud	Afternoon	Gun	0	29.72120497	72.01593156
+31/05/2024	University Town	Assault	Evening	None	1	29.5349658	71.92008411
+18/08/2023	Residential Block B	Theft	Afternoon	Knife	1	29.796406	71.94006597
+16/01/2024	Residential Block B	Fraud	Night	Knife	0	29.72842932	71.69516243
+10/05/2023	Residential Block B	Robbery	Afternoon	None	1	29.99706968	71.93091959
+28/07/2023	Market Area	Assault	Afternoon	Gun	1	29.99774025	71.82317618
+26/04/2023	Industrial Area	Vehicle Theft	Evening	None	0	29.53007117	71.88114841
+01/07/2024	Residential Block B	Vandalism	Night	None	1	29.98083287	71.91748002
+30/10/2023	Residential Block B	Fraud	Afternoon	Knife	0	29.60046684	71.86791384
+21/03/2024	North Zone	Fraud	Evening	Knife	1	29.71134456	72.01090322
+12/01/2023	University Town	Robbery	Evening	Blunt Object	1	29.67378576	71.93245586
+29/05/2024	University Town	Theft	Morning	Blunt Object	1	29.96358891	71.71732104
+14/12/2023	Residential Block A	Assault	Night	Blunt Object	1	29.98708231	71.61001318
+05/09/2023	Market Area	Theft	Morning	Blunt Object	1	29.76997857	72.02101665
+29/05/2023	Residential Block B	Theft	Night	Knife	1	29.54646457	71.72852363
+31/03/2024	Residential Block B	Robbery	Night	Gun	1	29.87763521	71.66385674
+04/04/2024	Residential Block B	Assault	Evening	Knife	1	29.89101404	71.95437235
+15/10/2024	Residential Block B	Assault	Morning	None	0	29.55882451	71.71367865
+31/07/2024	Residential Block A	Vandalism	Night	None	0	29.69045476	71.77316088
+24/03/2024	Residential Block B	Robbery	Night	Blunt Object	0	29.65276216	71.79849076
+11/02/2024	University Town	Robbery	Afternoon	Gun	0	29.97119351	72.03666833
+19/09/2023	Residential Block B	Assault	Morning	Gun	1	29.95969599	71.84848174
+08/12/2023	Downtown	Assault	Afternoon	None	1	29.78328768	71.79552138
+12/01/2023	Residential Block A	Assault	Afternoon	Blunt Object	0	29.96529761	71.6581832
+16/08/2024	Residential Block A	Theft	Morning	Knife	1	29.81397503	71.9371519
+31/10/2024	Downtown	Robbery	Afternoon	Blunt Object	0	29.86071103	71.67063902
+07/01/2023	Downtown	Fraud	Evening	None	1	29.65233957	71.64045964
+09/02/2024	Residential Block A	Robbery	Night	None	0	29.51144691	71.67689557
+10/04/2024	University Town	Theft	Morning	None	1	29.97866144	71.88652071
+23/09/2023	Industrial Area	Assault	Afternoon	Blunt Object	0	29.91124028	71.66626234
+16/10/2023	Residential Block A	Fraud	Afternoon	None	0	29.9613786	71.84353096
+20/04/2023	Market Area	Fraud	Afternoon	Blunt Object	1	29.94913081	72.0146662
+11/03/2024	Residential Block A	Robbery	Afternoon	Blunt Object	1	29.75128304	71.79933151
+25/01/2023	Residential Block B	Robbery	Morning	None	0	29.83315344	71.66088096
+20/06/2024	Residential Block B	Theft	Night	Gun	1	29.61627568	71.6399827
+12/01/2023	Industrial Area	Vandalism	Afternoon	Knife	1	29.98291108	71.81624894
+14/10/2024	Residential Block A	Theft	Afternoon	Gun	0	29.96822459	72.0380526
+22/03/2024	Residential Block B	Vandalism	Evening	Knife	0	29.82041316	71.70801909
+11/09/2023	Residential Block A	Burglary	Evening	None	0	29.80127658	71.78239911
+14/10/2023	University Town	Burglary	Morning	Knife	1	29.53067481	71.99038079
+11/12/2023	Residential Block A	Vehicle Theft	Morning	None	1	29.5290819	72.09743316
+10/09/2023	Industrial Area	Robbery	Night	Blunt Object	1	29.80974888	71.74867752
+24/03/2023	Market Area	Fraud	Afternoon	Blunt Object	0	29.58533238	71.63731491
+05/06/2023	Downtown	Vehicle Theft	Morning	None	1	29.65163757	71.65052291
+21/03/2023	North Zone	Theft	Morning	Blunt Object	1	29.84580903	71.90902584
+06/09/2024	Residential Block A	Fraud	Night	Blunt Object	1	29.6144473	71.71632277
+15/01/2024	Downtown	Fraud	Afternoon	Gun	0	29.65312681	71.91194792
+04/05/2023	Industrial Area	Theft	Afternoon	Knife	1	29.92400794	71.96215873
+29/04/2024	University Town	Vehicle Theft	Morning	Gun	1	29.94330211	71.82489232
+27/04/2024	Residential Block A	Vandalism	Afternoon	None	0	29.68387968	71.80706488
+09/06/2024	Downtown	Burglary	Morning	Blunt Object	0	29.58844357	71.79353938
+06/10/2024	Industrial Area	Fraud	Afternoon	None	0	29.50551563	71.808077
+09/02/2024	Residential Block A	Robbery	Morning	Knife	1	29.50959614	71.7299066
+11/10/2024	Industrial Area	Vehicle Theft	Evening	Knife	1	29.84048741	71.69484742
+06/03/2023	North Zone	Fraud	Evening	None	0	29.6617502	72.01715168
+07/05/2024	Industrial Area	Vandalism	Night	Gun	0	29.98793688	72.00076856
+22/06/2023	Industrial Area	Fraud	Morning	Blunt Object	1	29.5213166	71.78570428
+11/05/2024	Market Area	Assault	Morning	Blunt Object	0	29.77397974	71.82718867
+04/11/2023	Industrial Area	Robbery	Evening	None	0	29.63300964	71.67461889
+24/05/2024	North Zone	Fraud	Morning	None	0	29.57502433	71.76233796
+16/08/2024	North Zone	Theft	Night	Gun	1	29.73800906	71.78794414
+11/03/2024	North Zone	Robbery	Morning	Blunt Object	0	29.92978262	71.79619686
+07/07/2024	Industrial Area	Robbery	Night	Gun	1	29.94604234	72.07766734
+17/01/2023	Residential Block B	Theft	Evening	None	0	29.82934607	72.07141557
+10/05/2023	North Zone	Robbery	Morning	Blunt Object	0	29.71880156	71.72733531
+10/01/2023	University Town	Vandalism	Evening	Gun	1	29.96515944	71.72652922
+20/08/2023	Downtown	Vehicle Theft	Night	None	1	29.73073873	71.91860074
+26/12/2024	North Zone	Assault	Evening	Knife	1	29.81833484	71.90696679
+22/06/2023	Industrial Area	Vehicle Theft	Night	Knife	0	29.5750845	71.96871688
+24/03/2024	North Zone	Theft	Night	None	0	29.72163654	71.62391541
+19/07/2023	Market Area	Assault	Morning	Gun	0	29.54239601	71.95816169
+12/09/2024	Residential Block B	Fraud	Night	Gun	0	29.90106528	71.65268377
+17/01/2023	North Zone	Vehicle Theft	Afternoon	Blunt Object	1	29.9782507	71.96875418
+01/01/2024	Downtown	Robbery	Evening	None	0	29.9957942	72.08537498
+30/07/2023	North Zone	Vandalism	Night	Gun	1	29.83068531	71.69259778
+05/05/2024	Residential Block A	Theft	Morning	Knife	1	29.70606547	71.87480802
+18/12/2023	Downtown	Vehicle Theft	Morning	Blunt Object	0	29.53435642	71.81214844
+14/09/2024	North Zone	Assault	Evening	Gun	1	29.54108583	72.08393002
+11/08/2023	Residential Block A	Vandalism	Evening	Gun	1	29.89124246	71.71392121
+25/11/2023	Industrial Area	Robbery	Morning	Knife	0	29.69096982	71.70284363
+14/07/2024	Residential Block B	Vandalism	Morning	Knife	0	29.62770674	71.73035665
+08/09/2024	North Zone	Burglary	Night	Gun	1	29.82195213	71.86515107
+09/07/2023	Downtown	Vehicle Theft	Evening	Knife	1	29.9479073	71.76110775
+06/11/2024	Industrial Area	Burglary	Evening	None	0	29.64641102	72.08998516
+09/01/2024	North Zone	Vandalism	Evening	None	0	29.74300775	72.06014859
+15/10/2023	Residential Block B	Vandalism	Evening	Knife	0	29.80824986	71.67831922
+05/06/2024	Residential Block A	Robbery	Evening	Blunt Object	0	29.66913375	72.06404182
+02/07/2023	Residential Block A	Assault	Evening	Knife	0	29.54750585	71.78799644
+04/05/2023	University Town	Vandalism	Night	Knife	0	29.6943264	71.6818419
+18/02/2024	University Town	Theft	Afternoon	None	0	29.96415877	71.93799114
+10/03/2024	Downtown	Vandalism	Afternoon	Knife	0	29.94346245	71.92290541
+02/05/2023	Residential Block B	Burglary	Evening	None	1	29.90797347	72.030685
+11/05/2024	Residential Block B	Theft	Morning	None	0	29.62921581	71.87200829
+29/05/2023	Residential Block A	Burglary	Afternoon	None	1	29.87752096	71.83026975
+29/10/2023	Downtown	Theft	Night	None	0	29.86424534	71.98822372
+24/08/2023	Market Area	Burglary	Night	Blunt Object	0	29.5269291	71.76002992
+23/10/2024	University Town	Fraud	Night	Knife	1	29.99233487	72.06869403
+10/04/2024	North Zone	Robbery	Evening	Gun	1	29.55397186	71.94264901
+11/03/2024	North Zone	Theft	Afternoon	Gun	1	29.90889266	71.70675568
+11/02/2024	University Town	Vehicle Theft	Night	None	0	29.92035151	71.96640077
+13/11/2024	Industrial Area	Burglary	Afternoon	Blunt Object	0	29.87909251	71.97171189
+29/05/2024	Residential Block A	Vandalism	Afternoon	None	1	29.64877423	71.882511
+17/02/2024	Residential Block B	Fraud	Evening	Blunt Object	1	29.54687846	71.88858639
+08/10/2023	Industrial Area	Vehicle Theft	Evening	Blunt Object	1	29.88056077	71.68003582
+28/12/2023	North Zone	Theft	Evening	Knife	0	29.77902116	72.00587611
+18/09/2023	Residential Block B	Vandalism	Evening	None	1	29.94072539	71.73895105
+27/04/2024	Market Area	Assault	Afternoon	Knife	0	29.70074716	72.00003548
+05/05/2024	North Zone	Fraud	Afternoon	Gun	0	29.65546447	71.97117403
+29/10/2023	Residential Block B	Robbery	Night	Gun	0	29.80799273	71.69401237
+22/04/2023	North Zone	Robbery	Evening	Gun	0	29.89189589	71.87711326
+20/08/2024	Residential Block A	Fraud	Evening	Knife	0	29.9240239	72.01998199
+12/01/2023	Residential Block B	Vandalism	Night	Gun	0	29.87286689	71.70124028
+22/02/2024	University Town	Theft	Morning	None	0	29.8793382	71.93918941
+11/03/2023	Market Area	Robbery	Morning	Blunt Object	0	29.93832538	72.09816717
+12/05/2023	Industrial Area	Vehicle Theft	Afternoon	Knife	1	29.69268794	71.92168259
+19/06/2024	Residential Block A	Robbery	Evening	None	0	29.60860455	71.66891145
+13/04/2024	North Zone	Vehicle Theft	Afternoon	None	1	29.50093994	71.68918629
+21/07/2023	Downtown	Assault	Night	None	1	29.80979467	71.77774651
+26/02/2023	Industrial Area	Assault	Afternoon	Knife	1	29.6938368	71.80116356
+05/08/2024	Residential Block B	Fraud	Night	Gun	0	29.74048644	71.92116276
+28/12/2024	Residential Block A	Vehicle Theft	Evening	Knife	0	29.55206868	71.71271938
+14/05/2024	University Town	Assault	Evening	Knife	0	29.78033005	71.90174383
+11/06/2023	Residential Block A	Theft	Night	None	0	29.79968448	71.90107282
+07/07/2023	Market Area	Assault	Afternoon	None	1	29.91252471	71.84912784
+30/07/2023	North Zone	Assault	Morning	Knife	1	29.52927546	71.76711916
+25/06/2024	Industrial Area	Robbery	Morning	Gun	1	29.9909846	71.704921
+04/12/2024	Downtown	Assault	Afternoon	Knife	0	29.76014829	71.7867313
+16/12/2023	Industrial Area	Assault	Morning	None	0	29.66409638	71.81700968
+26/05/2023	University Town	Burglary	Night	Knife	1	29.685711	71.63127111
+20/04/2024	University Town	Burglary	Evening	Blunt Object	0	29.86783156	72.09917376
+28/04/2023	Residential Block B	Burglary	Afternoon	Knife	1	29.8212826	71.81062403
+17/09/2023	Downtown	Vandalism	Morning	Gun	0	29.74808319	71.68912623
+03/02/2024	Industrial Area	Assault	Morning	None	1	29.70495244	72.01990114
+16/03/2023	North Zone	Burglary	Afternoon	None	0	29.86999319	72.07515638
+19/05/2024	Industrial Area	Vehicle Theft	Night	None	1	29.78277498	72.08982336
+10/09/2024	Residential Block A	Robbery	Night	Knife	0	29.51209588	72.01584852
+10/12/2024	Downtown	Assault	Afternoon	Knife	1	29.75903938	71.74936279
+01/03/2024	Residential Block A	Vehicle Theft	Evening	Gun	1	29.92636401	71.71277066
+03/08/2024	North Zone	Theft	Morning	Blunt Object	1	29.92096678	71.69305071
+18/02/2023	North Zone	Theft	Evening	None	1	29.7175902	72.06867665
+22/12/2023	Downtown	Assault	Night	Knife	0	29.56673999	71.64030076
+22/10/2023	Downtown	Robbery	Afternoon	Gun	0	29.74823058	71.81842535
+09/11/2023	University Town	Vandalism	Morning	Gun	1	29.5035146	71.62864013
+16/11/2024	University Town	Burglary	Evening	None	1	29.80511257	71.66767704
+26/06/2024	North Zone	Assault	Night	Gun	0	29.96131153	71.83603022
+25/12/2024	University Town	Theft	Evening	Blunt Object	1	29.53447901	71.62852736
+18/02/2024	Industrial Area	Robbery	Evening	None	0	29.51814381	71.73785993
+08/08/2023	Residential Block B	Fraud	Morning	None	1	29.8935633	72.08741733
+04/02/2024	Residential Block B	Vehicle Theft	Night	Knife	0	29.87969913	71.82486992
+24/07/2023	Residential Block B	Burglary	Night	Blunt Object	0	29.63406951	71.6781909
+16/08/2023	University Town	Assault	Morning	Blunt Object	0	29.5168068	71.6313266
+07/09/2023	Market Area	Vehicle Theft	Afternoon	None	1	29.78099642	71.77296022
+20/11/2024	North Zone	Robbery	Afternoon	Knife	0	29.7055478	71.77367166
+30/09/2024	Downtown	Burglary	Morning	Blunt Object	0	29.61839215	71.96622437
+22/07/2023	Residential Block B	Fraud	Afternoon	Gun	1	29.98169722	71.88008409
+18/07/2023	Residential Block A	Vandalism	Morning	None	1	29.69672392	72.01393419
+22/05/2023	Market Area	Burglary	Evening	Gun	1	29.86541048	72.09064855
+23/03/2023	Residential Block B	Theft	Night	None	1	29.57248254	71.96257786
+01/11/2023	North Zone	Robbery	Morning	None	0	29.73196624	72.08600266
+19/01/2024	Residential Block B	Assault	Evening	Blunt Object	1	29.98367809	71.69150772
+10/06/2023	University Town	Fraud	Night	Blunt Object	0	29.57562341	71.71265846
+04/05/2024	North Zone	Assault	Night	Knife	1	29.54442012	71.94187705
+16/10/2023	Downtown	Burglary	Evening	Knife	0	29.76169546	71.65738444
+20/12/2023	Residential Block A	Burglary	Evening	Gun	0	29.70198894	71.8712729
+27/02/2024	Industrial Area	Vandalism	Evening	Gun	1	29.85391755	71.87176911
+08/05/2024	Residential Block B	Burglary	Morning	Knife	0	29.72915032	71.84234814
+31/05/2024	Industrial Area	Fraud	Night	Gun	1	29.97284907	72.02498769
+07/03/2023	Residential Block A	Burglary	Morning	Knife	1	29.54878126	72.03099345
+10/03/2024	North Zone	Vandalism	Night	Blunt Object	1	29.82548673	71.87271593
+10/12/2023	Residential Block B	Theft	Afternoon	None	1	29.89348507	71.65596796
+24/07/2024	Residential Block A	Vehicle Theft	Night	Knife	0	29.72961994	71.62597829
+14/07/2024	North Zone	Robbery	Afternoon	None	0	29.60068189	71.72931042
+15/06/2024	Downtown	Burglary	Morning	Gun	0	29.77242388	71.97921251
+02/08/2023	Industrial Area	Assault	Night	Blunt Object	0	29.50897284	71.66312689
+20/03/2023	Residential Block A	Theft	Afternoon	Gun	1	29.93979093	72.03528921
+16/01/2024	Market Area	Burglary	Afternoon	Blunt Object	1	29.72561967	72.09249483
+26/01/2023	Industrial Area	Robbery	Evening	None	1	29.77899037	71.87625681
+11/09/2023	Downtown	Burglary	Morning	Knife	0	29.6718316	71.74121545
+07/07/2024	Residential Block B	Robbery	Afternoon	Knife	1	29.74890625	71.65273685
+11/03/2024	Residential Block A	Burglary	Morning	None	1	29.72584841	71.7986907
+02/03/2024	North Zone	Fraud	Afternoon	None	0	29.88780593	72.08223833
+18/05/2024	Industrial Area	Vehicle Theft	Evening	Gun	1	29.59336165	71.64701805
+22/05/2024	University Town	Vandalism	Evening	Blunt Object	1	29.89642721	71.88879668
+19/08/2024	North Zone	Burglary	Evening	Blunt Object	0	29.65617455	71.92133733
+26/08/2023	Downtown	Vehicle Theft	Evening	Gun	1	29.76651443	71.67897741
+12/04/2024	Residential Block A	Theft	Night	None	1	29.7789101	71.68301716
+22/01/2024	Industrial Area	Fraud	Evening	Gun	1	29.68155037	72.04859317
+09/02/2023	Residential Block A	Fraud	Evening	Knife	0	29.75352555	71.89905631
+03/06/2024	Market Area	Vandalism	Afternoon	None	1	29.94699486	71.92714628
+10/09/2024	Residential Block A	Assault	Afternoon	None	1	29.656581	71.99929664
+01/01/2024	Industrial Area	Assault	Night	Blunt Object	1	29.54173204	72.04120818
+07/06/2024	Residential Block A	Theft	Afternoon	Gun	0	29.86986517	71.75983342
+09/05/2023	Residential Block A	Vehicle Theft	Night	Gun	1	29.70888049	72.09205516
+16/06/2024	Residential Block B	Robbery	Afternoon	Gun	0	29.86259277	71.7615056
+12/04/2023	University Town	Robbery	Evening	Knife	1	29.98989123	71.92806701
+01/10/2024	Residential Block A	Theft	Afternoon	Gun	0	29.50630376	71.87987784
+19/12/2023	Residential Block A	Vandalism	Evening	Blunt Object	1	29.51468208	72.01147922
+27/10/2024	Industrial Area	Assault	Evening	Blunt Object	0	29.53970329	71.96574825
+01/12/2024	University Town	Theft	Morning	Blunt Object	0	29.66842025	71.74824489
+30/04/2024	Market Area	Theft	Night	Gun	1	29.77039688	71.9551214
+12/01/2024	Downtown	Vandalism	Afternoon	Knife	0	29.73558395	72.01081845
+01/04/2024	Industrial Area	Burglary	Night	Knife	1	29.67889913	71.84710622
+11/05/2023	Residential Block B	Fraud	Afternoon	None	1	29.93991096	71.86271746
+04/10/2023	Industrial Area	Fraud	Afternoon	Gun	0	29.5564716	71.64358973
+21/02/2024	Downtown	Burglary	Evening	Knife	0	29.61993706	71.67098599
+10/02/2023	Market Area	Vandalism	Afternoon	Blunt Object	0	29.86983565	71.69563021
+16/03/2023	North Zone	Vehicle Theft	Night	Blunt Object	1	29.82557379	71.91046428
+23/10/2024	University Town	Burglary	Night	None	0	29.86903456	72.00309794
+16/10/2023	Market Area	Robbery	Evening	None	1	29.56313237	71.93808878
+07/03/2023	Residential Block B	Vandalism	Afternoon	None	0	29.65745979	71.60190857
+16/02/2023	Residential Block A	Fraud	Afternoon	Knife	1	29.58744072	72.02786863
+04/05/2023	Industrial Area	Robbery	Morning	Blunt Object	1	29.99587131	71.63633544
+01/10/2024	North Zone	Theft	Morning	Gun	1	29.82144096	71.94707529
+23/05/2023	University Town	Fraud	Evening	Blunt Object	0	29.60632219	71.61659468
+20/09/2024	Industrial Area	Burglary	Evening	Knife	0	29.70415317	71.97962437
+04/04/2024	Residential Block B	Burglary	Morning	Knife	0	29.61638157	72.00369802
+26/07/2023	Residential Block A	Robbery	Afternoon	None	0	29.63014343	72.05359752
+08/09/2023	Downtown	Assault	Morning	Blunt Object	1	29.5000942	71.68454054
+20/12/2023	Residential Block B	Vehicle Theft	Morning	None	0	29.72352777	71.83017914
+03/09/2024	Residential Block A	Vandalism	Morning	None	0	29.69080597	71.66442436
+20/10/2024	University Town	Burglary	Night	None	1	29.98840016	71.6553603
+18/08/2024	University Town	Fraud	Afternoon	Knife	0	29.50900004	71.81072202
+27/09/2023	Industrial Area	Burglary	Morning	Gun	0	29.95903828	71.74001866
+24/03/2023	University Town	Vandalism	Morning	None	1	29.98638816	72.01301953
+02/10/2023	Downtown	Vandalism	Morning	Blunt Object	0	29.90245339	71.60900328
+23/11/2023	Market Area	Robbery	Evening	Knife	1	29.81067225	71.8795924
+27/09/2024	Residential Block A	Burglary	Evening	Knife	0	29.91469733	71.7407606
+02/02/2024	Market Area	Burglary	Afternoon	Blunt Object	1	29.60922159	71.66012361
+06/11/2024	North Zone	Theft	Morning	None	0	29.54826724	71.72094691
+16/11/2023	Residential Block B	Vehicle Theft	Night	Knife	0	29.78358539	71.74191422
+15/10/2024	Residential Block B	Vehicle Theft	Morning	None	1	29.79917874	71.7486189
+30/11/2023	Residential Block A	Robbery	Night	Gun	1	29.8715966	71.62407142
+09/03/2023	University Town	Theft	Morning	Knife	0	29.93861973	72.03863088
+28/09/2024	Residential Block B	Assault	Evening	Gun	1	29.79661079	72.04615125
+07/05/2023	Residential Block A	Theft	Morning	None	0	29.81308809	71.86565826
+03/03/2023	Residential Block B	Robbery	Afternoon	Gun	1	29.89728914	71.61733513
+04/02/2023	University Town	Vehicle Theft	Evening	None	1	29.63388834	71.99458042
+13/04/2024	Residential Block B	Assault	Afternoon	None	1	29.76072284	71.63182045
+03/10/2023	University Town	Burglary	Evening	Blunt Object	1	29.61011265	71.84418731
+20/07/2023	Residential Block B	Burglary	Afternoon	None	0	29.95481341	71.93460013
+26/04/2024	Residential Block A	Fraud	Morning	Knife	0	29.93948945	71.88588618
+28/10/2023	University Town	Vehicle Theft	Night	Blunt Object	0	29.84722523	71.64110353
+13/03/2024	Market Area	Burglary	Evening	None	0	29.71729798	71.98693983
+20/10/2024	University Town	Burglary	Morning	Blunt Object	1	29.94626164	71.82169001
+20/08/2023	Downtown	Theft	Evening	Gun	0	29.97405416	71.82262306
+19/05/2024	Residential Block A	Vandalism	Afternoon	Gun	0	29.85131689	71.71871673
+30/03/2024	University Town	Fraud	Afternoon	Blunt Object	1	29.56584672	71.71709222
+17/03/2023	Residential Block A	Fraud	Night	Knife	0	29.74383353	71.92611213
+13/07/2023	Downtown	Fraud	Afternoon	Blunt Object	1	29.63578438	71.83644857
+27/12/2023	Residential Block B	Robbery	Morning	Blunt Object	1	29.75313303	71.91705202
+19/09/2023	North Zone	Assault	Evening	None	0	29.94574001	71.60146052
+26/07/2024	Market Area	Fraud	Night	Blunt Object	0	29.73624668	71.62282437
+09/10/2024	Downtown	Burglary	Night	Blunt Object	0	29.61942833	71.83482089
+16/03/2024	Residential Block B	Burglary	Night	Gun	0	29.6656735	71.84102053
+28/02/2024	University Town	Fraud	Morning	None	1	29.73487188	71.82373407
+19/11/2024	University Town	Theft	Morning	None	1	29.75828631	71.6027529
+29/10/2023	Market Area	Vehicle Theft	Afternoon	Blunt Object	1	29.52474843	72.01665854
+08/02/2024	Industrial Area	Vandalism	Morning	Knife	1	29.55401288	71.76943032
+07/12/2023	Industrial Area	Vehicle Theft	Night	Gun	1	29.71926924	71.70925492
+09/09/2024	Downtown	Theft	Afternoon	None	1	29.64674441	72.06587686
+10/12/2023	Industrial Area	Vandalism	Evening	Gun	0	29.54354638	71.90853326
+24/07/2024	Downtown	Robbery	Night	Knife	1	29.75370597	72.03711126
+01/02/2024	Downtown	Assault	Afternoon	Knife	0	29.8377101	71.62242678
+29/11/2023	Residential Block B	Burglary	Afternoon	Blunt Object	0	29.96471335	71.68260197
+17/06/2023	Residential Block A	Assault	Morning	Blunt Object	0	29.71091409	71.80551054
+31/03/2024	Residential Block A	Vandalism	Morning	Blunt Object	1	29.8354715	71.72908663
+20/03/2024	Residential Block A	Vehicle Theft	Afternoon	Blunt Object	0	29.65468636	72.01189519
+13/04/2023	Market Area	Fraud	Morning	Blunt Object	1	29.97701656	71.96069673
+02/06/2023	Market Area	Vandalism	Afternoon	Knife	0	29.81820069	71.62556769
+06/03/2024	Downtown	Burglary	Evening	Blunt Object	1	29.52976235	71.90189773
+19/10/2024	Market Area	Fraud	Afternoon	Gun	1	29.55724382	71.79191944
+30/09/2024	Industrial Area	Assault	Night	Knife	0	29.83133226	71.6461424
+16/02/2024	University Town	Vehicle Theft	Evening	Gun	0	29.77479183	72.05016063
+28/11/2023	North Zone	Robbery	Evening	Gun	0	29.54009001	71.77738565
+15/04/2023	Residential Block A	Fraud	Afternoon	Gun	0	29.82322505	72.04401953
+23/09/2023	Residential Block B	Assault	Night	Blunt Object	1	29.7510768	71.66943566
+13/12/2024	Residential Block B	Burglary	Morning	None	0	29.80628673	72.0368493
+25/03/2023	University Town	Robbery	Morning	None	0	29.81893855	71.97049063
+27/08/2024	Industrial Area	Vandalism	Afternoon	Gun	1	29.53322192	71.86698374
+23/10/2023	North Zone	Vandalism	Morning	Gun	0	29.91000631	71.94744119
+25/09/2023	Residential Block B	Vehicle Theft	Morning	Gun	1	29.64752035	71.84300025
+23/12/2023	Downtown	Vehicle Theft	Afternoon	Blunt Object	0	29.56150165	71.8793212
+11/08/2023	Market Area	Vandalism	Evening	None	1	29.73330389	72.0083616
+21/10/2023	University Town	Burglary	Evening	None	0	29.92280218	71.94624641
+19/10/2024	Residential Block A	Assault	Afternoon	Blunt Object	0	29.70194893	71.63880732
+14/03/2023	Residential Block A	Fraud	Evening	Knife	0	29.65315675	71.99449258
+07/07/2023	Industrial Area	Burglary	Afternoon	None	0	29.61313955	71.79211981
+14/07/2023	North Zone	Fraud	Morning	Blunt Object	0	29.92878117	72.05831762
+04/03/2023	University Town	Assault	Evening	Knife	0	29.54943681	72.04482602
+02/11/2024	Market Area	Vandalism	Evening	None	1	29.68558621	71.90053708
+03/09/2024	University Town	Fraud	Afternoon	None	0	29.69648711	71.8629063
+17/10/2023	Industrial Area	Vehicle Theft	Morning	Gun	1	29.5834301	71.81526467
+15/07/2023	Residential Block B	Vehicle Theft	Evening	None	1	29.52238923	71.98095341
+12/07/2024	Market Area	Robbery	Afternoon	None	0	29.57722987	71.61272388
+19/03/2024	University Town	Vehicle Theft	Night	None	1	29.68945514	71.6033552
+23/04/2024	North Zone	Robbery	Evening	Gun	1	29.89586013	71.89799442
+29/07/2024	Industrial Area	Robbery	Night	None	0	29.80288962	71.78229686
+19/09/2024	Residential Block A	Assault	Night	Knife	0	29.79011076	71.87984422
+31/01/2023	Downtown	Fraud	Evening	Blunt Object	0	29.84413712	71.67027648
+11/01/2024	University Town	Assault	Evening	None	1	29.98872606	71.86595635
+10/07/2024	Market Area	Vandalism	Night	Blunt Object	0	29.69210336	71.61949801
+29/12/2023	Industrial Area	Fraud	Afternoon	Gun	0	29.69399338	71.68001247
+19/09/2023	Downtown	Robbery	Morning	None	0	29.87810681	71.8292615
+25/06/2024	Residential Block A	Fraud	Afternoon	Blunt Object	0	29.56502389	72.01774012
+02/07/2024	North Zone	Vehicle Theft	Night	None	0	29.97795941	71.75698336
+28/03/2023	Downtown	Burglary	Evening	None	0	29.72206386	72.09742899
+20/07/2023	Downtown	Theft	Afternoon	Gun	0	29.99200658	71.74420272
+06/03/2024	Market Area	Vandalism	Afternoon	Gun	1	29.57579215	71.61546882
+05/10/2023	University Town	Burglary	Night	Blunt Object	1	29.7707038	71.67707252
+01/11/2023	Downtown	Burglary	Morning	None	0	29.76612877	71.68416848
+14/01/2024	Residential Block B	Fraud	Morning	None	1	29.91927461	71.77809282
+20/12/2023	Market Area	Theft	Evening	Gun	0	29.62966745	71.69731192
+11/05/2024	Industrial Area	Vandalism	Night	Blunt Object	1	29.75372318	71.93869366
+16/06/2024	Residential Block B	Fraud	Morning	Blunt Object	0	29.98320869	71.87885441
+13/05/2024	Market Area	Robbery	Afternoon	Blunt Object	1	29.58262103	71.89149221
+28/09/2024	Residential Block A	Robbery	Evening	Gun	0	29.72202187	71.91311716
+19/05/2023	Market Area	Vandalism	Afternoon	None	0	29.6036545	71.99119416
+09/04/2023	Downtown	Vehicle Theft	Night	None	1	29.94015738	71.91170298
+25/10/2024	North Zone	Fraud	Evening	Knife	1	29.81033024	71.70065605
+03/06/2024	Residential Block A	Vandalism	Afternoon	Knife	0	29.51972977	71.83777302
+13/06/2023	North Zone	Vehicle Theft	Evening	Knife	0	29.9534714	71.66618619
+01/04/2023	North Zone	Fraud	Morning	Blunt Object	0	29.95472731	71.96107162
+15/11/2024	Industrial Area	Fraud	Morning	Gun	0	29.72923321	71.61899078
+30/01/2024	North Zone	Fraud	Night	Gun	1	29.77466124	71.62887053
+03/07/2023	North Zone	Fraud	Afternoon	None	1	29.63788378	72.03854529
+07/06/2024	Market Area	Theft	Afternoon	Gun	1	29.98480386	72.07455607
+27/10/2024	University Town	Assault	Evening	Knife	1	29.99049369	71.84170372
+04/08/2024	Residential Block B	Assault	Night	Knife	0	29.79436576	71.78766495
+12/04/2023	Industrial Area	Robbery	Afternoon	Blunt Object	1	29.76122207	71.88135585
+11/02/2024	Residential Block B	Assault	Afternoon	Gun	1	29.69327025	71.85563773
+13/05/2024	University Town	Burglary	Evening	Gun	1	29.78863951	72.03278857
+23/03/2023	Market Area	Theft	Afternoon	None	1	29.72172792	71.90105849
+31/12/2023	Residential Block B	Vandalism	Afternoon	Knife	1	29.73824169	72.09806147
+26/04/2023	Residential Block A	Fraud	Morning	None	0	29.50158392	71.92009916
+27/05/2023	Residential Block B	Vehicle Theft	Morning	Blunt Object	0	29.65594954	71.72802378
+13/01/2023	Downtown	Vehicle Theft	Evening	Blunt Object	0	29.98576652	71.71037274
+20/12/2024	Industrial Area	Burglary	Afternoon	Gun	0	29.8812982	72.0646287
+26/12/2024	University Town	Vehicle Theft	Morning	Blunt Object	1	29.86135348	71.94626622
+16/11/2023	Market Area	Theft	Afternoon	Knife	0	29.64969779	71.77935776
+13/07/2023	University Town	Robbery	Afternoon	Knife	1	29.66670366	71.96652559
+13/10/2023	Industrial Area	Theft	Afternoon	Blunt Object	0	29.97872401	71.60443164
+19/01/2023	Downtown	Assault	Evening	Knife	0	29.60032551	72.09732432
+02/05/2024	Residential Block A	Robbery	Evening	Blunt Object	1	29.6473097	71.60715764
+06/03/2023	University Town	Theft	Morning	Gun	0	29.6708912	71.91645317
+02/07/2024	Residential Block A	Vehicle Theft	Evening	Gun	0	29.50283291	72.06854551
+07/07/2023	University Town	Fraud	Night	Gun	0	29.82927026	71.98305797
+06/11/2024	Market Area	Assault	Night	Knife	1	29.85001714	71.65220206
+18/06/2024	Industrial Area	Vandalism	Evening	Blunt Object	1	29.7438139	71.63882467
+19/01/2024	Market Area	Theft	Afternoon	Blunt Object	0	29.84370318	71.61224922
+16/03/2023	North Zone	Theft	Evening	Knife	0	29.67441027	71.65549905
+07/07/2023	North Zone	Robbery	Evening	None	0	29.78852033	71.94887814
+14/02/2023	University Town	Vandalism	Evening	None	1	29.9775576	71.8612883
+11/06/2024	Residential Block A	Burglary	Night	Knife	0	29.84087432	71.65646582
+11/06/2023	Residential Block A	Vandalism	Night	None	0	29.89725777	71.95354324
+07/07/2023	Downtown	Robbery	Afternoon	Knife	0	29.57259826	71.95505503
+03/07/2023	Market Area	Robbery	Morning	Knife	1	29.64764525	71.71619216
+22/10/2023	North Zone	Vehicle Theft	Night	None	1	29.70065301	71.74625755
+23/09/2024	Downtown	Robbery	Night	Blunt Object	1	29.70255135	72.0530555
+19/08/2023	North Zone	Robbery	Night	Knife	0	29.73821849	71.7130145
+21/08/2023	Market Area	Fraud	Evening	Knife	1	29.60963698	71.61683459
+07/02/2024	University Town	Vehicle Theft	Morning	Knife	1	29.67890704	71.92390872
+26/12/2024	University Town	Robbery	Morning	None	0	29.59392143	71.95989573
+27/06/2024	Market Area	Vandalism	Night	Knife	0	29.72467487	71.89293239
+31/03/2024	North Zone	Burglary	Morning	None	0	29.77732867	71.91854542
+14/01/2023	University Town	Fraud	Afternoon	None	1	29.73158636	71.71732672
+22/02/2023	Market Area	Burglary	Evening	None	1	29.90197925	71.87625048
+03/12/2024	North Zone	Vandalism	Night	Blunt Object	1	29.55997685	72.05839585
+10/04/2024	Market Area	Vandalism	Morning	Blunt Object	0	29.70072282	71.67931207
+17/10/2023	Industrial Area	Burglary	Afternoon	None	1	29.56691418	71.91477885
+16/03/2023	Market Area	Vehicle Theft	Night	Gun	0	29.63577352	71.80122332
+16/03/2024	Downtown	Fraud	Morning	None	0	29.50006735	71.85556457
+03/06/2023	University Town	Fraud	Afternoon	Gun	1	29.85751936	71.89674288
+28/07/2023	Industrial Area	Theft	Afternoon	Blunt Object	1	29.53134481	72.01966925
+25/01/2024	Industrial Area	Vandalism	Night	Gun	1	29.62341193	71.97045203
+06/06/2023	Residential Block A	Burglary	Afternoon	Blunt Object	1	29.96544369	72.01335733
+10/09/2024	North Zone	Assault	Night	Gun	1	29.63519664	72.02135595
+03/03/2024	Market Area	Assault	Night	Knife	0	29.78590458	72.05359991
+21/05/2023	Residential Block A	Robbery	Night	Knife	0	29.71119226	71.78865683
+21/07/2024	North Zone	Vehicle Theft	Night	Gun	0	29.98203921	71.64464476
+28/11/2024	North Zone	Burglary	Morning	None	0	29.52114587	71.88231453
+29/12/2024	University Town	Vehicle Theft	Night	None	0	29.85192855	71.60218163
+23/01/2023	Industrial Area	Robbery	Evening	None	0	29.62711569	72.03775561
+11/04/2023	Residential Block A	Burglary	Night	Gun	0	29.98302375	71.9805189
+27/03/2024	Residential Block B	Vandalism	Afternoon	Blunt Object	1	29.85127025	71.7490261
+16/06/2024	Downtown	Robbery	Evening	Knife	0	29.7377033	71.91716987
+20/10/2023	Residential Block B	Vehicle Theft	Afternoon	Knife	0	29.52409301	71.78002523
+31/10/2023	Industrial Area	Robbery	Morning	Knife	0	29.69256006	72.03291008
+21/12/2023	Industrial Area	Vandalism	Night	Gun	1	29.7288498	71.70444136
+15/08/2023	University Town	Vehicle Theft	Afternoon	None	0	29.68490663	71.62617751
+13/01/2023	Downtown	Vehicle Theft	Evening	Gun	1	29.70825222	72.01108994
+31/01/2023	Residential Block B	Assault	Afternoon	Knife	1	29.85982691	71.78558081
+15/06/2023	University Town	Vehicle Theft	Morning	Gun	0	29.7361409	72.04007837
+10/04/2023	University Town	Vehicle Theft	Morning	None	1	29.8389066	71.90387606
+11/06/2023	Industrial Area	Theft	Evening	Gun	1	29.69736718	72.06540365
+01/10/2023	University Town	Vehicle Theft	Night	Knife	1	29.86854828	72.08729591
+29/05/2023	Residential Block B	Burglary	Night	None	1	29.84109694	71.83407707
+06/03/2023	Downtown	Assault	Morning	Blunt Object	0	29.9451075	71.7437048
+15/08/2023	Residential Block A	Fraud	Afternoon	Gun	1	29.83343333	72.01165471
+23/02/2023	Industrial Area	Vehicle Theft	Morning	Gun	0	29.75793095	71.73379634
+22/02/2023	Industrial Area	Theft	Night	Gun	0	29.84402222	71.72094444
+12/04/2023	Market Area	Robbery	Night	Gun	1	29.66867277	71.60966382
+02/02/2024	North Zone	Vehicle Theft	Evening	Knife	0	29.70682134	71.84643229
+21/04/2023	University Town	Fraud	Afternoon	Knife	0	29.66512139	72.05303294
+19/06/2024	Residential Block B	Assault	Afternoon	Knife	0	29.86242825	72.03882351
+13/01/2024	Residential Block B	Robbery	Evening	Knife	0	29.75951614	71.93877113
+29/04/2023	Downtown	Theft	Night	None	0	29.88699569	71.98646074
+14/04/2023	Residential Block B	Burglary	Evening	Gun	1	29.56575913	72.02856478
+16/05/2024	Market Area	Vandalism	Evening	Blunt Object	0	29.50847383	71.98507911
+04/11/2024	Residential Block B	Vehicle Theft	Evening	Blunt Object	0	29.5908696	71.81775381
+15/05/2024	Residential Block B	Vehicle Theft	Afternoon	None	1	29.67090185	71.96951328
+02/06/2024	University Town	Vehicle Theft	Morning	Gun	1	29.6740478	71.78586965
+11/06/2024	Residential Block B	Fraud	Afternoon	Blunt Object	0	29.78404626	71.93150367
+08/10/2024	Residential Block A	Vehicle Theft	Night	Gun	0	29.93962756	71.93779005
+09/06/2023	Downtown	Fraud	Afternoon	Blunt Object	0	29.9492803	71.99159921
+29/12/2024	Industrial Area	Assault	Evening	Knife	1	29.64557212	71.70354746
+28/02/2023	North Zone	Assault	Night	Gun	1	29.65145786	71.63284743
+03/05/2024	North Zone	Burglary	Night	Knife	1	29.96868922	71.9016459
+24/07/2023	Residential Block A	Vandalism	Evening	Gun	1	29.8737222	71.83690491
+06/08/2023	Industrial Area	Burglary	Afternoon	Knife	0	29.79110438	72.09510445
+22/09/2024	Residential Block B	Theft	Evening	Knife	1	29.89259477	72.09566395
+09/03/2024	Residential Block B	Burglary	Afternoon	Knife	0	29.82229559	71.88064677
+05/10/2023	University Town	Vandalism	Morning	Knife	1	29.68284037	71.71269063
+06/05/2024	University Town	Robbery	Evening	Blunt Object	1	29.80986729	72.04803756
+25/01/2023	Industrial Area	Vehicle Theft	Morning	Blunt Object	0	29.89066093	71.8891492
+24/09/2023	Residential Block A	Robbery	Morning	Knife	1	29.99082666	71.86363259
+09/03/2023	University Town	Vandalism	Morning	Blunt Object	1	29.69408285	71.93706515
+05/05/2024	Industrial Area	Assault	Evening	Gun	1	29.90493009	72.07369762
+12/04/2023	Downtown	Burglary	Morning	Gun	0	29.64525225	71.83499413
+12/07/2024	Market Area	Vehicle Theft	Afternoon	Gun	1	29.53031446	71.94499987
+05/01/2023	Industrial Area	Fraud	Night	Blunt Object	0	29.74865622	71.71512546
+05/09/2023	University Town	Vehicle Theft	Evening	Blunt Object	0	29.56713743	72.07896706
+15/01/2023	Residential Block B	Robbery	Evening	Blunt Object	1	29.67713388	72.0745356
+11/07/2024	Residential Block B	Theft	Morning	Knife	1	29.53811961	71.73735191
+20/08/2024	North Zone	Assault	Evening	Gun	1	29.88042717	71.87342982
+29/10/2023	Market Area	Fraud	Night	Gun	1	29.716408	71.62194997
+01/06/2024	Residential Block B	Vandalism	Evening	Blunt Object	1	29.72277082	71.70459273
+23/08/2023	North Zone	Robbery	Morning	Knife	0	29.83717449	71.66849953
+27/11/2023	Residential Block A	Assault	Morning	Knife	0	29.89657144	72.02689246
+29/10/2024	University Town	Theft	Morning	None	1	29.82955688	71.65444666
+02/08/2024	Market Area	Theft	Morning	Blunt Object	0	29.97571491	72.09740965
+29/11/2024	Downtown	Assault	Afternoon	None	1	29.99057187	71.88476989
+19/05/2023	Industrial Area	Robbery	Afternoon	Gun	1	29.72948174	72.0596937
+07/11/2023	Residential Block A	Robbery	Afternoon	Knife	0	29.60697852	71.60651478
+25/01/2024	Downtown	Fraud	Evening	Gun	1	29.59505382	71.99629756
+24/07/2024	University Town	Vandalism	Evening	Blunt Object	0	29.67752053	71.94915558
+02/09/2023	Residential Block A	Vehicle Theft	Afternoon	Blunt Object	1	29.9764484	72.08352634
+03/06/2024	Market Area	Fraud	Evening	Gun	1	29.58083572	71.83845005
+18/12/2023	Market Area	Robbery	Morning	Blunt Object	1	29.65499997	71.71601991
+02/03/2024	Industrial Area	Burglary	Evening	Knife	1	29.83330024	71.68134987
+22/08/2024	Downtown	Theft	Afternoon	Gun	1	29.88178953	72.02760349
+13/02/2023	University Town	Vehicle Theft	Morning	Blunt Object	1	29.50605156	71.60451923
+04/09/2024	Industrial Area	Theft	Night	Gun	0	29.68849277	71.87599515
+12/09/2023	Residential Block B	Theft	Evening	Knife	1	29.81718184	71.71103794
+18/11/2023	Market Area	Burglary	Night	Knife	0	29.75734181	72.00413772
+04/09/2024	Residential Block A	Fraud	Night	Blunt Object	0	29.62290372	71.8013822
+14/10/2024	Industrial Area	Theft	Night	Knife	1	29.50022139	72.05069155
+13/03/2024	Industrial Area	Fraud	Evening	Blunt Object	0	29.69891831	72.05976551
+13/05/2024	Residential Block B	Theft	Afternoon	Knife	1	29.74733759	71.85636012
+23/11/2023	Downtown	Fraud	Night	Blunt Object	1	29.68586203	71.79622909
+20/09/2024	Residential Block A	Vehicle Theft	Night	Knife	1	29.51630897	71.62885146
+25/12/2023	Downtown	Robbery	Morning	None	0	29.78856129	71.77856058
+01/10/2023	Downtown	Assault	Evening	Knife	1	29.99622114	71.79316159
+23/11/2024	Residential Block A	Theft	Afternoon	None	0	29.67928923	71.92831554
+24/04/2023	Downtown	Burglary	Afternoon	Gun	1	29.9511182	72.03867781
+08/02/2024	Industrial Area	Vandalism	Night	Gun	1	29.55090184	71.85297895
+15/12/2024	Residential Block A	Vandalism	Morning	Gun	0	29.87588609	71.7143472
+12/07/2023	Residential Block B	Vandalism	Afternoon	None	1	29.58761089	72.03338518
+02/08/2024	Residential Block B	Burglary	Morning	Blunt Object	0	29.79081115	71.81830709
+22/10/2024	North Zone	Vandalism	Evening	Blunt Object	0	29.75834919	71.97938813
+07/02/2024	Downtown	Vandalism	Afternoon	Blunt Object	1	29.57190718	71.81505144
+23/11/2023	North Zone	Fraud	Morning	Knife	1	29.92292478	71.80047088
+06/04/2024	Residential Block A	Vandalism	Morning	Knife	1	29.89018275	71.83816787
+03/02/2024	University Town	Fraud	Evening	Gun	0	29.77225288	71.70223044
+06/07/2024	Residential Block A	Fraud	Morning	None	1	29.64784734	71.89690124
+11/07/2024	University Town	Fraud	Evening	Knife	1	29.6035379	71.63557914
+28/09/2023	Downtown	Vandalism	Afternoon	None	0	29.93974829	71.8300012
+02/01/2024	Residential Block A	Burglary	Evening	None	0	29.90543929	72.01791296
+08/07/2023	Residential Block B	Assault	Morning	Blunt Object	0	29.86337461	71.98695311
+19/06/2024	Downtown	Theft	Night	Knife	1	29.82732534	71.67579754
+08/03/2024	Residential Block B	Theft	Afternoon	Knife	1	29.76954728	71.74123621
+06/10/2023	Downtown	Fraud	Evening	None	0	29.96550499	71.79591198
+30/06/2023	Industrial Area	Fraud	Afternoon	None	0	29.88277338	71.60000582
+30/11/2024	University Town	Robbery	Evening	Gun	1	29.76125509	71.62731721
+11/10/2024	Residential Block A	Robbery	Morning	Blunt Object	1	29.60028013	71.70178919
+26/03/2023	Residential Block A	Robbery	Evening	None	1	29.65197126	71.71520833
+21/11/2024	Residential Block A	Burglary	Evening	Blunt Object	0	29.52595047	71.69555935
+07/02/2023	Market Area	Robbery	Evening	Gun	1	29.86586237	71.9203178
+18/06/2023	Industrial Area	Vandalism	Afternoon	None	0	29.92421269	71.8113146
+02/11/2023	University Town	Assault	Evening	Gun	1	29.9480204	72.00901337
+22/04/2023	Downtown	Vandalism	Night	Knife	0	29.90838973	71.69080698
+17/01/2024	Market Area	Vandalism	Evening	Knife	1	29.66848236	72.09977196
+04/07/2024	Residential Block A	Theft	Night	Knife	1	29.61024422	71.98124144
+06/11/2023	Residential Block B	Vehicle Theft	Afternoon	Gun	1	29.79531892	71.93050713
+24/07/2024	University Town	Fraud	Evening	None	0	29.70723486	71.97691485
+01/02/2023	Market Area	Fraud	Morning	None	0	29.58366065	71.99031586
+04/06/2024	North Zone	Vandalism	Morning	Knife	0	29.63442337	71.91421702
+26/12/2024	University Town	Robbery	Morning	None	1	29.63266307	71.90077694
+11/03/2024	Residential Block A	Burglary	Evening	None	1	29.81607975	71.66497069
+12/04/2023	North Zone	Vehicle Theft	Morning	None	0	29.89036593	71.95424485
+16/07/2024	Residential Block A	Burglary	Morning	Blunt Object	0	29.68464039	72.06646243
+29/03/2023	Industrial Area	Vehicle Theft	Night	Gun	0	29.5795125	71.69009788
+27/02/2024	Residential Block B	Vehicle Theft	Evening	None	0	29.73085807	72.06049726
+11/02/2024	Residential Block B	Assault	Morning	Knife	0	29.56256263	72.02523581
+09/11/2023	Downtown	Fraud	Afternoon	Blunt Object	0	29.63703579	72.00353545
+21/04/2024	North Zone	Vehicle Theft	Afternoon	Knife	1	29.57108522	71.70669667
+06/12/2023	Residential Block A	Theft	Evening	Blunt Object	1	29.98926273	72.02826861
+28/07/2024	Downtown	Robbery	Afternoon	Blunt Object	1	29.88235957	71.93552764
+19/04/2023	Residential Block A	Robbery	Night	Gun	1	29.97354533	71.84812938
+18/04/2024	Market Area	Assault	Evening	Blunt Object	1	29.58151767	71.99310283
+08/05/2023	Residential Block B	Fraud	Evening	Knife	0	29.95328611	71.60803093
+12/02/2023	University Town	Vandalism	Evening	Gun	1	29.91949866	71.60570899
+27/09/2023	University Town	Burglary	Morning	None	1	29.92163905	71.64875716
+28/12/2024	Market Area	Theft	Afternoon	Gun	0	29.85243551	72.00856407
+17/06/2023	Industrial Area	Robbery	Afternoon	Gun	0	29.52583436	71.8523978
+10/10/2023	Residential Block B	Vandalism	Evening	Knife	0	29.74113218	71.65924618
+28/08/2023	Downtown	Burglary	Evening	Knife	0	29.90000174	71.87635354
+16/12/2024	Industrial Area	Assault	Afternoon	Knife	1	29.61336369	72.03967051
+30/03/2023	Residential Block B	Assault	Morning	Blunt Object	0	29.5786366	71.75489393
+31/05/2023	Residential Block A	Theft	Evening	Blunt Object	0	29.65827483	72.00820539
+09/11/2023	University Town	Vandalism	Morning	Gun	0	29.8983407	71.72523395
+10/01/2024	Residential Block A	Vandalism	Night	None	0	29.78587299	72.01641519
+17/08/2024	Residential Block B	Assault	Evening	Blunt Object	1	29.81399669	71.72375504
+04/05/2023	Residential Block B	Theft	Afternoon	None	1	29.59345722	71.60989783
+18/07/2024	Downtown	Assault	Morning	Gun	0	29.6533883	71.77647925
+05/02/2024	Industrial Area	Vehicle Theft	Afternoon	Knife	0	29.96749722	71.8152701
+10/03/2023	Residential Block A	Fraud	Night	Blunt Object	0	29.5341766	71.99187992
+14/11/2023	North Zone	Burglary	Evening	Blunt Object	0	29.54195977	71.7667313
+26/12/2024	North Zone	Assault	Morning	Blunt Object	0	29.66622808	71.62829283
+12/07/2024	Market Area	Burglary	Evening	None	1	29.69072052	72.09102477
+25/03/2023	Market Area	Burglary	Afternoon	Knife	1	29.83573957	71.91614108
+09/06/2024	Market Area	Robbery	Night	Blunt Object	0	29.89049795	71.99263441
+21/04/2024	Market Area	Vehicle Theft	Afternoon	Knife	0	29.55068645	71.73892639
+04/12/2023	Industrial Area	Vandalism	Night	Gun	0	29.97063622	72.05736556
+27/01/2024	Downtown	Fraud	Night	Blunt Object	1	29.53375127	71.8593505
+17/01/2023	Industrial Area	Robbery	Evening	Gun	0	29.55156068	71.87389235
+16/02/2024	Residential Block B	Assault	Afternoon	Gun	1	29.7018005	71.96894249
+18/04/2024	Market Area	Robbery	Night	None	0	29.79109162	71.70222029
+19/11/2024	North Zone	Fraud	Evening	Knife	0	29.69880619	71.73213813
+08/04/2023	Downtown	Fraud	Morning	Knife	0	29.74151985	71.73426688
+27/09/2024	Residential Block B	Vandalism	Evening	None	1	29.77480313	71.94488942
+03/06/2023	Residential Block A	Vandalism	Morning	Gun	1	29.8018186	71.63848973
+30/10/2024	University Town	Theft	Evening	Knife	0	29.9627611	71.63416705
+06/07/2024	North Zone	Vehicle Theft	Evening	Blunt Object	0	29.54603349	71.89952229
+18/08/2024	Residential Block A	Fraud	Morning	Blunt Object	0	29.54604763	71.87668951
+05/11/2023	Industrial Area	Robbery	Morning	Gun	0	29.50755534	72.08250768
+19/12/2024	Residential Block B	Fraud	Evening	None	1	29.78182999	71.82534324
+18/12/2023	Residential Block A	Theft	Morning	Blunt Object	1	29.80500371	71.7564537
+10/04/2023	Residential Block A	Vandalism	Evening	None	0	29.62476218	71.60100926
+27/03/2024	Industrial Area	Vandalism	Night	Knife	1	29.97336686	71.6529529
+23/09/2023	Market Area	Fraud	Morning	Gun	1	29.80612908	71.7065425
+13/07/2024	Residential Block B	Vehicle Theft	Morning	Knife	0	29.50334106	71.98615051
+01/09/2024	Market Area	Burglary	Morning	None	0	29.6867774	71.62524447
+24/03/2024	Market Area	Assault	Evening	Blunt Object	1	29.50769745	71.89146303
+17/05/2023	Residential Block A	Robbery	Morning	Gun	1	29.72512712	72.07879051
+24/02/2024	Industrial Area	Fraud	Evening	Knife	1	29.86286296	71.90862451
+19/09/2023	Residential Block B	Theft	Evening	Blunt Object	0	29.98850348	71.65094655
+05/01/2024	Market Area	Assault	Afternoon	Knife	1	29.87141249	71.76352232
+21/05/2024	University Town	Fraud	Afternoon	None	1	29.54215066	72.00359466
+02/01/2024	Market Area	Fraud	Afternoon	Blunt Object	0	29.62935582	71.81720166
+14/03/2023	Market Area	Robbery	Night	Gun	1	29.71919249	72.09813114
+12/02/2023	University Town	Vehicle Theft	Afternoon	Knife	0	29.81884412	71.72101104
+31/07/2023	Market Area	Vehicle Theft	Afternoon	Knife	1	29.60201233	71.92699705
+31/05/2023	Residential Block A	Fraud	Afternoon	Blunt Object	0	29.52500929	72.05576065
+28/07/2024	Residential Block A	Vehicle Theft	Afternoon	Gun	0	29.67798552	71.6079066
+26/10/2023	Market Area	Vehicle Theft	Morning	Knife	1	29.62377989	71.63126315
+02/03/2023	Residential Block B	Robbery	Morning	Gun	1	29.71238577	71.70767219
+10/06/2023	University Town	Assault	Night	Gun	0	29.83643583	71.64057459
+31/10/2023	Residential Block B	Robbery	Morning	Knife	0	29.66651744	72.04248215
+30/09/2024	Downtown	Vandalism	Evening	Knife	0	29.9114919	72.06635525
+11/08/2024	North Zone	Fraud	Morning	Gun	0	29.89338475	71.79872408
+25/08/2024	Residential Block A	Vandalism	Night	Knife	1	29.76072451	71.63422936
+04/05/2024	Residential Block A	Fraud	Evening	Knife	1	29.71374783	71.7031087
+10/09/2024	University Town	Burglary	Afternoon	Knife	0	29.76916597	71.73442676
+24/11/2024	North Zone	Theft	Night	None	1	29.92991192	71.61750396
+06/07/2023	University Town	Robbery	Afternoon	Knife	0	29.72717271	71.91512361
+29/12/2023	North Zone	Burglary	Night	Gun	1	29.81897713	72.01682157
+10/11/2024	North Zone	Burglary	Night	None	1	29.72127276	71.92466116
+02/07/2024	Residential Block A	Assault	Night	None	0	29.89199368	71.80969481
+04/03/2023	University Town	Burglary	Morning	Knife	1	29.64619156	71.82195973
+04/07/2023	Residential Block A	Theft	Night	None	0	29.60054936	71.89511633
+15/05/2023	Industrial Area	Burglary	Night	Gun	1	29.52808804	71.84554786
+26/07/2023	University Town	Robbery	Night	Gun	0	29.64051904	71.95648
+01/05/2023	Residential Block A	Vehicle Theft	Afternoon	Blunt Object	1	29.6301183	71.67974613
+06/10/2024	Downtown	Fraud	Morning	Knife	0	29.89326119	72.07126565
+30/08/2023	University Town	Burglary	Evening	Blunt Object	0	29.94084531	72.00706284
+18/08/2024	North Zone	Burglary	Afternoon	Blunt Object	0	29.72310061	72.00292227
+09/05/2023	Industrial Area	Assault	Afternoon	None	0	29.65490344	71.72497847
+08/11/2023	Downtown	Fraud	Night	Gun	0	29.77669009	71.72744112
+02/03/2023	Market Area	Fraud	Night	Knife	1	29.67689458	72.0142778
+02/06/2023	Market Area	Burglary	Morning	Knife	1	29.91405841	71.70803006
+20/07/2024	Market Area	Vandalism	Afternoon	Knife	0	29.97640751	71.76337127
+26/06/2023	North Zone	Vandalism	Morning	Blunt Object	1	29.75281708	72.07056041
+07/04/2023	Industrial Area	Fraud	Night	Gun	0	29.65930448	72.05177922
+06/01/2023	Downtown	Robbery	Afternoon	None	1	29.77668559	71.85156624
+23/10/2024	Downtown	Burglary	Night	Blunt Object	0	29.7607997	71.99724282
+28/03/2023	Market Area	Burglary	Afternoon	Knife	1	29.91895419	72.02938214
+18/02/2024	University Town	Burglary	Night	None	0	29.7196053	71.90527338
+12/10/2023	North Zone	Vehicle Theft	Evening	Knife	0	29.72959462	71.8055468
+02/11/2024	North Zone	Robbery	Morning	Gun	0	29.8469748	71.71479908
+14/02/2023	North Zone	Vandalism	Morning	Gun	1	29.58264225	71.60099607
+25/03/2024	Downtown	Theft	Morning	Blunt Object	0	29.76594454	71.9947161
+28/08/2024	North Zone	Fraud	Evening	Knife	1	29.5806814	71.64177717
+21/12/2024	Residential Block A	Vehicle Theft	Evening	None	0	29.70710046	71.96620693
+13/05/2024	Residential Block B	Assault	Evening	Gun	1	29.62076842	71.77713566
+25/04/2023	Residential Block B	Theft	Night	None	1	29.61118065	71.85961229
+23/06/2024	University Town	Robbery	Morning	Gun	1	29.65550125	71.68346554

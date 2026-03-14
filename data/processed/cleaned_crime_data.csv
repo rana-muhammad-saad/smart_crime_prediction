@@ -1,0 +1,1201 @@
+date,area,crime_type,time_of_day,weapon_used,arrest_made,latitude,longitude
+2023-04-13,Residential Block A,Theft,Morning,Gun,0,29.89827149,71.69171739
+2023-03-13,North Zone,Robbery,Morning,None,1,29.79932924,71.67800932
+2024-04-11,Downtown,Theft,Morning,Knife,0,29.54998746,71.82962445
+2024-01-08,Market Area,Vehicle Theft,Morning,Knife,1,29.80055751,71.95403629
+2024-10-23,North Zone,Burglary,Evening,None,0,29.52820579,71.96099939
+2024-02-18,Residential Block A,Burglary,Evening,Gun,0,29.60616956,71.69091248
+2023-10-04,North Zone,Vandalism,Evening,None,0,29.80874075,71.90582658
+2023-09-10,University Town,Theft,Evening,Gun,1,29.71597251,71.74561457
+2023-02-28,Residential Block B,Theft,Night,None,1,29.69993049,71.62333283
+2024-11-30,Downtown,Vehicle Theft,Evening,Gun,0,29.68318092,71.82803499
+2024-11-17,Residential Block A,Theft,Morning,Knife,1,29.809193,71.791231
+2023-09-01,Downtown,Vandalism,Afternoon,None,1,29.79620728,71.62322521
+2024-10-08,Industrial Area,Burglary,Evening,Knife,1,29.58526206,71.6325258
+2024-01-23,Industrial Area,Robbery,Evening,None,0,29.97110088,71.88164411
+2023-12-12,Market Area,Fraud,Afternoon,Knife,1,29.54883606,71.94211651
+2024-01-02,University Town,Assault,Afternoon,Gun,0,29.84163176,71.90499833
+2023-02-04,North Zone,Vandalism,Morning,Gun,1,29.9546602,71.72938999
+2024-01-23,Industrial Area,Theft,Afternoon,Gun,0,29.65585554,71.86003401
+2023-04-16,Residential Block A,Burglary,Night,Blunt Object,0,29.78385016,71.61565665
+2024-02-06,Industrial Area,Robbery,Afternoon,Gun,1,29.88756641,72.06974947
+2023-09-27,Market Area,Burglary,Evening,Knife,0,29.863636,71.76327038
+2024-04-06,Market Area,Burglary,Morning,None,0,29.59799143,71.62261364
+2023-10-23,North Zone,Fraud,Afternoon,Blunt Object,0,29.92226692,71.97366006
+2023-02-22,University Town,Burglary,Night,Gun,0,29.79337558,72.08262765
+2023-07-07,Residential Block A,Fraud,Morning,Gun,1,29.77134804,71.67046211
+2023-01-15,Downtown,Assault,Night,Knife,1,29.58263347,71.6078182
+2024-06-04,Downtown,Fraud,Evening,Knife,0,29.88612238,71.69935784
+2024-04-16,Residential Block B,Fraud,Evening,Knife,0,29.50703991,71.6994212
+2024-01-27,Industrial Area,Vandalism,Afternoon,None,1,29.86450358,71.98563517
+2024-05-04,University Town,Theft,Morning,Gun,1,29.67923286,71.65793453
+2023-05-15,North Zone,Theft,Afternoon,None,0,29.92501929,71.82472534
+2023-02-02,Residential Block A,Burglary,Morning,Knife,0,29.53177918,71.75549116
+2024-12-28,Residential Block A,Burglary,Afternoon,Gun,1,29.83296118,71.89564889
+2024-12-26,North Zone,Vehicle Theft,Afternoon,Gun,1,29.94360637,71.83610746
+2024-09-04,Residential Block A,Fraud,Evening,Blunt Object,1,29.98585605,72.02445691
+2023-01-05,Downtown,Robbery,Afternoon,None,1,29.7806386,71.98548359
+2024-01-28,Downtown,Vehicle Theft,Afternoon,Knife,0,29.85533144,71.65544541
+2024-04-05,Downtown,Fraud,Morning,Knife,0,29.6008596,72.0478818
+2023-08-29,Downtown,Vandalism,Evening,None,0,29.65717799,71.85428535
+2024-04-29,Industrial Area,Fraud,Night,Knife,0,29.62464611,71.80519146
+2023-06-20,Residential Block A,Vehicle Theft,Night,Knife,1,29.60153061,72.07142679
+2024-11-29,Residential Block B,Burglary,Afternoon,None,0,29.84739247,72.04023392
+2024-11-12,Residential Block A,Burglary,Evening,Blunt Object,1,29.90406019,71.91670188
+2024-10-07,University Town,Vandalism,Morning,None,0,29.72826729,71.70922022
+2023-12-06,University Town,Fraud,Evening,None,0,29.9462795,71.86967112
+2024-05-20,North Zone,Robbery,Night,Knife,1,29.56104398,71.77814892
+2023-07-09,North Zone,Assault,Night,Knife,0,29.55502596,71.71396758
+2024-09-24,University Town,Vandalism,Morning,None,0,29.90900738,72.03036529
+2023-12-25,Downtown,Vandalism,Afternoon,Knife,1,29.58232793,71.86704471
+2023-11-14,University Town,Burglary,Afternoon,Blunt Object,0,29.61105391,71.65993268
+2024-11-14,North Zone,Burglary,Morning,Blunt Object,1,29.62206276,71.68414552
+2024-11-02,Residential Block B,Vandalism,Night,Gun,1,29.75939531,71.95150948
+2023-04-23,Residential Block A,Fraud,Night,Knife,0,29.53244612,71.72695771
+2023-09-25,Industrial Area,Robbery,Morning,None,1,29.62589115,71.84862425
+2023-04-23,Downtown,Theft,Night,Knife,0,29.57404346,72.09887024
+2024-11-29,Market Area,Theft,Afternoon,None,0,29.80478217,71.85133951
+2024-07-19,Residential Block A,Vandalism,Afternoon,Blunt Object,0,29.51652537,71.77253562
+2024-01-20,Market Area,Robbery,Morning,None,1,29.61978095,71.67244744
+2024-11-14,Residential Block A,Vehicle Theft,Evening,Gun,0,29.72389158,71.87644654
+2023-09-04,Residential Block A,Fraud,Evening,Knife,1,29.83606777,71.98080981
+2023-05-03,University Town,Robbery,Evening,Blunt Object,1,29.62107997,72.00156988
+2024-09-01,Residential Block B,Theft,Morning,Blunt Object,0,29.81676486,71.86788734
+2023-05-24,Downtown,Vehicle Theft,Afternoon,Gun,0,29.91765125,71.76039003
+2023-11-22,Industrial Area,Theft,Afternoon,Gun,1,29.8479064,72.0291794
+2024-02-07,North Zone,Burglary,Evening,None,1,29.85557477,72.00475052
+2023-05-28,Residential Block A,Theft,Afternoon,Gun,0,29.8225864,71.68718321
+2024-10-01,Downtown,Fraud,Afternoon,Gun,1,29.75887568,72.01885505
+2024-04-17,Market Area,Robbery,Evening,Knife,1,29.60453581,71.87072399
+2023-10-25,Market Area,Burglary,Evening,None,0,29.62897081,71.92999202
+2023-12-12,Residential Block A,Burglary,Evening,None,0,29.99108417,71.85831795
+2023-01-02,Industrial Area,Vandalism,Afternoon,Gun,0,29.99812685,72.08270968
+2024-03-28,Residential Block A,Burglary,Night,None,0,29.95020903,71.91655073
+2023-01-09,Downtown,Fraud,Afternoon,None,1,29.63943568,71.95017891
+2023-07-27,Market Area,Vehicle Theft,Afternoon,Blunt Object,0,29.94855513,72.04354321
+2023-04-30,Downtown,Assault,Evening,None,1,29.94388505,72.02546422
+2024-09-16,North Zone,Fraud,Afternoon,None,1,29.58081436,72.04927709
+2023-09-11,Residential Block B,Vehicle Theft,Night,Knife,0,29.50459853,71.65073577
+2023-04-09,Residential Block B,Robbery,Afternoon,Blunt Object,0,29.98683192,71.74196049
+2023-12-04,North Zone,Fraud,Evening,Blunt Object,0,29.74280688,71.82421207
+2024-11-11,Industrial Area,Robbery,Morning,Blunt Object,0,29.58796263,71.60903768
+2024-02-02,Residential Block B,Burglary,Afternoon,Knife,1,29.66269985,71.9732457
+2024-01-27,Industrial Area,Assault,Afternoon,Knife,0,29.92461171,71.92880645
+2023-02-02,Residential Block A,Robbery,Night,Gun,1,29.77127012,71.85440704
+2024-04-14,Residential Block B,Theft,Evening,Gun,1,29.63260118,71.72199482
+2023-02-07,Residential Block A,Vandalism,Evening,None,0,29.98944643,71.84337108
+2023-10-10,Industrial Area,Robbery,Evening,None,0,29.71719718,71.7750392
+2024-08-31,Market Area,Burglary,Evening,Gun,1,29.78845194,71.84625885
+2024-03-28,Market Area,Vehicle Theft,Morning,Blunt Object,0,29.61509263,71.84959669
+2024-05-30,Industrial Area,Theft,Night,None,0,29.51215798,71.92273615
+2023-01-17,Industrial Area,Burglary,Morning,Gun,1,29.99727526,71.83497226
+2023-02-15,Residential Block A,Vandalism,Morning,Gun,1,29.9574322,71.78507935
+2023-02-06,Residential Block A,Burglary,Evening,Blunt Object,1,29.96415928,71.81409207
+2023-06-30,Market Area,Robbery,Afternoon,Blunt Object,1,29.78614623,72.09016579
+2023-04-26,Residential Block A,Fraud,Afternoon,Gun,1,29.64722445,71.79254886
+2023-06-10,Market Area,Vandalism,Morning,Gun,1,29.658461,71.68474637
+2024-07-19,North Zone,Burglary,Evening,Blunt Object,1,29.8480149,71.88503059
+2024-09-17,University Town,Fraud,Afternoon,Blunt Object,0,29.80750361,72.09502693
+2024-09-30,Residential Block A,Theft,Evening,Gun,0,29.75916483,72.03868654
+2023-04-14,Residential Block B,Vandalism,Afternoon,Gun,0,29.84850787,71.95124204
+2023-06-25,Residential Block B,Robbery,Afternoon,None,0,29.77640999,71.74825507
+2024-06-21,North Zone,Burglary,Morning,Blunt Object,1,29.9050567,72.03353616
+2024-06-08,Residential Block A,Vehicle Theft,Afternoon,Blunt Object,1,29.54079709,71.60259243
+2023-02-05,University Town,Robbery,Afternoon,None,0,29.89914759,71.92498197
+2024-05-26,Residential Block B,Burglary,Afternoon,Knife,1,29.69839191,71.62538427
+2024-04-15,Downtown,Vehicle Theft,Afternoon,None,1,29.51380839,71.88943245
+2024-12-27,North Zone,Vandalism,Night,Gun,1,29.83601307,71.76407633
+2024-11-28,Market Area,Vandalism,Night,Blunt Object,0,29.77132232,71.74327063
+2023-11-10,Residential Block A,Vandalism,Night,Blunt Object,1,29.93020231,71.72512568
+2024-11-12,Residential Block B,Robbery,Evening,Blunt Object,0,29.91130028,71.78009532
+2024-03-19,Industrial Area,Burglary,Morning,Gun,0,29.66332562,72.0139345
+2024-07-25,Industrial Area,Assault,Evening,None,0,29.60791051,71.91144524
+2023-07-15,North Zone,Robbery,Night,Knife,0,29.92101154,71.69719002
+2023-12-16,Downtown,Burglary,Night,Gun,1,29.77031756,71.91871495
+2024-10-17,University Town,Theft,Afternoon,Blunt Object,1,29.98792604,71.85815017
+2024-10-31,Residential Block B,Vehicle Theft,Morning,Blunt Object,1,29.52053376,71.79941045
+2024-08-26,Downtown,Assault,Evening,Blunt Object,1,29.87202132,71.72543026
+2024-04-18,Market Area,Fraud,Afternoon,Blunt Object,0,29.98132421,72.01799006
+2024-01-28,Industrial Area,Burglary,Night,None,1,29.84424995,71.6290968
+2024-09-25,Industrial Area,Fraud,Night,Knife,1,29.57821852,71.72512145
+2024-09-29,North Zone,Vehicle Theft,Morning,Blunt Object,0,29.54693665,71.691433
+2023-08-25,Downtown,Fraud,Night,Knife,1,29.63996695,72.07743264
+2024-12-04,North Zone,Theft,Evening,Blunt Object,1,29.77717703,71.90586037
+2023-09-04,North Zone,Burglary,Evening,Gun,1,29.52385806,71.88301861
+2024-03-10,Industrial Area,Vandalism,Night,Gun,0,29.87892306,71.60719674
+2023-08-08,University Town,Theft,Morning,Gun,0,29.52300132,71.6203644
+2024-03-28,Residential Block A,Theft,Morning,None,0,29.73708691,71.64891708
+2024-03-07,North Zone,Vandalism,Morning,Knife,0,29.90345649,71.77315216
+2023-09-11,North Zone,Burglary,Morning,Knife,1,29.71692582,71.79925237
+2024-06-05,Residential Block A,Assault,Evening,Knife,0,29.97457287,72.04334019
+2023-06-29,Residential Block B,Vandalism,Afternoon,Gun,0,29.68730631,71.91292996
+2024-03-17,Market Area,Theft,Evening,Blunt Object,1,29.75051994,71.86968872
+2024-05-30,Residential Block A,Robbery,Morning,Knife,0,29.80792558,72.0719458
+2023-09-15,Residential Block A,Vandalism,Evening,None,0,29.51325566,71.89288779
+2024-04-19,Industrial Area,Vehicle Theft,Night,Gun,0,29.90047465,71.93858417
+2024-11-05,Market Area,Fraud,Evening,None,1,29.82164411,71.82912645
+2024-11-21,Residential Block B,Burglary,Morning,Blunt Object,1,29.91031974,71.91296984
+2024-07-30,Residential Block A,Vandalism,Night,Knife,1,29.98059528,72.05267532
+2024-07-09,North Zone,Fraud,Evening,Blunt Object,1,29.63698056,71.70729456
+2023-10-29,University Town,Vandalism,Evening,Gun,0,29.50911091,71.64722148
+2023-02-04,Residential Block B,Theft,Evening,Blunt Object,0,29.66827711,71.92786132
+2024-08-27,Residential Block B,Burglary,Night,Gun,0,29.92243766,71.61163597
+2024-02-22,University Town,Vandalism,Evening,Knife,1,29.63034726,71.84801873
+2024-05-15,North Zone,Assault,Evening,Gun,1,29.6741683,72.06832408
+2024-01-11,Market Area,Fraud,Evening,None,0,29.86753552,72.00174047
+2024-11-06,Downtown,Robbery,Night,Blunt Object,0,29.58871977,71.97530738
+2023-07-11,Residential Block A,Burglary,Night,Blunt Object,0,29.78796229,71.96582388
+2024-07-01,Downtown,Assault,Afternoon,Blunt Object,0,29.68600904,71.98820648
+2024-10-25,Industrial Area,Fraud,Evening,Blunt Object,1,29.9335583,71.88093335
+2024-01-04,University Town,Fraud,Evening,Gun,1,29.83992239,71.96995438
+2023-09-30,Industrial Area,Assault,Evening,Knife,0,29.76716374,71.8482806
+2024-12-29,Residential Block A,Robbery,Evening,None,0,29.6600248,72.04776161
+2023-06-26,North Zone,Robbery,Night,Gun,1,29.52674265,72.07927075
+2023-03-17,Downtown,Vandalism,Afternoon,Gun,0,29.6774526,72.07840044
+2024-01-19,Industrial Area,Robbery,Evening,None,0,29.74126047,71.84651283
+2023-05-24,Industrial Area,Theft,Morning,Gun,0,29.72422276,71.74660539
+2023-01-25,Residential Block A,Vandalism,Night,None,0,29.77685153,71.70636395
+2024-07-18,Market Area,Assault,Night,Blunt Object,1,29.89578952,71.99480907
+2023-04-19,Industrial Area,Robbery,Morning,Gun,1,29.96546455,72.0871241
+2024-02-02,Downtown,Vandalism,Morning,Blunt Object,1,29.77476444,71.82076525
+2023-08-03,Downtown,Vehicle Theft,Morning,Knife,0,29.77295789,71.95291574
+2024-08-10,Residential Block B,Vehicle Theft,Evening,None,0,29.84401501,72.01848194
+2023-09-10,Downtown,Vehicle Theft,Night,Knife,1,29.91924038,71.81304574
+2023-06-17,University Town,Burglary,Evening,Blunt Object,1,29.5363815,72.01093003
+2024-09-25,Market Area,Vehicle Theft,Morning,None,0,29.57330241,71.85666308
+2024-02-26,Residential Block A,Robbery,Evening,None,0,29.99331979,71.7871354
+2023-12-08,North Zone,Robbery,Morning,Knife,0,29.90639978,72.07362429
+2023-08-05,University Town,Burglary,Night,Gun,0,29.79594437,71.77510912
+2023-09-09,North Zone,Assault,Evening,Blunt Object,0,29.54175036,71.98857346
+2023-07-01,Residential Block A,Robbery,Evening,Knife,1,29.85254218,71.72436208
+2024-06-14,Downtown,Vehicle Theft,Afternoon,Knife,1,29.55559874,71.84631255
+2024-10-14,Residential Block B,Robbery,Morning,None,0,29.70260104,71.88573651
+2024-10-21,Residential Block B,Assault,Evening,Blunt Object,0,29.55940896,71.65876312
+2023-12-27,University Town,Fraud,Evening,Blunt Object,1,29.87210583,71.94051971
+2023-12-14,Market Area,Vehicle Theft,Night,Blunt Object,0,29.98108627,71.78743529
+2024-01-04,Market Area,Theft,Night,Gun,1,29.54144566,71.86418506
+2023-04-27,Downtown,Theft,Afternoon,None,1,29.98161127,71.60607724
+2024-11-02,Market Area,Theft,Afternoon,Blunt Object,1,29.77800252,71.76134319
+2023-03-21,Industrial Area,Robbery,Night,Blunt Object,0,29.76385055,72.0964824
+2023-08-17,University Town,Assault,Night,Gun,1,29.62649508,71.94770556
+2024-03-16,Residential Block A,Theft,Afternoon,Gun,1,29.76154892,71.91469932
+2024-06-09,Residential Block A,Burglary,Evening,Blunt Object,0,29.64724697,72.09791569
+2024-07-19,University Town,Theft,Evening,Gun,1,29.79215716,72.05057901
+2023-01-12,Downtown,Vandalism,Night,None,1,29.9793512,71.62893195
+2023-12-24,University Town,Theft,Afternoon,Gun,1,29.72782838,71.9100663
+2023-01-08,Residential Block A,Burglary,Morning,Knife,1,29.58483995,71.92342418
+2024-10-09,Market Area,Robbery,Evening,Blunt Object,1,29.67667611,71.89182806
+2023-02-10,Downtown,Theft,Afternoon,Knife,1,29.62997493,71.82662042
+2023-05-25,Market Area,Theft,Night,None,0,29.63988175,71.80560336
+2024-04-05,Residential Block B,Theft,Night,None,0,29.84236559,71.68130847
+2024-07-11,University Town,Fraud,Evening,Gun,1,29.53810019,72.07026591
+2023-09-13,Residential Block B,Burglary,Night,Knife,1,29.79058131,72.05958828
+2023-01-10,Market Area,Robbery,Night,Knife,0,29.96636424,72.03303194
+2023-01-05,Residential Block B,Theft,Evening,Blunt Object,1,29.51318349,71.78823168
+2023-03-06,Residential Block B,Vehicle Theft,Evening,None,1,29.74018504,72.09264303
+2023-10-09,Residential Block A,Assault,Night,Knife,1,29.69044543,72.0849572
+2024-11-19,Market Area,Burglary,Evening,Gun,1,29.91916435,71.83434658
+2023-04-09,University Town,Assault,Afternoon,Knife,1,29.56692606,71.60683598
+2024-06-01,North Zone,Vandalism,Night,None,1,29.8458572,71.86717314
+2024-10-06,Residential Block A,Burglary,Night,Blunt Object,0,29.99831842,71.87771585
+2024-07-18,University Town,Theft,Afternoon,Gun,0,29.97238286,72.0248237
+2023-05-25,Residential Block B,Vandalism,Night,None,1,29.62054242,71.70252266
+2023-01-01,Downtown,Fraud,Afternoon,Blunt Object,0,29.97702551,71.90308732
+2024-03-21,Downtown,Burglary,Evening,Gun,1,29.93911033,71.97849957
+2023-02-03,Residential Block A,Theft,Evening,Blunt Object,1,29.67908136,71.6567788
+2023-06-03,Residential Block A,Fraud,Night,None,0,29.74908259,71.83810535
+2023-11-02,North Zone,Fraud,Evening,Knife,0,29.92609075,71.87595342
+2024-01-24,University Town,Theft,Morning,Blunt Object,0,29.54420411,71.99590892
+2024-02-05,Residential Block A,Assault,Morning,None,1,29.56700761,71.61439134
+2023-07-26,Residential Block B,Theft,Evening,Gun,1,29.89233413,71.91968068
+2023-03-16,University Town,Robbery,Afternoon,Blunt Object,0,29.60648208,71.66818574
+2023-11-02,North Zone,Robbery,Morning,Blunt Object,0,29.79495884,71.79612202
+2024-03-10,University Town,Vehicle Theft,Afternoon,Knife,1,29.95207935,71.77412773
+2023-06-15,Residential Block A,Assault,Night,Gun,0,29.72545522,72.05523564
+2024-06-25,Residential Block B,Burglary,Evening,Knife,0,29.81104335,72.03118185
+2023-05-13,University Town,Assault,Evening,Blunt Object,1,29.89823589,71.8296734
+2024-02-05,University Town,Vandalism,Evening,Knife,1,29.74605815,71.72912219
+2023-03-10,Residential Block B,Burglary,Morning,Knife,1,29.99001629,71.84630905
+2023-07-24,Market Area,Assault,Evening,Gun,0,29.6045654,71.88982497
+2023-04-21,Residential Block B,Fraud,Night,Gun,0,29.56443986,71.66402292
+2023-04-05,Market Area,Vandalism,Morning,Blunt Object,1,29.70015024,71.94883379
+2023-12-26,Residential Block B,Vandalism,Afternoon,Gun,0,29.84825073,71.80583061
+2023-07-14,Residential Block A,Robbery,Evening,Knife,0,29.75761803,72.08655517
+2023-03-02,Residential Block A,Fraud,Morning,Gun,1,29.59614451,71.62043431
+2023-01-05,Downtown,Vehicle Theft,Evening,Knife,0,29.67254131,71.77380961
+2024-06-17,Industrial Area,Assault,Night,Knife,0,29.54435127,71.66031794
+2023-08-21,North Zone,Vandalism,Evening,Gun,0,29.67799574,72.04710863
+2023-03-19,Industrial Area,Vandalism,Night,Gun,1,29.66504976,71.76079138
+2023-09-06,Residential Block B,Theft,Night,None,0,29.7405727,71.94389236
+2023-02-25,Residential Block B,Robbery,Night,Gun,0,29.93678931,72.0604362
+2024-07-26,Residential Block B,Burglary,Morning,Gun,0,29.50129751,72.03415055
+2023-01-08,University Town,Assault,Evening,Blunt Object,1,29.87412985,71.69226051
+2024-12-19,Downtown,Fraud,Afternoon,Blunt Object,0,29.76829532,72.06202088
+2024-06-09,Market Area,Vehicle Theft,Evening,Knife,0,29.80912739,71.78445682
+2023-08-04,Residential Block A,Vandalism,Night,Gun,1,29.86025803,71.63117068
+2024-11-29,Downtown,Robbery,Morning,None,1,29.62621847,71.95667479
+2024-09-14,University Town,Theft,Morning,Knife,0,29.92222034,71.97480812
+2024-05-22,University Town,Burglary,Evening,Blunt Object,0,29.55358601,71.82370618
+2023-01-15,University Town,Fraud,Morning,Blunt Object,1,29.55243458,71.9687026
+2023-01-28,Industrial Area,Theft,Evening,Knife,1,29.5100356,71.76103958
+2023-08-19,University Town,Robbery,Evening,None,1,29.54460216,71.86766778
+2024-06-20,Market Area,Fraud,Evening,None,1,29.94526364,71.89679623
+2024-08-02,Industrial Area,Robbery,Morning,Blunt Object,0,29.67755215,71.92441142
+2023-05-26,Residential Block A,Robbery,Morning,None,1,29.54346014,71.86855327
+2023-02-03,North Zone,Robbery,Afternoon,None,0,29.77887113,71.89326772
+2024-08-17,Market Area,Robbery,Afternoon,Gun,0,29.68938631,71.76872342
+2024-11-22,Residential Block B,Vehicle Theft,Morning,Gun,0,29.82295862,71.88538915
+2023-11-11,North Zone,Vehicle Theft,Evening,Knife,0,29.99325762,71.90288741
+2023-10-16,Residential Block A,Vandalism,Morning,Knife,0,29.50376718,71.7126664
+2024-08-04,Industrial Area,Vandalism,Afternoon,Gun,0,29.62297886,71.68034069
+2024-03-21,North Zone,Assault,Morning,Knife,1,29.64254758,71.6866868
+2023-05-17,Market Area,Theft,Morning,Blunt Object,1,29.54011687,71.86225569
+2023-02-09,Residential Block B,Assault,Morning,Blunt Object,0,29.84848073,72.09862777
+2023-01-06,Market Area,Theft,Evening,Blunt Object,0,29.6989278,72.08473522
+2023-01-04,Downtown,Burglary,Night,Blunt Object,0,29.50265,72.08753358
+2024-08-28,University Town,Fraud,Night,None,0,29.58544379,71.93432161
+2024-03-16,Industrial Area,Vehicle Theft,Afternoon,None,0,29.85922864,71.86751837
+2023-01-26,Industrial Area,Vehicle Theft,Evening,Blunt Object,1,29.63998955,71.98474647
+2023-11-22,University Town,Vehicle Theft,Night,None,0,29.98399703,71.95547624
+2024-12-24,Residential Block B,Fraud,Afternoon,Blunt Object,1,29.75380519,71.72120487
+2024-07-12,North Zone,Burglary,Evening,Blunt Object,1,29.85361505,71.98388975
+2024-07-03,University Town,Fraud,Morning,Gun,1,29.79061911,71.67718136
+2023-09-16,Industrial Area,Fraud,Evening,Gun,0,29.52591177,71.76830214
+2023-01-10,Residential Block A,Burglary,Morning,None,0,29.77430156,71.87446099
+2023-01-13,Downtown,Burglary,Morning,Gun,0,29.84228577,71.64393406
+2023-11-15,Market Area,Theft,Evening,None,1,29.84075136,71.98011393
+2024-07-03,Industrial Area,Vandalism,Night,None,1,29.70592046,71.77443413
+2024-08-03,Market Area,Assault,Evening,None,0,29.9153097,72.08251346
+2023-11-30,North Zone,Fraud,Night,Knife,0,29.96646903,72.09546474
+2024-08-10,Industrial Area,Vandalism,Evening,None,1,29.68961429,72.06322471
+2023-11-16,Market Area,Robbery,Night,None,1,29.78723656,72.02091439
+2023-08-17,Downtown,Robbery,Evening,Gun,1,29.60081366,71.68182797
+2024-12-25,Industrial Area,Theft,Afternoon,Knife,1,29.59320249,71.71784587
+2023-03-19,Downtown,Robbery,Morning,None,0,29.76153271,71.77941524
+2023-02-11,University Town,Burglary,Night,Gun,0,29.69622255,72.00829972
+2023-10-22,Industrial Area,Assault,Evening,None,0,29.85689123,72.04983372
+2024-09-28,North Zone,Robbery,Morning,None,1,29.65068894,71.97380469
+2023-05-23,University Town,Fraud,Night,Blunt Object,1,29.78874314,71.77768123
+2024-05-17,University Town,Assault,Afternoon,None,1,29.76592874,71.63330956
+2023-04-14,University Town,Theft,Evening,Blunt Object,1,29.812119,71.65844902
+2024-10-07,Downtown,Robbery,Night,None,0,29.66640789,71.96527457
+2024-07-07,North Zone,Assault,Afternoon,Knife,1,29.56963604,71.99701259
+2024-10-30,Industrial Area,Assault,Morning,None,1,29.74771181,71.97073046
+2024-02-24,Residential Block A,Burglary,Afternoon,Knife,1,29.99884631,71.97620156
+2024-02-15,Market Area,Fraud,Afternoon,Gun,0,29.87197315,71.61676622
+2024-08-20,University Town,Vandalism,Morning,Blunt Object,0,29.85703204,71.84699074
+2023-04-28,University Town,Theft,Evening,Blunt Object,1,29.91062865,71.65531587
+2023-08-16,Residential Block A,Fraud,Night,Gun,0,29.72850011,71.90197894
+2023-01-15,University Town,Theft,Evening,Knife,1,29.89864768,71.67495871
+2023-02-16,Residential Block B,Fraud,Evening,None,1,29.70447759,71.98594099
+2024-02-15,Residential Block B,Theft,Afternoon,Blunt Object,1,29.82057382,71.94697422
+2023-10-19,Market Area,Theft,Night,Gun,1,29.85808954,71.89951468
+2024-10-21,North Zone,Assault,Afternoon,None,0,29.59079886,72.05422528
+2024-07-03,Market Area,Vehicle Theft,Afternoon,Gun,1,29.61367549,71.81179843
+2023-12-12,Residential Block A,Vandalism,Afternoon,Knife,0,29.97364167,71.6766757
+2023-05-21,North Zone,Assault,Afternoon,Knife,0,29.5695581,71.6503973
+2024-09-14,Residential Block B,Vandalism,Morning,Knife,1,29.86304779,71.89648145
+2023-12-22,University Town,Vandalism,Night,Gun,1,29.95937526,71.99504232
+2023-05-07,North Zone,Burglary,Morning,Blunt Object,1,29.57626952,71.88814418
+2024-01-13,Residential Block A,Assault,Evening,None,1,29.53446077,71.63866053
+2024-04-06,Market Area,Theft,Evening,Blunt Object,1,29.96718351,72.06278426
+2024-02-11,Downtown,Theft,Evening,Gun,0,29.56140539,71.71795302
+2023-12-12,Residential Block A,Vandalism,Morning,Blunt Object,1,29.91944904,71.66233134
+2023-01-01,Market Area,Vehicle Theft,Morning,Blunt Object,0,29.93494818,71.85941903
+2024-10-22,Industrial Area,Vehicle Theft,Night,Knife,0,29.68965285,71.97212483
+2023-07-21,University Town,Theft,Evening,None,0,29.90142672,71.60231601
+2024-07-28,Downtown,Robbery,Night,Blunt Object,0,29.70725229,72.03175907
+2024-01-21,Industrial Area,Assault,Evening,Blunt Object,1,29.73285006,71.84041849
+2023-12-13,Residential Block B,Assault,Morning,Gun,0,29.72610897,71.71230241
+2023-06-28,Industrial Area,Theft,Night,Gun,1,29.62411322,71.88881598
+2023-06-29,Residential Block A,Vandalism,Afternoon,Gun,0,29.70946272,72.05742295
+2023-06-26,Market Area,Fraud,Afternoon,Gun,1,29.89024785,71.73879359
+2024-10-27,Residential Block A,Fraud,Night,Knife,0,29.50654723,71.93176869
+2023-03-25,Industrial Area,Vehicle Theft,Night,Gun,0,29.72949449,71.87865268
+2023-12-08,Residential Block A,Fraud,Morning,Blunt Object,1,29.54267483,72.09843713
+2024-07-14,Downtown,Assault,Evening,Knife,0,29.64979796,71.75496846
+2023-08-03,Industrial Area,Vandalism,Night,Knife,0,29.71339445,71.99989101
+2023-11-14,North Zone,Robbery,Morning,Gun,0,29.60256982,71.69534386
+2024-03-04,Market Area,Vandalism,Morning,Gun,0,29.68886297,72.01828241
+2023-01-19,Market Area,Burglary,Afternoon,Knife,0,29.53285432,71.98776381
+2023-06-24,Residential Block B,Fraud,Afternoon,Blunt Object,0,29.76382387,71.86722795
+2023-04-23,University Town,Assault,Afternoon,Blunt Object,1,29.70038153,71.87982017
+2024-10-05,Residential Block B,Fraud,Night,Knife,0,29.59096407,72.03089281
+2024-10-04,Industrial Area,Vandalism,Night,Knife,1,29.68665466,71.73537234
+2023-06-11,Residential Block A,Vehicle Theft,Night,Blunt Object,1,29.70436709,71.61269318
+2024-04-20,Residential Block B,Burglary,Night,Knife,0,29.91989443,72.03349688
+2023-01-08,Residential Block B,Vehicle Theft,Afternoon,Gun,0,29.513548,71.71098608
+2024-03-18,Residential Block A,Burglary,Evening,None,0,29.75275394,71.89752449
+2023-08-27,Industrial Area,Theft,Afternoon,Gun,1,29.78472176,72.04373024
+2024-08-26,Market Area,Robbery,Night,None,0,29.61909139,71.6497207
+2023-04-06,Residential Block B,Burglary,Evening,None,1,29.99436439,71.9015987
+2024-05-05,Downtown,Burglary,Evening,Knife,1,29.98132466,72.07220486
+2023-07-01,Downtown,Assault,Afternoon,None,1,29.60249215,71.74657387
+2023-01-07,Downtown,Vandalism,Evening,Knife,0,29.81662039,71.96795231
+2023-03-26,Downtown,Assault,Night,Knife,1,29.5132661,71.69071772
+2024-07-01,University Town,Vehicle Theft,Morning,None,0,29.82146278,71.95197307
+2024-12-09,Industrial Area,Robbery,Afternoon,Blunt Object,0,29.67090868,71.72971172
+2024-01-21,Residential Block B,Assault,Afternoon,Gun,0,29.68152961,71.61711406
+2024-06-15,Downtown,Robbery,Night,Blunt Object,0,29.81207445,71.80470583
+2023-08-14,Downtown,Vandalism,Night,None,0,29.93053401,71.70975526
+2024-05-20,Residential Block A,Robbery,Evening,Blunt Object,0,29.8818029,71.67005659
+2024-12-14,Market Area,Assault,Afternoon,Blunt Object,0,29.78288831,72.09268366
+2024-12-27,Residential Block A,Fraud,Morning,Gun,0,29.89992763,71.81260675
+2023-04-25,Market Area,Vehicle Theft,Morning,Blunt Object,1,29.75622883,71.97084347
+2023-08-25,Downtown,Fraud,Night,Gun,1,29.70127502,71.70901155
+2023-10-05,Residential Block A,Theft,Evening,None,1,29.91746512,72.09220109
+2024-03-17,North Zone,Fraud,Morning,Gun,0,29.95028615,71.94561093
+2023-03-16,Downtown,Assault,Evening,Knife,1,29.91129194,71.86483084
+2023-02-11,Residential Block A,Burglary,Afternoon,Knife,0,29.78825824,71.73702761
+2023-01-17,Residential Block A,Vandalism,Night,None,1,29.70262404,71.84873245
+2024-08-10,North Zone,Theft,Afternoon,None,1,29.60321064,71.60549791
+2023-01-27,Industrial Area,Vehicle Theft,Night,Blunt Object,1,29.95000932,72.03694504
+2023-06-17,Downtown,Vandalism,Afternoon,Gun,1,29.62536533,71.91654903
+2024-03-30,Residential Block B,Vandalism,Morning,Gun,1,29.78664719,72.01905348
+2024-04-20,Downtown,Vandalism,Evening,Blunt Object,1,29.88545569,71.81101803
+2023-05-10,Residential Block A,Burglary,Night,Gun,0,29.58314168,71.96901681
+2024-11-23,University Town,Fraud,Night,Gun,1,29.80157605,71.72267455
+2023-05-29,Residential Block B,Theft,Night,None,1,29.9185395,71.8185967
+2024-11-06,Market Area,Vandalism,Afternoon,Gun,1,29.85952295,71.74856086
+2023-08-15,Downtown,Theft,Evening,Gun,1,29.9746534,71.79832469
+2024-10-25,University Town,Vehicle Theft,Night,Knife,1,29.96841487,71.96628605
+2023-10-16,Industrial Area,Burglary,Morning,Gun,1,29.63495561,71.86992139
+2024-04-11,Industrial Area,Fraud,Morning,None,1,29.79753897,71.62571291
+2024-05-21,Industrial Area,Vehicle Theft,Afternoon,None,0,29.79842142,71.76712195
+2023-06-03,Residential Block B,Vehicle Theft,Night,None,0,29.73711865,71.77219187
+2023-10-23,Downtown,Robbery,Evening,Gun,1,29.86409438,71.84774566
+2024-09-07,Market Area,Theft,Afternoon,Blunt Object,1,29.71741367,71.72320102
+2023-05-11,Industrial Area,Burglary,Morning,Knife,1,29.53888267,71.6011697
+2024-03-10,University Town,Assault,Evening,Knife,0,29.63607257,71.89511533
+2023-10-02,Downtown,Fraud,Afternoon,Blunt Object,1,29.65729828,72.00371513
+2023-01-17,Market Area,Theft,Evening,Gun,1,29.97511868,71.82300289
+2023-01-12,North Zone,Vehicle Theft,Evening,Blunt Object,0,29.77095047,72.03647292
+2024-10-22,Downtown,Robbery,Morning,Blunt Object,0,29.87951792,71.96205166
+2024-12-10,Residential Block A,Burglary,Morning,Gun,1,29.9902884,72.05168191
+2023-09-25,Residential Block A,Theft,Evening,Gun,0,29.61060472,72.093834
+2024-06-21,Residential Block A,Fraud,Afternoon,Gun,0,29.51971341,71.95278759
+2024-12-11,Downtown,Robbery,Afternoon,Knife,1,29.99967675,71.87790329
+2023-03-27,Downtown,Assault,Evening,Blunt Object,0,29.95774415,71.61697299
+2024-09-20,Market Area,Theft,Morning,Gun,1,29.86551184,71.69629951
+2024-05-12,Residential Block A,Fraud,Night,Blunt Object,1,29.71088133,71.99767092
+2023-08-11,Residential Block B,Vehicle Theft,Morning,Knife,1,29.93102133,72.0222747
+2024-02-06,Residential Block A,Theft,Night,Blunt Object,1,29.76121729,71.92227333
+2024-06-09,North Zone,Vandalism,Afternoon,Knife,1,29.79813494,71.71500442
+2023-07-07,Market Area,Vandalism,Morning,None,0,29.74053094,72.04249918
+2023-06-20,Industrial Area,Robbery,Afternoon,Gun,0,29.66993748,71.96238339
+2023-12-30,Industrial Area,Vehicle Theft,Evening,None,1,29.78621388,72.00198849
+2024-05-30,North Zone,Fraud,Evening,Knife,1,29.89536158,71.75937625
+2024-12-22,Market Area,Vehicle Theft,Morning,Knife,0,29.76008405,71.81340853
+2023-04-18,North Zone,Fraud,Evening,None,0,29.61647974,71.61220039
+2023-06-19,Downtown,Theft,Evening,Knife,1,29.99517066,71.60011876
+2023-05-21,Market Area,Fraud,Morning,Blunt Object,1,29.69198194,72.06629495
+2023-02-08,Residential Block A,Assault,Night,Knife,1,29.50474272,71.62634192
+2024-04-21,Industrial Area,Burglary,Morning,None,0,29.51879839,71.83989066
+2023-09-29,University Town,Burglary,Night,Blunt Object,0,29.93683856,72.09204173
+2023-09-23,Industrial Area,Vehicle Theft,Afternoon,Gun,1,29.54584967,71.76818523
+2023-12-06,Residential Block A,Vandalism,Evening,Blunt Object,0,29.86879115,71.71938857
+2023-01-03,Residential Block B,Assault,Morning,Gun,0,29.73365538,71.74850144
+2023-11-20,University Town,Theft,Evening,Blunt Object,0,29.85777666,71.89455427
+2024-03-07,North Zone,Theft,Morning,Gun,1,29.50893697,72.09386119
+2024-08-07,Residential Block B,Vehicle Theft,Night,Knife,0,29.5547338,71.79581507
+2023-05-20,Residential Block B,Assault,Evening,Knife,0,29.97820785,71.99899466
+2024-01-15,University Town,Vehicle Theft,Night,Blunt Object,1,29.70879039,72.03955915
+2023-10-29,University Town,Theft,Morning,Blunt Object,1,29.80039922,72.05186198
+2023-08-14,North Zone,Robbery,Evening,None,0,29.58351697,72.09558431
+2024-07-24,Industrial Area,Burglary,Night,Gun,0,29.70079012,72.01891287
+2023-11-06,Residential Block B,Theft,Night,Knife,1,29.8038684,71.85634426
+2023-11-26,Residential Block A,Assault,Night,Gun,0,29.52347268,71.79204531
+2024-05-20,University Town,Theft,Afternoon,Gun,1,29.88979224,71.77506263
+2023-02-23,Downtown,Burglary,Night,Gun,0,29.98455132,72.04189294
+2023-04-09,North Zone,Theft,Night,Gun,1,29.79863704,71.86251575
+2024-05-04,Market Area,Assault,Afternoon,Knife,1,29.75762396,71.84559317
+2023-05-25,Market Area,Theft,Morning,None,0,29.57694795,72.00791656
+2023-04-30,Residential Block A,Assault,Night,Blunt Object,0,29.8739358,71.61743258
+2024-08-02,Market Area,Vehicle Theft,Afternoon,Gun,1,29.7900431,71.64574342
+2024-09-08,North Zone,Burglary,Evening,Gun,1,29.69558488,71.73647969
+2024-06-24,Residential Block A,Vehicle Theft,Evening,Blunt Object,0,29.94437404,72.07782575
+2023-11-28,Industrial Area,Assault,Morning,Blunt Object,1,29.51771118,71.76452568
+2024-06-20,Residential Block B,Fraud,Morning,Blunt Object,1,29.77542869,71.64349338
+2023-05-04,Residential Block A,Vandalism,Afternoon,None,1,29.68634426,71.72987689
+2023-06-25,North Zone,Vehicle Theft,Night,Knife,0,29.74793787,71.64052311
+2023-11-12,Downtown,Vehicle Theft,Morning,Knife,0,29.55473443,72.04723997
+2024-08-15,University Town,Assault,Night,Knife,1,29.53075851,72.04145313
+2023-11-14,Residential Block A,Robbery,Night,Blunt Object,0,29.79620389,72.01234048
+2024-07-21,Residential Block A,Robbery,Afternoon,Gun,1,29.83105601,71.87188945
+2023-10-16,Market Area,Burglary,Evening,Knife,1,29.93931499,71.99871301
+2023-06-17,Market Area,Assault,Evening,Gun,1,29.62264277,71.67867033
+2024-11-11,North Zone,Robbery,Evening,Gun,0,29.66700444,71.71934502
+2024-11-23,Industrial Area,Vandalism,Evening,Knife,1,29.84007039,71.90930569
+2024-02-26,Industrial Area,Burglary,Evening,Gun,1,29.59461077,72.04081857
+2024-07-10,Downtown,Vehicle Theft,Night,Blunt Object,1,29.93592176,71.61462364
+2024-06-18,Residential Block B,Vandalism,Afternoon,Gun,0,29.50257259,72.00997346
+2024-03-12,Industrial Area,Fraud,Morning,Gun,1,29.87175413,71.68037995
+2023-12-22,Residential Block A,Assault,Night,Knife,0,29.77809087,71.9783179
+2024-06-07,Residential Block B,Vehicle Theft,Evening,Gun,0,29.50319294,71.74351907
+2023-02-15,Downtown,Vehicle Theft,Afternoon,Knife,0,29.66321679,71.87992216
+2023-12-26,Residential Block A,Vehicle Theft,Afternoon,Knife,0,29.62990179,71.91700285
+2023-12-31,Downtown,Burglary,Evening,Blunt Object,0,29.8899227,71.65349032
+2024-02-18,Residential Block A,Vandalism,Afternoon,None,0,29.50921386,71.81612039
+2024-02-16,University Town,Fraud,Night,Blunt Object,0,29.81631095,72.06601405
+2023-10-05,Residential Block B,Assault,Evening,Gun,0,29.96861424,71.94394286
+2023-08-30,Residential Block B,Theft,Afternoon,None,0,29.97364894,71.68318879
+2024-06-07,University Town,Vandalism,Afternoon,None,1,29.5336753,71.89108523
+2024-12-05,Residential Block B,Burglary,Afternoon,Gun,0,29.52896023,71.63734721
+2023-07-29,Downtown,Assault,Morning,Gun,1,29.9357684,72.08674448
+2023-10-12,University Town,Fraud,Night,Knife,1,29.72297915,71.92378682
+2024-01-16,Industrial Area,Robbery,Morning,Gun,0,29.69180613,71.63281307
+2023-02-02,Residential Block A,Burglary,Evening,Knife,0,29.66180511,71.8443216
+2024-04-03,Residential Block A,Assault,Evening,Knife,0,29.84164769,71.82295135
+2024-03-05,Market Area,Vandalism,Night,Blunt Object,1,29.73426971,72.07215182
+2023-04-09,Downtown,Burglary,Morning,Knife,0,29.72569351,71.68181191
+2023-06-06,University Town,Assault,Afternoon,None,1,29.64918722,72.01997358
+2024-11-17,University Town,Robbery,Night,Gun,1,29.84024965,71.92725561
+2024-06-22,Industrial Area,Vehicle Theft,Morning,Gun,1,29.93402716,72.08161833
+2024-03-15,Residential Block A,Robbery,Morning,None,1,29.7161674,72.07180796
+2023-03-25,Industrial Area,Robbery,Night,Gun,0,29.6987972,71.7371076
+2024-01-22,Residential Block A,Assault,Evening,Knife,0,29.655976,71.76037137
+2024-06-10,North Zone,Burglary,Afternoon,Blunt Object,1,29.87291851,71.70017957
+2024-06-07,University Town,Fraud,Night,Knife,0,29.78137514,71.83576623
+2024-06-22,Residential Block A,Vandalism,Morning,Blunt Object,1,29.98409671,71.69276276
+2024-10-18,Downtown,Vehicle Theft,Morning,None,0,29.54558225,71.67682902
+2023-01-27,Market Area,Vehicle Theft,Afternoon,Knife,1,29.92239161,71.980512
+2024-01-22,Residential Block B,Vehicle Theft,Night,None,0,29.89839891,71.74708399
+2024-06-19,Residential Block A,Vehicle Theft,Night,None,1,29.96042392,71.90832516
+2024-07-11,Residential Block B,Theft,Night,Knife,1,29.73104865,71.60061592
+2024-03-30,University Town,Vehicle Theft,Morning,Blunt Object,1,29.5625929,71.94278264
+2024-06-04,Residential Block A,Theft,Night,Gun,0,29.60026236,71.84579727
+2024-12-26,Residential Block A,Robbery,Morning,None,1,29.7909857,71.7344967
+2023-12-10,Industrial Area,Fraud,Morning,None,0,29.71662337,72.0921757
+2024-12-21,University Town,Theft,Evening,Blunt Object,0,29.50581027,71.63622344
+2023-11-16,Residential Block B,Robbery,Night,Gun,1,29.69777254,72.08734993
+2023-06-15,University Town,Vandalism,Night,Blunt Object,0,29.64583129,71.94749094
+2023-04-12,Residential Block A,Fraud,Afternoon,Gun,0,29.95390933,71.96214265
+2024-11-21,North Zone,Vehicle Theft,Night,Knife,0,29.55246509,71.72102251
+2023-02-15,Residential Block B,Theft,Morning,Gun,1,29.57124777,71.84944408
+2023-03-27,Residential Block A,Fraud,Night,Blunt Object,0,29.60517479,71.77300828
+2023-08-30,North Zone,Burglary,Evening,Knife,1,29.66323065,71.85885582
+2024-08-11,North Zone,Fraud,Morning,None,1,29.53928925,71.79846164
+2023-07-13,Market Area,Vandalism,Morning,Knife,0,29.98873319,71.70042954
+2023-05-02,Downtown,Theft,Morning,Blunt Object,0,29.90029335,71.70007512
+2024-03-03,North Zone,Fraud,Morning,Blunt Object,1,29.55228392,71.91821512
+2024-09-26,North Zone,Vehicle Theft,Afternoon,None,0,29.51579307,72.06810612
+2023-12-25,Market Area,Assault,Afternoon,Gun,1,29.80647209,71.74941794
+2024-12-16,North Zone,Assault,Afternoon,Knife,1,29.93548456,71.95704347
+2023-11-14,Industrial Area,Assault,Morning,Knife,1,29.89171136,71.90612899
+2024-01-18,Market Area,Burglary,Morning,Gun,1,29.54005742,72.04740833
+2024-01-25,Residential Block B,Vehicle Theft,Evening,Blunt Object,1,29.90864888,71.82615914
+2024-05-29,North Zone,Assault,Night,Knife,1,29.52037705,71.68199974
+2023-01-14,North Zone,Vandalism,Afternoon,Gun,0,29.54081499,71.63017604
+2023-03-28,Residential Block B,Burglary,Morning,Blunt Object,1,29.82514709,71.83963946
+2023-08-31,Market Area,Vehicle Theft,Afternoon,Blunt Object,0,29.60960699,72.08793263
+2023-12-22,Industrial Area,Robbery,Evening,None,1,29.87213953,72.03591639
+2023-11-05,Residential Block B,Assault,Morning,Knife,0,29.82935389,71.84909786
+2024-08-16,Industrial Area,Burglary,Morning,None,0,29.51043057,71.92663151
+2024-07-02,Residential Block B,Vandalism,Afternoon,Blunt Object,0,29.99816696,72.08739658
+2024-10-04,Residential Block B,Assault,Evening,None,0,29.54076324,71.80163068
+2024-03-20,North Zone,Fraud,Morning,Blunt Object,0,29.5360992,71.61532625
+2023-12-19,Residential Block A,Vehicle Theft,Afternoon,Blunt Object,0,29.9202262,71.68709667
+2024-12-25,Market Area,Assault,Evening,Blunt Object,1,29.86358453,71.97135326
+2024-02-08,Market Area,Fraud,Evening,Gun,1,29.81438241,71.96767515
+2024-01-17,Industrial Area,Vehicle Theft,Night,Blunt Object,0,29.99382478,71.6200546
+2024-11-19,Residential Block B,Fraud,Night,Gun,0,29.75699793,71.89402919
+2023-09-07,Industrial Area,Assault,Night,None,0,29.86262883,71.84333447
+2024-07-31,Residential Block A,Robbery,Morning,Gun,1,29.79886178,71.99647805
+2023-10-22,Industrial Area,Robbery,Afternoon,Gun,0,29.6384139,71.89617516
+2023-09-03,University Town,Vehicle Theft,Afternoon,Blunt Object,1,29.67957551,71.79192358
+2024-06-13,Industrial Area,Vandalism,Night,Blunt Object,1,29.81578011,71.96655651
+2024-06-03,North Zone,Fraud,Evening,Knife,0,29.70265509,71.90092769
+2023-10-25,Residential Block A,Vehicle Theft,Night,Knife,0,29.61877166,72.08569755
+2024-01-10,Market Area,Theft,Morning,None,0,29.70651559,71.63456639
+2024-07-06,University Town,Robbery,Afternoon,None,0,29.62361554,72.03537495
+2024-09-14,Downtown,Robbery,Night,Gun,0,29.7964592,71.88970745
+2023-03-25,Market Area,Fraud,Night,Blunt Object,0,29.79647543,71.68176194
+2023-01-28,Downtown,Vehicle Theft,Night,None,0,29.62906672,71.92836833
+2024-03-24,Market Area,Fraud,Evening,Gun,0,29.88673656,71.66543683
+2023-10-28,Market Area,Vandalism,Night,Knife,0,29.61851393,71.71733702
+2023-01-10,Downtown,Vehicle Theft,Afternoon,Knife,0,29.53674837,71.68487895
+2024-08-27,Market Area,Vehicle Theft,Evening,Gun,1,29.66850159,72.01444168
+2023-09-14,Residential Block B,Burglary,Morning,Gun,1,29.72471692,71.89394219
+2024-05-27,University Town,Vehicle Theft,Afternoon,Knife,1,29.62626389,71.77962537
+2023-10-11,Residential Block A,Vandalism,Morning,None,0,29.51833571,71.96820101
+2023-07-23,University Town,Burglary,Night,Blunt Object,0,29.73731544,72.02208522
+2024-07-09,Residential Block A,Theft,Afternoon,None,1,29.72318432,72.03210809
+2024-09-11,Residential Block B,Burglary,Evening,None,0,29.76995292,71.61709388
+2023-11-30,North Zone,Robbery,Night,Gun,0,29.52854343,71.86558476
+2023-01-20,Downtown,Fraud,Evening,None,0,29.52584842,71.92000148
+2023-02-04,Residential Block B,Assault,Morning,Knife,0,29.72609951,72.06693751
+2023-06-10,Residential Block B,Vandalism,Night,None,1,29.7536174,71.62078643
+2024-05-04,North Zone,Vehicle Theft,Afternoon,Blunt Object,1,29.69868949,71.83994854
+2023-09-08,University Town,Vandalism,Afternoon,None,1,29.50246999,72.07590589
+2023-11-02,Downtown,Theft,Night,Knife,0,29.98654887,71.89005611
+2023-07-03,Industrial Area,Vehicle Theft,Night,Gun,0,29.75779801,71.84442329
+2024-03-03,Residential Block A,Assault,Night,Blunt Object,0,29.76612249,71.66287076
+2024-09-29,Industrial Area,Vehicle Theft,Night,Blunt Object,0,29.65396497,71.95234038
+2024-01-10,Residential Block A,Vehicle Theft,Night,None,1,29.58119095,71.69417454
+2024-10-30,Residential Block B,Robbery,Morning,None,1,29.72187511,72.03407113
+2023-03-27,North Zone,Burglary,Afternoon,Blunt Object,1,29.62765326,71.93081618
+2023-04-29,Industrial Area,Theft,Morning,None,1,29.97230711,71.94162401
+2023-04-24,University Town,Assault,Evening,None,0,29.62207365,72.0154386
+2023-10-30,Downtown,Robbery,Night,Blunt Object,1,29.78530487,71.61519353
+2023-12-11,Downtown,Theft,Morning,Gun,0,29.84476338,71.93825669
+2023-05-27,Market Area,Vehicle Theft,Evening,Blunt Object,0,29.97043768,72.01341944
+2023-10-31,Industrial Area,Burglary,Night,None,0,29.82561649,71.65329652
+2023-08-08,Market Area,Vehicle Theft,Afternoon,Blunt Object,0,29.57964372,71.90247696
+2024-07-28,North Zone,Assault,Evening,Gun,1,29.98858709,71.80345398
+2024-11-18,North Zone,Theft,Afternoon,Blunt Object,1,29.87621388,71.64524085
+2023-06-08,University Town,Assault,Night,None,1,29.8692246,72.03925778
+2024-01-16,Industrial Area,Robbery,Night,Knife,1,29.88259543,72.06283742
+2023-01-19,Downtown,Robbery,Evening,None,1,29.90392297,71.98114257
+2023-10-06,Industrial Area,Vandalism,Night,Gun,1,29.71779166,72.00891711
+2023-12-10,Industrial Area,Burglary,Afternoon,Gun,1,29.64843464,71.92453733
+2024-12-25,Market Area,Fraud,Afternoon,Blunt Object,1,29.66229291,71.78323077
+2024-12-11,North Zone,Burglary,Evening,Gun,1,29.78171946,71.79020985
+2024-08-27,Market Area,Vandalism,Afternoon,Gun,1,29.72434681,71.71877207
+2024-05-11,Industrial Area,Vandalism,Night,Gun,0,29.72220973,71.60733353
+2023-09-24,Market Area,Robbery,Afternoon,None,1,29.8017243,71.9341064
+2023-01-03,Residential Block A,Robbery,Night,Gun,0,29.77118183,72.07573928
+2024-03-25,Residential Block B,Vandalism,Night,Blunt Object,0,29.73959094,71.61282103
+2023-06-03,Residential Block A,Assault,Afternoon,Gun,0,29.55445917,71.67449593
+2023-10-31,Residential Block A,Burglary,Night,None,1,29.79008618,71.86680127
+2023-02-12,Market Area,Burglary,Night,Blunt Object,0,29.88244163,72.00649287
+2024-05-12,Residential Block B,Assault,Morning,None,0,29.85774545,71.86061707
+2023-01-21,Residential Block A,Fraud,Evening,Knife,0,29.59788899,71.60378144
+2023-04-27,Market Area,Fraud,Night,Gun,1,29.94901527,71.72174115
+2024-12-15,Downtown,Theft,Morning,Gun,0,29.69003725,71.69857706
+2023-05-21,Market Area,Fraud,Afternoon,Blunt Object,1,29.67581134,71.65071041
+2024-01-08,University Town,Burglary,Afternoon,Gun,0,29.64243645,71.75364498
+2023-06-05,University Town,Theft,Evening,Blunt Object,0,29.76958064,71.75565385
+2024-02-24,Downtown,Vandalism,Afternoon,Gun,1,29.85881789,71.7999526
+2024-08-11,Industrial Area,Burglary,Afternoon,Blunt Object,1,29.70677455,71.66094305
+2024-04-03,University Town,Theft,Night,Blunt Object,1,29.56161133,72.0297079
+2023-02-08,Downtown,Assault,Morning,None,0,29.76258169,71.95452313
+2023-11-08,Residential Block B,Assault,Morning,Knife,0,29.89670363,71.69261422
+2023-02-05,Market Area,Robbery,Afternoon,Gun,1,29.71226371,71.64351948
+2024-01-20,University Town,Robbery,Night,Knife,0,29.68675484,71.8632496
+2024-07-12,Residential Block A,Fraud,Night,Blunt Object,0,29.97570167,71.90080591
+2023-04-28,Residential Block A,Vehicle Theft,Afternoon,Blunt Object,1,29.75758759,71.89676928
+2023-01-26,University Town,Theft,Afternoon,Knife,1,29.60602242,71.90549049
+2024-01-13,Residential Block B,Fraud,Morning,None,0,29.68038626,72.05294555
+2023-06-01,Industrial Area,Assault,Afternoon,Blunt Object,0,29.67671069,71.71843528
+2023-10-20,Industrial Area,Fraud,Night,Gun,1,29.65103025,71.96597903
+2024-09-03,Market Area,Burglary,Morning,Gun,1,29.71186913,71.93377495
+2023-05-26,Residential Block B,Burglary,Afternoon,Gun,0,29.88332807,71.67485198
+2024-03-14,Residential Block A,Robbery,Evening,None,0,29.79330423,71.6840071
+2024-04-27,Industrial Area,Theft,Afternoon,Gun,0,29.93462981,71.83644598
+2024-10-22,Market Area,Burglary,Night,Knife,1,29.54785728,71.61181929
+2024-10-16,University Town,Robbery,Night,Knife,0,29.61512308,71.70309308
+2024-06-06,University Town,Assault,Afternoon,Knife,1,29.61597355,71.795453
+2024-05-23,Residential Block B,Burglary,Morning,Gun,0,29.52922731,71.6708872
+2023-11-16,University Town,Robbery,Afternoon,Blunt Object,1,29.56821988,71.94757228
+2024-07-07,University Town,Fraud,Night,Blunt Object,1,29.71409981,71.95879888
+2024-04-03,University Town,Robbery,Morning,None,0,29.995628,71.66419714
+2024-06-14,Industrial Area,Theft,Evening,Knife,1,29.80160971,71.76861357
+2023-10-15,North Zone,Vandalism,Night,Blunt Object,0,29.63708033,71.63970968
+2023-12-19,Market Area,Theft,Evening,Gun,0,29.79787536,71.80059396
+2023-12-19,Residential Block B,Fraud,Night,Knife,1,29.6133282,71.77749815
+2024-12-08,Downtown,Fraud,Afternoon,Gun,0,29.72120497,72.01593156
+2024-05-31,University Town,Assault,Evening,None,1,29.5349658,71.92008411
+2023-08-18,Residential Block B,Theft,Afternoon,Knife,1,29.796406,71.94006597
+2024-01-16,Residential Block B,Fraud,Night,Knife,0,29.72842932,71.69516243
+2023-05-10,Residential Block B,Robbery,Afternoon,None,1,29.99706968,71.93091959
+2023-07-28,Market Area,Assault,Afternoon,Gun,1,29.99774025,71.82317618
+2023-04-26,Industrial Area,Vehicle Theft,Evening,None,0,29.53007117,71.88114841
+2024-07-01,Residential Block B,Vandalism,Night,None,1,29.98083287,71.91748002
+2023-10-30,Residential Block B,Fraud,Afternoon,Knife,0,29.60046684,71.86791384
+2024-03-21,North Zone,Fraud,Evening,Knife,1,29.71134456,72.01090322
+2023-01-12,University Town,Robbery,Evening,Blunt Object,1,29.67378576,71.93245586
+2024-05-29,University Town,Theft,Morning,Blunt Object,1,29.96358891,71.71732104
+2023-12-14,Residential Block A,Assault,Night,Blunt Object,1,29.98708231,71.61001318
+2023-09-05,Market Area,Theft,Morning,Blunt Object,1,29.76997857,72.02101665
+2023-05-29,Residential Block B,Theft,Night,Knife,1,29.54646457,71.72852363
+2024-03-31,Residential Block B,Robbery,Night,Gun,1,29.87763521,71.66385674
+2024-04-04,Residential Block B,Assault,Evening,Knife,1,29.89101404,71.95437235
+2024-10-15,Residential Block B,Assault,Morning,None,0,29.55882451,71.71367865
+2024-07-31,Residential Block A,Vandalism,Night,None,0,29.69045476,71.77316088
+2024-03-24,Residential Block B,Robbery,Night,Blunt Object,0,29.65276216,71.79849076
+2024-02-11,University Town,Robbery,Afternoon,Gun,0,29.97119351,72.03666833
+2023-09-19,Residential Block B,Assault,Morning,Gun,1,29.95969599,71.84848174
+2023-12-08,Downtown,Assault,Afternoon,None,1,29.78328768,71.79552138
+2023-01-12,Residential Block A,Assault,Afternoon,Blunt Object,0,29.96529761,71.6581832
+2024-08-16,Residential Block A,Theft,Morning,Knife,1,29.81397503,71.9371519
+2024-10-31,Downtown,Robbery,Afternoon,Blunt Object,0,29.86071103,71.67063902
+2023-01-07,Downtown,Fraud,Evening,None,1,29.65233957,71.64045964
+2024-02-09,Residential Block A,Robbery,Night,None,0,29.51144691,71.67689557
+2024-04-10,University Town,Theft,Morning,None,1,29.97866144,71.88652071
+2023-09-23,Industrial Area,Assault,Afternoon,Blunt Object,0,29.91124028,71.66626234
+2023-10-16,Residential Block A,Fraud,Afternoon,None,0,29.9613786,71.84353096
+2023-04-20,Market Area,Fraud,Afternoon,Blunt Object,1,29.94913081,72.0146662
+2024-03-11,Residential Block A,Robbery,Afternoon,Blunt Object,1,29.75128304,71.79933151
+2023-01-25,Residential Block B,Robbery,Morning,None,0,29.83315344,71.66088096
+2024-06-20,Residential Block B,Theft,Night,Gun,1,29.61627568,71.6399827
+2023-01-12,Industrial Area,Vandalism,Afternoon,Knife,1,29.98291108,71.81624894
+2024-10-14,Residential Block A,Theft,Afternoon,Gun,0,29.96822459,72.0380526
+2024-03-22,Residential Block B,Vandalism,Evening,Knife,0,29.82041316,71.70801909
+2023-09-11,Residential Block A,Burglary,Evening,None,0,29.80127658,71.78239911
+2023-10-14,University Town,Burglary,Morning,Knife,1,29.53067481,71.99038079
+2023-12-11,Residential Block A,Vehicle Theft,Morning,None,1,29.5290819,72.09743316
+2023-09-10,Industrial Area,Robbery,Night,Blunt Object,1,29.80974888,71.74867752
+2023-03-24,Market Area,Fraud,Afternoon,Blunt Object,0,29.58533238,71.63731491
+2023-06-05,Downtown,Vehicle Theft,Morning,None,1,29.65163757,71.65052291
+2023-03-21,North Zone,Theft,Morning,Blunt Object,1,29.84580903,71.90902584
+2024-09-06,Residential Block A,Fraud,Night,Blunt Object,1,29.6144473,71.71632277
+2024-01-15,Downtown,Fraud,Afternoon,Gun,0,29.65312681,71.91194792
+2023-05-04,Industrial Area,Theft,Afternoon,Knife,1,29.92400794,71.96215873
+2024-04-29,University Town,Vehicle Theft,Morning,Gun,1,29.94330211,71.82489232
+2024-04-27,Residential Block A,Vandalism,Afternoon,None,0,29.68387968,71.80706488
+2024-06-09,Downtown,Burglary,Morning,Blunt Object,0,29.58844357,71.79353938
+2024-10-06,Industrial Area,Fraud,Afternoon,None,0,29.50551563,71.808077
+2024-02-09,Residential Block A,Robbery,Morning,Knife,1,29.50959614,71.7299066
+2024-10-11,Industrial Area,Vehicle Theft,Evening,Knife,1,29.84048741,71.69484742
+2023-03-06,North Zone,Fraud,Evening,None,0,29.6617502,72.01715168
+2024-05-07,Industrial Area,Vandalism,Night,Gun,0,29.98793688,72.00076856
+2023-06-22,Industrial Area,Fraud,Morning,Blunt Object,1,29.5213166,71.78570428
+2024-05-11,Market Area,Assault,Morning,Blunt Object,0,29.77397974,71.82718867
+2023-11-04,Industrial Area,Robbery,Evening,None,0,29.63300964,71.67461889
+2024-05-24,North Zone,Fraud,Morning,None,0,29.57502433,71.76233796
+2024-08-16,North Zone,Theft,Night,Gun,1,29.73800906,71.78794414
+2024-03-11,North Zone,Robbery,Morning,Blunt Object,0,29.92978262,71.79619686
+2024-07-07,Industrial Area,Robbery,Night,Gun,1,29.94604234,72.07766734
+2023-01-17,Residential Block B,Theft,Evening,None,0,29.82934607,72.07141557
+2023-05-10,North Zone,Robbery,Morning,Blunt Object,0,29.71880156,71.72733531
+2023-01-10,University Town,Vandalism,Evening,Gun,1,29.96515944,71.72652922
+2023-08-20,Downtown,Vehicle Theft,Night,None,1,29.73073873,71.91860074
+2024-12-26,North Zone,Assault,Evening,Knife,1,29.81833484,71.90696679
+2023-06-22,Industrial Area,Vehicle Theft,Night,Knife,0,29.5750845,71.96871688
+2024-03-24,North Zone,Theft,Night,None,0,29.72163654,71.62391541
+2023-07-19,Market Area,Assault,Morning,Gun,0,29.54239601,71.95816169
+2024-09-12,Residential Block B,Fraud,Night,Gun,0,29.90106528,71.65268377
+2023-01-17,North Zone,Vehicle Theft,Afternoon,Blunt Object,1,29.9782507,71.96875418
+2024-01-01,Downtown,Robbery,Evening,None,0,29.9957942,72.08537498
+2023-07-30,North Zone,Vandalism,Night,Gun,1,29.83068531,71.69259778
+2024-05-05,Residential Block A,Theft,Morning,Knife,1,29.70606547,71.87480802
+2023-12-18,Downtown,Vehicle Theft,Morning,Blunt Object,0,29.53435642,71.81214844
+2024-09-14,North Zone,Assault,Evening,Gun,1,29.54108583,72.08393002
+2023-08-11,Residential Block A,Vandalism,Evening,Gun,1,29.89124246,71.71392121
+2023-11-25,Industrial Area,Robbery,Morning,Knife,0,29.69096982,71.70284363
+2024-07-14,Residential Block B,Vandalism,Morning,Knife,0,29.62770674,71.73035665
+2024-09-08,North Zone,Burglary,Night,Gun,1,29.82195213,71.86515107
+2023-07-09,Downtown,Vehicle Theft,Evening,Knife,1,29.9479073,71.76110775
+2024-11-06,Industrial Area,Burglary,Evening,None,0,29.64641102,72.08998516
+2024-01-09,North Zone,Vandalism,Evening,None,0,29.74300775,72.06014859
+2023-10-15,Residential Block B,Vandalism,Evening,Knife,0,29.80824986,71.67831922
+2024-06-05,Residential Block A,Robbery,Evening,Blunt Object,0,29.66913375,72.06404182
+2023-07-02,Residential Block A,Assault,Evening,Knife,0,29.54750585,71.78799644
+2023-05-04,University Town,Vandalism,Night,Knife,0,29.6943264,71.6818419
+2024-02-18,University Town,Theft,Afternoon,None,0,29.96415877,71.93799114
+2024-03-10,Downtown,Vandalism,Afternoon,Knife,0,29.94346245,71.92290541
+2023-05-02,Residential Block B,Burglary,Evening,None,1,29.90797347,72.030685
+2024-05-11,Residential Block B,Theft,Morning,None,0,29.62921581,71.87200829
+2023-05-29,Residential Block A,Burglary,Afternoon,None,1,29.87752096,71.83026975
+2023-10-29,Downtown,Theft,Night,None,0,29.86424534,71.98822372
+2023-08-24,Market Area,Burglary,Night,Blunt Object,0,29.5269291,71.76002992
+2024-10-23,University Town,Fraud,Night,Knife,1,29.99233487,72.06869403
+2024-04-10,North Zone,Robbery,Evening,Gun,1,29.55397186,71.94264901
+2024-03-11,North Zone,Theft,Afternoon,Gun,1,29.90889266,71.70675568
+2024-02-11,University Town,Vehicle Theft,Night,None,0,29.92035151,71.96640077
+2024-11-13,Industrial Area,Burglary,Afternoon,Blunt Object,0,29.87909251,71.97171189
+2024-05-29,Residential Block A,Vandalism,Afternoon,None,1,29.64877423,71.882511
+2024-02-17,Residential Block B,Fraud,Evening,Blunt Object,1,29.54687846,71.88858639
+2023-10-08,Industrial Area,Vehicle Theft,Evening,Blunt Object,1,29.88056077,71.68003582
+2023-12-28,North Zone,Theft,Evening,Knife,0,29.77902116,72.00587611
+2023-09-18,Residential Block B,Vandalism,Evening,None,1,29.94072539,71.73895105
+2024-04-27,Market Area,Assault,Afternoon,Knife,0,29.70074716,72.00003548
+2024-05-05,North Zone,Fraud,Afternoon,Gun,0,29.65546447,71.97117403
+2023-10-29,Residential Block B,Robbery,Night,Gun,0,29.80799273,71.69401237
+2023-04-22,North Zone,Robbery,Evening,Gun,0,29.89189589,71.87711326
+2024-08-20,Residential Block A,Fraud,Evening,Knife,0,29.9240239,72.01998199
+2023-01-12,Residential Block B,Vandalism,Night,Gun,0,29.87286689,71.70124028
+2024-02-22,University Town,Theft,Morning,None,0,29.8793382,71.93918941
+2023-03-11,Market Area,Robbery,Morning,Blunt Object,0,29.93832538,72.09816717
+2023-05-12,Industrial Area,Vehicle Theft,Afternoon,Knife,1,29.69268794,71.92168259
+2024-06-19,Residential Block A,Robbery,Evening,None,0,29.60860455,71.66891145
+2024-04-13,North Zone,Vehicle Theft,Afternoon,None,1,29.50093994,71.68918629
+2023-07-21,Downtown,Assault,Night,None,1,29.80979467,71.77774651
+2023-02-26,Industrial Area,Assault,Afternoon,Knife,1,29.6938368,71.80116356
+2024-08-05,Residential Block B,Fraud,Night,Gun,0,29.74048644,71.92116276
+2024-12-28,Residential Block A,Vehicle Theft,Evening,Knife,0,29.55206868,71.71271938
+2024-05-14,University Town,Assault,Evening,Knife,0,29.78033005,71.90174383
+2023-06-11,Residential Block A,Theft,Night,None,0,29.79968448,71.90107282
+2023-07-07,Market Area,Assault,Afternoon,None,1,29.91252471,71.84912784
+2023-07-30,North Zone,Assault,Morning,Knife,1,29.52927546,71.76711916
+2024-06-25,Industrial Area,Robbery,Morning,Gun,1,29.9909846,71.704921
+2024-12-04,Downtown,Assault,Afternoon,Knife,0,29.76014829,71.7867313
+2023-12-16,Industrial Area,Assault,Morning,None,0,29.66409638,71.81700968
+2023-05-26,University Town,Burglary,Night,Knife,1,29.685711,71.63127111
+2024-04-20,University Town,Burglary,Evening,Blunt Object,0,29.86783156,72.09917376
+2023-04-28,Residential Block B,Burglary,Afternoon,Knife,1,29.8212826,71.81062403
+2023-09-17,Downtown,Vandalism,Morning,Gun,0,29.74808319,71.68912623
+2024-02-03,Industrial Area,Assault,Morning,None,1,29.70495244,72.01990114
+2023-03-16,North Zone,Burglary,Afternoon,None,0,29.86999319,72.07515638
+2024-05-19,Industrial Area,Vehicle Theft,Night,None,1,29.78277498,72.08982336
+2024-09-10,Residential Block A,Robbery,Night,Knife,0,29.51209588,72.01584852
+2024-12-10,Downtown,Assault,Afternoon,Knife,1,29.75903938,71.74936279
+2024-03-01,Residential Block A,Vehicle Theft,Evening,Gun,1,29.92636401,71.71277066
+2024-08-03,North Zone,Theft,Morning,Blunt Object,1,29.92096678,71.69305071
+2023-02-18,North Zone,Theft,Evening,None,1,29.7175902,72.06867665
+2023-12-22,Downtown,Assault,Night,Knife,0,29.56673999,71.64030076
+2023-10-22,Downtown,Robbery,Afternoon,Gun,0,29.74823058,71.81842535
+2023-11-09,University Town,Vandalism,Morning,Gun,1,29.5035146,71.62864013
+2024-11-16,University Town,Burglary,Evening,None,1,29.80511257,71.66767704
+2024-06-26,North Zone,Assault,Night,Gun,0,29.96131153,71.83603022
+2024-12-25,University Town,Theft,Evening,Blunt Object,1,29.53447901,71.62852736
+2024-02-18,Industrial Area,Robbery,Evening,None,0,29.51814381,71.73785993
+2023-08-08,Residential Block B,Fraud,Morning,None,1,29.8935633,72.08741733
+2024-02-04,Residential Block B,Vehicle Theft,Night,Knife,0,29.87969913,71.82486992
+2023-07-24,Residential Block B,Burglary,Night,Blunt Object,0,29.63406951,71.6781909
+2023-08-16,University Town,Assault,Morning,Blunt Object,0,29.5168068,71.6313266
+2023-09-07,Market Area,Vehicle Theft,Afternoon,None,1,29.78099642,71.77296022
+2024-11-20,North Zone,Robbery,Afternoon,Knife,0,29.7055478,71.77367166
+2024-09-30,Downtown,Burglary,Morning,Blunt Object,0,29.61839215,71.96622437
+2023-07-22,Residential Block B,Fraud,Afternoon,Gun,1,29.98169722,71.88008409
+2023-07-18,Residential Block A,Vandalism,Morning,None,1,29.69672392,72.01393419
+2023-05-22,Market Area,Burglary,Evening,Gun,1,29.86541048,72.09064855
+2023-03-23,Residential Block B,Theft,Night,None,1,29.57248254,71.96257786
+2023-11-01,North Zone,Robbery,Morning,None,0,29.73196624,72.08600266
+2024-01-19,Residential Block B,Assault,Evening,Blunt Object,1,29.98367809,71.69150772
+2023-06-10,University Town,Fraud,Night,Blunt Object,0,29.57562341,71.71265846
+2024-05-04,North Zone,Assault,Night,Knife,1,29.54442012,71.94187705
+2023-10-16,Downtown,Burglary,Evening,Knife,0,29.76169546,71.65738444
+2023-12-20,Residential Block A,Burglary,Evening,Gun,0,29.70198894,71.8712729
+2024-02-27,Industrial Area,Vandalism,Evening,Gun,1,29.85391755,71.87176911
+2024-05-08,Residential Block B,Burglary,Morning,Knife,0,29.72915032,71.84234814
+2024-05-31,Industrial Area,Fraud,Night,Gun,1,29.97284907,72.02498769
+2023-03-07,Residential Block A,Burglary,Morning,Knife,1,29.54878126,72.03099345
+2024-03-10,North Zone,Vandalism,Night,Blunt Object,1,29.82548673,71.87271593
+2023-12-10,Residential Block B,Theft,Afternoon,None,1,29.89348507,71.65596796
+2024-07-24,Residential Block A,Vehicle Theft,Night,Knife,0,29.72961994,71.62597829
+2024-07-14,North Zone,Robbery,Afternoon,None,0,29.60068189,71.72931042
+2024-06-15,Downtown,Burglary,Morning,Gun,0,29.77242388,71.97921251
+2023-08-02,Industrial Area,Assault,Night,Blunt Object,0,29.50897284,71.66312689
+2023-03-20,Residential Block A,Theft,Afternoon,Gun,1,29.93979093,72.03528921
+2024-01-16,Market Area,Burglary,Afternoon,Blunt Object,1,29.72561967,72.09249483
+2023-01-26,Industrial Area,Robbery,Evening,None,1,29.77899037,71.87625681
+2023-09-11,Downtown,Burglary,Morning,Knife,0,29.6718316,71.74121545
+2024-07-07,Residential Block B,Robbery,Afternoon,Knife,1,29.74890625,71.65273685
+2024-03-11,Residential Block A,Burglary,Morning,None,1,29.72584841,71.7986907
+2024-03-02,North Zone,Fraud,Afternoon,None,0,29.88780593,72.08223833
+2024-05-18,Industrial Area,Vehicle Theft,Evening,Gun,1,29.59336165,71.64701805
+2024-05-22,University Town,Vandalism,Evening,Blunt Object,1,29.89642721,71.88879668
+2024-08-19,North Zone,Burglary,Evening,Blunt Object,0,29.65617455,71.92133733
+2023-08-26,Downtown,Vehicle Theft,Evening,Gun,1,29.76651443,71.67897741
+2024-04-12,Residential Block A,Theft,Night,None,1,29.7789101,71.68301716
+2024-01-22,Industrial Area,Fraud,Evening,Gun,1,29.68155037,72.04859317
+2023-02-09,Residential Block A,Fraud,Evening,Knife,0,29.75352555,71.89905631
+2024-06-03,Market Area,Vandalism,Afternoon,None,1,29.94699486,71.92714628
+2024-09-10,Residential Block A,Assault,Afternoon,None,1,29.656581,71.99929664
+2024-01-01,Industrial Area,Assault,Night,Blunt Object,1,29.54173204,72.04120818
+2024-06-07,Residential Block A,Theft,Afternoon,Gun,0,29.86986517,71.75983342
+2023-05-09,Residential Block A,Vehicle Theft,Night,Gun,1,29.70888049,72.09205516
+2024-06-16,Residential Block B,Robbery,Afternoon,Gun,0,29.86259277,71.7615056
+2023-04-12,University Town,Robbery,Evening,Knife,1,29.98989123,71.92806701
+2024-10-01,Residential Block A,Theft,Afternoon,Gun,0,29.50630376,71.87987784
+2023-12-19,Residential Block A,Vandalism,Evening,Blunt Object,1,29.51468208,72.01147922
+2024-10-27,Industrial Area,Assault,Evening,Blunt Object,0,29.53970329,71.96574825
+2024-12-01,University Town,Theft,Morning,Blunt Object,0,29.66842025,71.74824489
+2024-04-30,Market Area,Theft,Night,Gun,1,29.77039688,71.9551214
+2024-01-12,Downtown,Vandalism,Afternoon,Knife,0,29.73558395,72.01081845
+2024-04-01,Industrial Area,Burglary,Night,Knife,1,29.67889913,71.84710622
+2023-05-11,Residential Block B,Fraud,Afternoon,None,1,29.93991096,71.86271746
+2023-10-04,Industrial Area,Fraud,Afternoon,Gun,0,29.5564716,71.64358973
+2024-02-21,Downtown,Burglary,Evening,Knife,0,29.61993706,71.67098599
+2023-02-10,Market Area,Vandalism,Afternoon,Blunt Object,0,29.86983565,71.69563021
+2023-03-16,North Zone,Vehicle Theft,Night,Blunt Object,1,29.82557379,71.91046428
+2024-10-23,University Town,Burglary,Night,None,0,29.86903456,72.00309794
+2023-10-16,Market Area,Robbery,Evening,None,1,29.56313237,71.93808878
+2023-03-07,Residential Block B,Vandalism,Afternoon,None,0,29.65745979,71.60190857
+2023-02-16,Residential Block A,Fraud,Afternoon,Knife,1,29.58744072,72.02786863
+2023-05-04,Industrial Area,Robbery,Morning,Blunt Object,1,29.99587131,71.63633544
+2024-10-01,North Zone,Theft,Morning,Gun,1,29.82144096,71.94707529
+2023-05-23,University Town,Fraud,Evening,Blunt Object,0,29.60632219,71.61659468
+2024-09-20,Industrial Area,Burglary,Evening,Knife,0,29.70415317,71.97962437
+2024-04-04,Residential Block B,Burglary,Morning,Knife,0,29.61638157,72.00369802
+2023-07-26,Residential Block A,Robbery,Afternoon,None,0,29.63014343,72.05359752
+2023-09-08,Downtown,Assault,Morning,Blunt Object,1,29.5000942,71.68454054
+2023-12-20,Residential Block B,Vehicle Theft,Morning,None,0,29.72352777,71.83017914
+2024-09-03,Residential Block A,Vandalism,Morning,None,0,29.69080597,71.66442436
+2024-10-20,University Town,Burglary,Night,None,1,29.98840016,71.6553603
+2024-08-18,University Town,Fraud,Afternoon,Knife,0,29.50900004,71.81072202
+2023-09-27,Industrial Area,Burglary,Morning,Gun,0,29.95903828,71.74001866
+2023-03-24,University Town,Vandalism,Morning,None,1,29.98638816,72.01301953
+2023-10-02,Downtown,Vandalism,Morning,Blunt Object,0,29.90245339,71.60900328
+2023-11-23,Market Area,Robbery,Evening,Knife,1,29.81067225,71.8795924
+2024-09-27,Residential Block A,Burglary,Evening,Knife,0,29.91469733,71.7407606
+2024-02-02,Market Area,Burglary,Afternoon,Blunt Object,1,29.60922159,71.66012361
+2024-11-06,North Zone,Theft,Morning,None,0,29.54826724,71.72094691
+2023-11-16,Residential Block B,Vehicle Theft,Night,Knife,0,29.78358539,71.74191422
+2024-10-15,Residential Block B,Vehicle Theft,Morning,None,1,29.79917874,71.7486189
+2023-11-30,Residential Block A,Robbery,Night,Gun,1,29.8715966,71.62407142
+2023-03-09,University Town,Theft,Morning,Knife,0,29.93861973,72.03863088
+2024-09-28,Residential Block B,Assault,Evening,Gun,1,29.79661079,72.04615125
+2023-05-07,Residential Block A,Theft,Morning,None,0,29.81308809,71.86565826
+2023-03-03,Residential Block B,Robbery,Afternoon,Gun,1,29.89728914,71.61733513
+2023-02-04,University Town,Vehicle Theft,Evening,None,1,29.63388834,71.99458042
+2024-04-13,Residential Block B,Assault,Afternoon,None,1,29.76072284,71.63182045
+2023-10-03,University Town,Burglary,Evening,Blunt Object,1,29.61011265,71.84418731
+2023-07-20,Residential Block B,Burglary,Afternoon,None,0,29.95481341,71.93460013
+2024-04-26,Residential Block A,Fraud,Morning,Knife,0,29.93948945,71.88588618
+2023-10-28,University Town,Vehicle Theft,Night,Blunt Object,0,29.84722523,71.64110353
+2024-03-13,Market Area,Burglary,Evening,None,0,29.71729798,71.98693983
+2024-10-20,University Town,Burglary,Morning,Blunt Object,1,29.94626164,71.82169001
+2023-08-20,Downtown,Theft,Evening,Gun,0,29.97405416,71.82262306
+2024-05-19,Residential Block A,Vandalism,Afternoon,Gun,0,29.85131689,71.71871673
+2024-03-30,University Town,Fraud,Afternoon,Blunt Object,1,29.56584672,71.71709222
+2023-03-17,Residential Block A,Fraud,Night,Knife,0,29.74383353,71.92611213
+2023-07-13,Downtown,Fraud,Afternoon,Blunt Object,1,29.63578438,71.83644857
+2023-12-27,Residential Block B,Robbery,Morning,Blunt Object,1,29.75313303,71.91705202
+2023-09-19,North Zone,Assault,Evening,None,0,29.94574001,71.60146052
+2024-07-26,Market Area,Fraud,Night,Blunt Object,0,29.73624668,71.62282437
+2024-10-09,Downtown,Burglary,Night,Blunt Object,0,29.61942833,71.83482089
+2024-03-16,Residential Block B,Burglary,Night,Gun,0,29.6656735,71.84102053
+2024-02-28,University Town,Fraud,Morning,None,1,29.73487188,71.82373407
+2024-11-19,University Town,Theft,Morning,None,1,29.75828631,71.6027529
+2023-10-29,Market Area,Vehicle Theft,Afternoon,Blunt Object,1,29.52474843,72.01665854
+2024-02-08,Industrial Area,Vandalism,Morning,Knife,1,29.55401288,71.76943032
+2023-12-07,Industrial Area,Vehicle Theft,Night,Gun,1,29.71926924,71.70925492
+2024-09-09,Downtown,Theft,Afternoon,None,1,29.64674441,72.06587686
+2023-12-10,Industrial Area,Vandalism,Evening,Gun,0,29.54354638,71.90853326
+2024-07-24,Downtown,Robbery,Night,Knife,1,29.75370597,72.03711126
+2024-02-01,Downtown,Assault,Afternoon,Knife,0,29.8377101,71.62242678
+2023-11-29,Residential Block B,Burglary,Afternoon,Blunt Object,0,29.96471335,71.68260197
+2023-06-17,Residential Block A,Assault,Morning,Blunt Object,0,29.71091409,71.80551054
+2024-03-31,Residential Block A,Vandalism,Morning,Blunt Object,1,29.8354715,71.72908663
+2024-03-20,Residential Block A,Vehicle Theft,Afternoon,Blunt Object,0,29.65468636,72.01189519
+2023-04-13,Market Area,Fraud,Morning,Blunt Object,1,29.97701656,71.96069673
+2023-06-02,Market Area,Vandalism,Afternoon,Knife,0,29.81820069,71.62556769
+2024-03-06,Downtown,Burglary,Evening,Blunt Object,1,29.52976235,71.90189773
+2024-10-19,Market Area,Fraud,Afternoon,Gun,1,29.55724382,71.79191944
+2024-09-30,Industrial Area,Assault,Night,Knife,0,29.83133226,71.6461424
+2024-02-16,University Town,Vehicle Theft,Evening,Gun,0,29.77479183,72.05016063
+2023-11-28,North Zone,Robbery,Evening,Gun,0,29.54009001,71.77738565
+2023-04-15,Residential Block A,Fraud,Afternoon,Gun,0,29.82322505,72.04401953
+2023-09-23,Residential Block B,Assault,Night,Blunt Object,1,29.7510768,71.66943566
+2024-12-13,Residential Block B,Burglary,Morning,None,0,29.80628673,72.0368493
+2023-03-25,University Town,Robbery,Morning,None,0,29.81893855,71.97049063
+2024-08-27,Industrial Area,Vandalism,Afternoon,Gun,1,29.53322192,71.86698374
+2023-10-23,North Zone,Vandalism,Morning,Gun,0,29.91000631,71.94744119
+2023-09-25,Residential Block B,Vehicle Theft,Morning,Gun,1,29.64752035,71.84300025
+2023-12-23,Downtown,Vehicle Theft,Afternoon,Blunt Object,0,29.56150165,71.8793212
+2023-08-11,Market Area,Vandalism,Evening,None,1,29.73330389,72.0083616
+2023-10-21,University Town,Burglary,Evening,None,0,29.92280218,71.94624641
+2024-10-19,Residential Block A,Assault,Afternoon,Blunt Object,0,29.70194893,71.63880732
+2023-03-14,Residential Block A,Fraud,Evening,Knife,0,29.65315675,71.99449258
+2023-07-07,Industrial Area,Burglary,Afternoon,None,0,29.61313955,71.79211981
+2023-07-14,North Zone,Fraud,Morning,Blunt Object,0,29.92878117,72.05831762
+2023-03-04,University Town,Assault,Evening,Knife,0,29.54943681,72.04482602
+2024-11-02,Market Area,Vandalism,Evening,None,1,29.68558621,71.90053708
+2024-09-03,University Town,Fraud,Afternoon,None,0,29.69648711,71.8629063
+2023-10-17,Industrial Area,Vehicle Theft,Morning,Gun,1,29.5834301,71.81526467
+2023-07-15,Residential Block B,Vehicle Theft,Evening,None,1,29.52238923,71.98095341
+2024-07-12,Market Area,Robbery,Afternoon,None,0,29.57722987,71.61272388
+2024-03-19,University Town,Vehicle Theft,Night,None,1,29.68945514,71.6033552
+2024-04-23,North Zone,Robbery,Evening,Gun,1,29.89586013,71.89799442
+2024-07-29,Industrial Area,Robbery,Night,None,0,29.80288962,71.78229686
+2024-09-19,Residential Block A,Assault,Night,Knife,0,29.79011076,71.87984422
+2023-01-31,Downtown,Fraud,Evening,Blunt Object,0,29.84413712,71.67027648
+2024-01-11,University Town,Assault,Evening,None,1,29.98872606,71.86595635
+2024-07-10,Market Area,Vandalism,Night,Blunt Object,0,29.69210336,71.61949801
+2023-12-29,Industrial Area,Fraud,Afternoon,Gun,0,29.69399338,71.68001247
+2023-09-19,Downtown,Robbery,Morning,None,0,29.87810681,71.8292615
+2024-06-25,Residential Block A,Fraud,Afternoon,Blunt Object,0,29.56502389,72.01774012
+2024-07-02,North Zone,Vehicle Theft,Night,None,0,29.97795941,71.75698336
+2023-03-28,Downtown,Burglary,Evening,None,0,29.72206386,72.09742899
+2023-07-20,Downtown,Theft,Afternoon,Gun,0,29.99200658,71.74420272
+2024-03-06,Market Area,Vandalism,Afternoon,Gun,1,29.57579215,71.61546882
+2023-10-05,University Town,Burglary,Night,Blunt Object,1,29.7707038,71.67707252
+2023-11-01,Downtown,Burglary,Morning,None,0,29.76612877,71.68416848
+2024-01-14,Residential Block B,Fraud,Morning,None,1,29.91927461,71.77809282
+2023-12-20,Market Area,Theft,Evening,Gun,0,29.62966745,71.69731192
+2024-05-11,Industrial Area,Vandalism,Night,Blunt Object,1,29.75372318,71.93869366
+2024-06-16,Residential Block B,Fraud,Morning,Blunt Object,0,29.98320869,71.87885441
+2024-05-13,Market Area,Robbery,Afternoon,Blunt Object,1,29.58262103,71.89149221
+2024-09-28,Residential Block A,Robbery,Evening,Gun,0,29.72202187,71.91311716
+2023-05-19,Market Area,Vandalism,Afternoon,None,0,29.6036545,71.99119416
+2023-04-09,Downtown,Vehicle Theft,Night,None,1,29.94015738,71.91170298
+2024-10-25,North Zone,Fraud,Evening,Knife,1,29.81033024,71.70065605
+2024-06-03,Residential Block A,Vandalism,Afternoon,Knife,0,29.51972977,71.83777302
+2023-06-13,North Zone,Vehicle Theft,Evening,Knife,0,29.9534714,71.66618619
+2023-04-01,North Zone,Fraud,Morning,Blunt Object,0,29.95472731,71.96107162
+2024-11-15,Industrial Area,Fraud,Morning,Gun,0,29.72923321,71.61899078
+2024-01-30,North Zone,Fraud,Night,Gun,1,29.77466124,71.62887053
+2023-07-03,North Zone,Fraud,Afternoon,None,1,29.63788378,72.03854529
+2024-06-07,Market Area,Theft,Afternoon,Gun,1,29.98480386,72.07455607
+2024-10-27,University Town,Assault,Evening,Knife,1,29.99049369,71.84170372
+2024-08-04,Residential Block B,Assault,Night,Knife,0,29.79436576,71.78766495
+2023-04-12,Industrial Area,Robbery,Afternoon,Blunt Object,1,29.76122207,71.88135585
+2024-02-11,Residential Block B,Assault,Afternoon,Gun,1,29.69327025,71.85563773
+2024-05-13,University Town,Burglary,Evening,Gun,1,29.78863951,72.03278857
+2023-03-23,Market Area,Theft,Afternoon,None,1,29.72172792,71.90105849
+2023-12-31,Residential Block B,Vandalism,Afternoon,Knife,1,29.73824169,72.09806147
+2023-04-26,Residential Block A,Fraud,Morning,None,0,29.50158392,71.92009916
+2023-05-27,Residential Block B,Vehicle Theft,Morning,Blunt Object,0,29.65594954,71.72802378
+2023-01-13,Downtown,Vehicle Theft,Evening,Blunt Object,0,29.98576652,71.71037274
+2024-12-20,Industrial Area,Burglary,Afternoon,Gun,0,29.8812982,72.0646287
+2024-12-26,University Town,Vehicle Theft,Morning,Blunt Object,1,29.86135348,71.94626622
+2023-11-16,Market Area,Theft,Afternoon,Knife,0,29.64969779,71.77935776
+2023-07-13,University Town,Robbery,Afternoon,Knife,1,29.66670366,71.96652559
+2023-10-13,Industrial Area,Theft,Afternoon,Blunt Object,0,29.97872401,71.60443164
+2023-01-19,Downtown,Assault,Evening,Knife,0,29.60032551,72.09732432
+2024-05-02,Residential Block A,Robbery,Evening,Blunt Object,1,29.6473097,71.60715764
+2023-03-06,University Town,Theft,Morning,Gun,0,29.6708912,71.91645317
+2024-07-02,Residential Block A,Vehicle Theft,Evening,Gun,0,29.50283291,72.06854551
+2023-07-07,University Town,Fraud,Night,Gun,0,29.82927026,71.98305797
+2024-11-06,Market Area,Assault,Night,Knife,1,29.85001714,71.65220206
+2024-06-18,Industrial Area,Vandalism,Evening,Blunt Object,1,29.7438139,71.63882467
+2024-01-19,Market Area,Theft,Afternoon,Blunt Object,0,29.84370318,71.61224922
+2023-03-16,North Zone,Theft,Evening,Knife,0,29.67441027,71.65549905
+2023-07-07,North Zone,Robbery,Evening,None,0,29.78852033,71.94887814
+2023-02-14,University Town,Vandalism,Evening,None,1,29.9775576,71.8612883
+2024-06-11,Residential Block A,Burglary,Night,Knife,0,29.84087432,71.65646582
+2023-06-11,Residential Block A,Vandalism,Night,None,0,29.89725777,71.95354324
+2023-07-07,Downtown,Robbery,Afternoon,Knife,0,29.57259826,71.95505503
+2023-07-03,Market Area,Robbery,Morning,Knife,1,29.64764525,71.71619216
+2023-10-22,North Zone,Vehicle Theft,Night,None,1,29.70065301,71.74625755
+2024-09-23,Downtown,Robbery,Night,Blunt Object,1,29.70255135,72.0530555
+2023-08-19,North Zone,Robbery,Night,Knife,0,29.73821849,71.7130145
+2023-08-21,Market Area,Fraud,Evening,Knife,1,29.60963698,71.61683459
+2024-02-07,University Town,Vehicle Theft,Morning,Knife,1,29.67890704,71.92390872
+2024-12-26,University Town,Robbery,Morning,None,0,29.59392143,71.95989573
+2024-06-27,Market Area,Vandalism,Night,Knife,0,29.72467487,71.89293239
+2024-03-31,North Zone,Burglary,Morning,None,0,29.77732867,71.91854542
+2023-01-14,University Town,Fraud,Afternoon,None,1,29.73158636,71.71732672
+2023-02-22,Market Area,Burglary,Evening,None,1,29.90197925,71.87625048
+2024-12-03,North Zone,Vandalism,Night,Blunt Object,1,29.55997685,72.05839585
+2024-04-10,Market Area,Vandalism,Morning,Blunt Object,0,29.70072282,71.67931207
+2023-10-17,Industrial Area,Burglary,Afternoon,None,1,29.56691418,71.91477885
+2023-03-16,Market Area,Vehicle Theft,Night,Gun,0,29.63577352,71.80122332
+2024-03-16,Downtown,Fraud,Morning,None,0,29.50006735,71.85556457
+2023-06-03,University Town,Fraud,Afternoon,Gun,1,29.85751936,71.89674288
+2023-07-28,Industrial Area,Theft,Afternoon,Blunt Object,1,29.53134481,72.01966925
+2024-01-25,Industrial Area,Vandalism,Night,Gun,1,29.62341193,71.97045203
+2023-06-06,Residential Block A,Burglary,Afternoon,Blunt Object,1,29.96544369,72.01335733
+2024-09-10,North Zone,Assault,Night,Gun,1,29.63519664,72.02135595
+2024-03-03,Market Area,Assault,Night,Knife,0,29.78590458,72.05359991
+2023-05-21,Residential Block A,Robbery,Night,Knife,0,29.71119226,71.78865683
+2024-07-21,North Zone,Vehicle Theft,Night,Gun,0,29.98203921,71.64464476
+2024-11-28,North Zone,Burglary,Morning,None,0,29.52114587,71.88231453
+2024-12-29,University Town,Vehicle Theft,Night,None,0,29.85192855,71.60218163
+2023-01-23,Industrial Area,Robbery,Evening,None,0,29.62711569,72.03775561
+2023-04-11,Residential Block A,Burglary,Night,Gun,0,29.98302375,71.9805189
+2024-03-27,Residential Block B,Vandalism,Afternoon,Blunt Object,1,29.85127025,71.7490261
+2024-06-16,Downtown,Robbery,Evening,Knife,0,29.7377033,71.91716987
+2023-10-20,Residential Block B,Vehicle Theft,Afternoon,Knife,0,29.52409301,71.78002523
+2023-10-31,Industrial Area,Robbery,Morning,Knife,0,29.69256006,72.03291008
+2023-12-21,Industrial Area,Vandalism,Night,Gun,1,29.7288498,71.70444136
+2023-08-15,University Town,Vehicle Theft,Afternoon,None,0,29.68490663,71.62617751
+2023-01-13,Downtown,Vehicle Theft,Evening,Gun,1,29.70825222,72.01108994
+2023-01-31,Residential Block B,Assault,Afternoon,Knife,1,29.85982691,71.78558081
+2023-06-15,University Town,Vehicle Theft,Morning,Gun,0,29.7361409,72.04007837
+2023-04-10,University Town,Vehicle Theft,Morning,None,1,29.8389066,71.90387606
+2023-06-11,Industrial Area,Theft,Evening,Gun,1,29.69736718,72.06540365
+2023-10-01,University Town,Vehicle Theft,Night,Knife,1,29.86854828,72.08729591
+2023-05-29,Residential Block B,Burglary,Night,None,1,29.84109694,71.83407707
+2023-03-06,Downtown,Assault,Morning,Blunt Object,0,29.9451075,71.7437048
+2023-08-15,Residential Block A,Fraud,Afternoon,Gun,1,29.83343333,72.01165471
+2023-02-23,Industrial Area,Vehicle Theft,Morning,Gun,0,29.75793095,71.73379634
+2023-02-22,Industrial Area,Theft,Night,Gun,0,29.84402222,71.72094444
+2023-04-12,Market Area,Robbery,Night,Gun,1,29.66867277,71.60966382
+2024-02-02,North Zone,Vehicle Theft,Evening,Knife,0,29.70682134,71.84643229
+2023-04-21,University Town,Fraud,Afternoon,Knife,0,29.66512139,72.05303294
+2024-06-19,Residential Block B,Assault,Afternoon,Knife,0,29.86242825,72.03882351
+2024-01-13,Residential Block B,Robbery,Evening,Knife,0,29.75951614,71.93877113
+2023-04-29,Downtown,Theft,Night,None,0,29.88699569,71.98646074
+2023-04-14,Residential Block B,Burglary,Evening,Gun,1,29.56575913,72.02856478
+2024-05-16,Market Area,Vandalism,Evening,Blunt Object,0,29.50847383,71.98507911
+2024-11-04,Residential Block B,Vehicle Theft,Evening,Blunt Object,0,29.5908696,71.81775381
+2024-05-15,Residential Block B,Vehicle Theft,Afternoon,None,1,29.67090185,71.96951328
+2024-06-02,University Town,Vehicle Theft,Morning,Gun,1,29.6740478,71.78586965
+2024-06-11,Residential Block B,Fraud,Afternoon,Blunt Object,0,29.78404626,71.93150367
+2024-10-08,Residential Block A,Vehicle Theft,Night,Gun,0,29.93962756,71.93779005
+2023-06-09,Downtown,Fraud,Afternoon,Blunt Object,0,29.9492803,71.99159921
+2024-12-29,Industrial Area,Assault,Evening,Knife,1,29.64557212,71.70354746
+2023-02-28,North Zone,Assault,Night,Gun,1,29.65145786,71.63284743
+2024-05-03,North Zone,Burglary,Night,Knife,1,29.96868922,71.9016459
+2023-07-24,Residential Block A,Vandalism,Evening,Gun,1,29.8737222,71.83690491
+2023-08-06,Industrial Area,Burglary,Afternoon,Knife,0,29.79110438,72.09510445
+2024-09-22,Residential Block B,Theft,Evening,Knife,1,29.89259477,72.09566395
+2024-03-09,Residential Block B,Burglary,Afternoon,Knife,0,29.82229559,71.88064677
+2023-10-05,University Town,Vandalism,Morning,Knife,1,29.68284037,71.71269063
+2024-05-06,University Town,Robbery,Evening,Blunt Object,1,29.80986729,72.04803756
+2023-01-25,Industrial Area,Vehicle Theft,Morning,Blunt Object,0,29.89066093,71.8891492
+2023-09-24,Residential Block A,Robbery,Morning,Knife,1,29.99082666,71.86363259
+2023-03-09,University Town,Vandalism,Morning,Blunt Object,1,29.69408285,71.93706515
+2024-05-05,Industrial Area,Assault,Evening,Gun,1,29.90493009,72.07369762
+2023-04-12,Downtown,Burglary,Morning,Gun,0,29.64525225,71.83499413
+2024-07-12,Market Area,Vehicle Theft,Afternoon,Gun,1,29.53031446,71.94499987
+2023-01-05,Industrial Area,Fraud,Night,Blunt Object,0,29.74865622,71.71512546
+2023-09-05,University Town,Vehicle Theft,Evening,Blunt Object,0,29.56713743,72.07896706
+2023-01-15,Residential Block B,Robbery,Evening,Blunt Object,1,29.67713388,72.0745356
+2024-07-11,Residential Block B,Theft,Morning,Knife,1,29.53811961,71.73735191
+2024-08-20,North Zone,Assault,Evening,Gun,1,29.88042717,71.87342982
+2023-10-29,Market Area,Fraud,Night,Gun,1,29.716408,71.62194997
+2024-06-01,Residential Block B,Vandalism,Evening,Blunt Object,1,29.72277082,71.70459273
+2023-08-23,North Zone,Robbery,Morning,Knife,0,29.83717449,71.66849953
+2023-11-27,Residential Block A,Assault,Morning,Knife,0,29.89657144,72.02689246
+2024-10-29,University Town,Theft,Morning,None,1,29.82955688,71.65444666
+2024-08-02,Market Area,Theft,Morning,Blunt Object,0,29.97571491,72.09740965
+2024-11-29,Downtown,Assault,Afternoon,None,1,29.99057187,71.88476989
+2023-05-19,Industrial Area,Robbery,Afternoon,Gun,1,29.72948174,72.0596937
+2023-11-07,Residential Block A,Robbery,Afternoon,Knife,0,29.60697852,71.60651478
+2024-01-25,Downtown,Fraud,Evening,Gun,1,29.59505382,71.99629756
+2024-07-24,University Town,Vandalism,Evening,Blunt Object,0,29.67752053,71.94915558
+2023-09-02,Residential Block A,Vehicle Theft,Afternoon,Blunt Object,1,29.9764484,72.08352634
+2024-06-03,Market Area,Fraud,Evening,Gun,1,29.58083572,71.83845005
+2023-12-18,Market Area,Robbery,Morning,Blunt Object,1,29.65499997,71.71601991
+2024-03-02,Industrial Area,Burglary,Evening,Knife,1,29.83330024,71.68134987
+2024-08-22,Downtown,Theft,Afternoon,Gun,1,29.88178953,72.02760349
+2023-02-13,University Town,Vehicle Theft,Morning,Blunt Object,1,29.50605156,71.60451923
+2024-09-04,Industrial Area,Theft,Night,Gun,0,29.68849277,71.87599515
+2023-09-12,Residential Block B,Theft,Evening,Knife,1,29.81718184,71.71103794
+2023-11-18,Market Area,Burglary,Night,Knife,0,29.75734181,72.00413772
+2024-09-04,Residential Block A,Fraud,Night,Blunt Object,0,29.62290372,71.8013822
+2024-10-14,Industrial Area,Theft,Night,Knife,1,29.50022139,72.05069155
+2024-03-13,Industrial Area,Fraud,Evening,Blunt Object,0,29.69891831,72.05976551
+2024-05-13,Residential Block B,Theft,Afternoon,Knife,1,29.74733759,71.85636012
+2023-11-23,Downtown,Fraud,Night,Blunt Object,1,29.68586203,71.79622909
+2024-09-20,Residential Block A,Vehicle Theft,Night,Knife,1,29.51630897,71.62885146
+2023-12-25,Downtown,Robbery,Morning,None,0,29.78856129,71.77856058
+2023-10-01,Downtown,Assault,Evening,Knife,1,29.99622114,71.79316159
+2024-11-23,Residential Block A,Theft,Afternoon,None,0,29.67928923,71.92831554
+2023-04-24,Downtown,Burglary,Afternoon,Gun,1,29.9511182,72.03867781
+2024-02-08,Industrial Area,Vandalism,Night,Gun,1,29.55090184,71.85297895
+2024-12-15,Residential Block A,Vandalism,Morning,Gun,0,29.87588609,71.7143472
+2023-07-12,Residential Block B,Vandalism,Afternoon,None,1,29.58761089,72.03338518
+2024-08-02,Residential Block B,Burglary,Morning,Blunt Object,0,29.79081115,71.81830709
+2024-10-22,North Zone,Vandalism,Evening,Blunt Object,0,29.75834919,71.97938813
+2024-02-07,Downtown,Vandalism,Afternoon,Blunt Object,1,29.57190718,71.81505144
+2023-11-23,North Zone,Fraud,Morning,Knife,1,29.92292478,71.80047088
+2024-04-06,Residential Block A,Vandalism,Morning,Knife,1,29.89018275,71.83816787
+2024-02-03,University Town,Fraud,Evening,Gun,0,29.77225288,71.70223044
+2024-07-06,Residential Block A,Fraud,Morning,None,1,29.64784734,71.89690124
+2024-07-11,University Town,Fraud,Evening,Knife,1,29.6035379,71.63557914
+2023-09-28,Downtown,Vandalism,Afternoon,None,0,29.93974829,71.8300012
+2024-01-02,Residential Block A,Burglary,Evening,None,0,29.90543929,72.01791296
+2023-07-08,Residential Block B,Assault,Morning,Blunt Object,0,29.86337461,71.98695311
+2024-06-19,Downtown,Theft,Night,Knife,1,29.82732534,71.67579754
+2024-03-08,Residential Block B,Theft,Afternoon,Knife,1,29.76954728,71.74123621
+2023-10-06,Downtown,Fraud,Evening,None,0,29.96550499,71.79591198
+2023-06-30,Industrial Area,Fraud,Afternoon,None,0,29.88277338,71.60000582
+2024-11-30,University Town,Robbery,Evening,Gun,1,29.76125509,71.62731721
+2024-10-11,Residential Block A,Robbery,Morning,Blunt Object,1,29.60028013,71.70178919
+2023-03-26,Residential Block A,Robbery,Evening,None,1,29.65197126,71.71520833
+2024-11-21,Residential Block A,Burglary,Evening,Blunt Object,0,29.52595047,71.69555935
+2023-02-07,Market Area,Robbery,Evening,Gun,1,29.86586237,71.9203178
+2023-06-18,Industrial Area,Vandalism,Afternoon,None,0,29.92421269,71.8113146
+2023-11-02,University Town,Assault,Evening,Gun,1,29.9480204,72.00901337
+2023-04-22,Downtown,Vandalism,Night,Knife,0,29.90838973,71.69080698
+2024-01-17,Market Area,Vandalism,Evening,Knife,1,29.66848236,72.09977196
+2024-07-04,Residential Block A,Theft,Night,Knife,1,29.61024422,71.98124144
+2023-11-06,Residential Block B,Vehicle Theft,Afternoon,Gun,1,29.79531892,71.93050713
+2024-07-24,University Town,Fraud,Evening,None,0,29.70723486,71.97691485
+2023-02-01,Market Area,Fraud,Morning,None,0,29.58366065,71.99031586
+2024-06-04,North Zone,Vandalism,Morning,Knife,0,29.63442337,71.91421702
+2024-12-26,University Town,Robbery,Morning,None,1,29.63266307,71.90077694
+2024-03-11,Residential Block A,Burglary,Evening,None,1,29.81607975,71.66497069
+2023-04-12,North Zone,Vehicle Theft,Morning,None,0,29.89036593,71.95424485
+2024-07-16,Residential Block A,Burglary,Morning,Blunt Object,0,29.68464039,72.06646243
+2023-03-29,Industrial Area,Vehicle Theft,Night,Gun,0,29.5795125,71.69009788
+2024-02-27,Residential Block B,Vehicle Theft,Evening,None,0,29.73085807,72.06049726
+2024-02-11,Residential Block B,Assault,Morning,Knife,0,29.56256263,72.02523581
+2023-11-09,Downtown,Fraud,Afternoon,Blunt Object,0,29.63703579,72.00353545
+2024-04-21,North Zone,Vehicle Theft,Afternoon,Knife,1,29.57108522,71.70669667
+2023-12-06,Residential Block A,Theft,Evening,Blunt Object,1,29.98926273,72.02826861
+2024-07-28,Downtown,Robbery,Afternoon,Blunt Object,1,29.88235957,71.93552764
+2023-04-19,Residential Block A,Robbery,Night,Gun,1,29.97354533,71.84812938
+2024-04-18,Market Area,Assault,Evening,Blunt Object,1,29.58151767,71.99310283
+2023-05-08,Residential Block B,Fraud,Evening,Knife,0,29.95328611,71.60803093
+2023-02-12,University Town,Vandalism,Evening,Gun,1,29.91949866,71.60570899
+2023-09-27,University Town,Burglary,Morning,None,1,29.92163905,71.64875716
+2024-12-28,Market Area,Theft,Afternoon,Gun,0,29.85243551,72.00856407
+2023-06-17,Industrial Area,Robbery,Afternoon,Gun,0,29.52583436,71.8523978
+2023-10-10,Residential Block B,Vandalism,Evening,Knife,0,29.74113218,71.65924618
+2023-08-28,Downtown,Burglary,Evening,Knife,0,29.90000174,71.87635354
+2024-12-16,Industrial Area,Assault,Afternoon,Knife,1,29.61336369,72.03967051
+2023-03-30,Residential Block B,Assault,Morning,Blunt Object,0,29.5786366,71.75489393
+2023-05-31,Residential Block A,Theft,Evening,Blunt Object,0,29.65827483,72.00820539
+2023-11-09,University Town,Vandalism,Morning,Gun,0,29.8983407,71.72523395
+2024-01-10,Residential Block A,Vandalism,Night,None,0,29.78587299,72.01641519
+2024-08-17,Residential Block B,Assault,Evening,Blunt Object,1,29.81399669,71.72375504
+2023-05-04,Residential Block B,Theft,Afternoon,None,1,29.59345722,71.60989783
+2024-07-18,Downtown,Assault,Morning,Gun,0,29.6533883,71.77647925
+2024-02-05,Industrial Area,Vehicle Theft,Afternoon,Knife,0,29.96749722,71.8152701
+2023-03-10,Residential Block A,Fraud,Night,Blunt Object,0,29.5341766,71.99187992
+2023-11-14,North Zone,Burglary,Evening,Blunt Object,0,29.54195977,71.7667313
+2024-12-26,North Zone,Assault,Morning,Blunt Object,0,29.66622808,71.62829283
+2024-07-12,Market Area,Burglary,Evening,None,1,29.69072052,72.09102477
+2023-03-25,Market Area,Burglary,Afternoon,Knife,1,29.83573957,71.91614108
+2024-06-09,Market Area,Robbery,Night,Blunt Object,0,29.89049795,71.99263441
+2024-04-21,Market Area,Vehicle Theft,Afternoon,Knife,0,29.55068645,71.73892639
+2023-12-04,Industrial Area,Vandalism,Night,Gun,0,29.97063622,72.05736556
+2024-01-27,Downtown,Fraud,Night,Blunt Object,1,29.53375127,71.8593505
+2023-01-17,Industrial Area,Robbery,Evening,Gun,0,29.55156068,71.87389235
+2024-02-16,Residential Block B,Assault,Afternoon,Gun,1,29.7018005,71.96894249
+2024-04-18,Market Area,Robbery,Night,None,0,29.79109162,71.70222029
+2024-11-19,North Zone,Fraud,Evening,Knife,0,29.69880619,71.73213813
+2023-04-08,Downtown,Fraud,Morning,Knife,0,29.74151985,71.73426688
+2024-09-27,Residential Block B,Vandalism,Evening,None,1,29.77480313,71.94488942
+2023-06-03,Residential Block A,Vandalism,Morning,Gun,1,29.8018186,71.63848973
+2024-10-30,University Town,Theft,Evening,Knife,0,29.9627611,71.63416705
+2024-07-06,North Zone,Vehicle Theft,Evening,Blunt Object,0,29.54603349,71.89952229
+2024-08-18,Residential Block A,Fraud,Morning,Blunt Object,0,29.54604763,71.87668951
+2023-11-05,Industrial Area,Robbery,Morning,Gun,0,29.50755534,72.08250768
+2024-12-19,Residential Block B,Fraud,Evening,None,1,29.78182999,71.82534324
+2023-12-18,Residential Block A,Theft,Morning,Blunt Object,1,29.80500371,71.7564537
+2023-04-10,Residential Block A,Vandalism,Evening,None,0,29.62476218,71.60100926
+2024-03-27,Industrial Area,Vandalism,Night,Knife,1,29.97336686,71.6529529
+2023-09-23,Market Area,Fraud,Morning,Gun,1,29.80612908,71.7065425
+2024-07-13,Residential Block B,Vehicle Theft,Morning,Knife,0,29.50334106,71.98615051
+2024-09-01,Market Area,Burglary,Morning,None,0,29.6867774,71.62524447
+2024-03-24,Market Area,Assault,Evening,Blunt Object,1,29.50769745,71.89146303
+2023-05-17,Residential Block A,Robbery,Morning,Gun,1,29.72512712,72.07879051
+2024-02-24,Industrial Area,Fraud,Evening,Knife,1,29.86286296,71.90862451
+2023-09-19,Residential Block B,Theft,Evening,Blunt Object,0,29.98850348,71.65094655
+2024-01-05,Market Area,Assault,Afternoon,Knife,1,29.87141249,71.76352232
+2024-05-21,University Town,Fraud,Afternoon,None,1,29.54215066,72.00359466
+2024-01-02,Market Area,Fraud,Afternoon,Blunt Object,0,29.62935582,71.81720166
+2023-03-14,Market Area,Robbery,Night,Gun,1,29.71919249,72.09813114
+2023-02-12,University Town,Vehicle Theft,Afternoon,Knife,0,29.81884412,71.72101104
+2023-07-31,Market Area,Vehicle Theft,Afternoon,Knife,1,29.60201233,71.92699705
+2023-05-31,Residential Block A,Fraud,Afternoon,Blunt Object,0,29.52500929,72.05576065
+2024-07-28,Residential Block A,Vehicle Theft,Afternoon,Gun,0,29.67798552,71.6079066
+2023-10-26,Market Area,Vehicle Theft,Morning,Knife,1,29.62377989,71.63126315
+2023-03-02,Residential Block B,Robbery,Morning,Gun,1,29.71238577,71.70767219
+2023-06-10,University Town,Assault,Night,Gun,0,29.83643583,71.64057459
+2023-10-31,Residential Block B,Robbery,Morning,Knife,0,29.66651744,72.04248215
+2024-09-30,Downtown,Vandalism,Evening,Knife,0,29.9114919,72.06635525
+2024-08-11,North Zone,Fraud,Morning,Gun,0,29.89338475,71.79872408
+2024-08-25,Residential Block A,Vandalism,Night,Knife,1,29.76072451,71.63422936
+2024-05-04,Residential Block A,Fraud,Evening,Knife,1,29.71374783,71.7031087
+2024-09-10,University Town,Burglary,Afternoon,Knife,0,29.76916597,71.73442676
+2024-11-24,North Zone,Theft,Night,None,1,29.92991192,71.61750396
+2023-07-06,University Town,Robbery,Afternoon,Knife,0,29.72717271,71.91512361
+2023-12-29,North Zone,Burglary,Night,Gun,1,29.81897713,72.01682157
+2024-11-10,North Zone,Burglary,Night,None,1,29.72127276,71.92466116
+2024-07-02,Residential Block A,Assault,Night,None,0,29.89199368,71.80969481
+2023-03-04,University Town,Burglary,Morning,Knife,1,29.64619156,71.82195973
+2023-07-04,Residential Block A,Theft,Night,None,0,29.60054936,71.89511633
+2023-05-15,Industrial Area,Burglary,Night,Gun,1,29.52808804,71.84554786
+2023-07-26,University Town,Robbery,Night,Gun,0,29.64051904,71.95648
+2023-05-01,Residential Block A,Vehicle Theft,Afternoon,Blunt Object,1,29.6301183,71.67974613
+2024-10-06,Downtown,Fraud,Morning,Knife,0,29.89326119,72.07126565
+2023-08-30,University Town,Burglary,Evening,Blunt Object,0,29.94084531,72.00706284
+2024-08-18,North Zone,Burglary,Afternoon,Blunt Object,0,29.72310061,72.00292227
+2023-05-09,Industrial Area,Assault,Afternoon,None,0,29.65490344,71.72497847
+2023-11-08,Downtown,Fraud,Night,Gun,0,29.77669009,71.72744112
+2023-03-02,Market Area,Fraud,Night,Knife,1,29.67689458,72.0142778
+2023-06-02,Market Area,Burglary,Morning,Knife,1,29.91405841,71.70803006
+2024-07-20,Market Area,Vandalism,Afternoon,Knife,0,29.97640751,71.76337127
+2023-06-26,North Zone,Vandalism,Morning,Blunt Object,1,29.75281708,72.07056041
+2023-04-07,Industrial Area,Fraud,Night,Gun,0,29.65930448,72.05177922
+2023-01-06,Downtown,Robbery,Afternoon,None,1,29.77668559,71.85156624
+2024-10-23,Downtown,Burglary,Night,Blunt Object,0,29.7607997,71.99724282
+2023-03-28,Market Area,Burglary,Afternoon,Knife,1,29.91895419,72.02938214
+2024-02-18,University Town,Burglary,Night,None,0,29.7196053,71.90527338
+2023-10-12,North Zone,Vehicle Theft,Evening,Knife,0,29.72959462,71.8055468
+2024-11-02,North Zone,Robbery,Morning,Gun,0,29.8469748,71.71479908
+2023-02-14,North Zone,Vandalism,Morning,Gun,1,29.58264225,71.60099607
+2024-03-25,Downtown,Theft,Morning,Blunt Object,0,29.76594454,71.9947161
+2024-08-28,North Zone,Fraud,Evening,Knife,1,29.5806814,71.64177717
+2024-12-21,Residential Block A,Vehicle Theft,Evening,None,0,29.70710046,71.96620693
+2024-05-13,Residential Block B,Assault,Evening,Gun,1,29.62076842,71.77713566
+2023-04-25,Residential Block B,Theft,Night,None,1,29.61118065,71.85961229
+2024-06-23,University Town,Robbery,Morning,Gun,1,29.65550125,71.68346554
