@@ -1,18 +1,24 @@
-# Smart City Crime Prediction VIP
+# Smart Crime Prediction System
 
-## Folders:
-- data/raw: Original CSV
-- data/processed: Cleaned CSV
-- src: Scripts for cleaning, analysis, training
-- models: Saved ML model
-- notebooks: EDA and visualization
-- dashboard: Streamlit app
-- reports/figures: Saved charts
+This project uses Data Science and Machine Learning to analyze crime data and predict arrest probability.
 
-## How to Run
-1. Install packages:
-   python -m pip install -r requirements.txt
-2. Train model:
-   python src/model_training.py
-3. Run dashboard:
-   streamlit run dashboard/app.py
+## Features
+- Crime data analysis
+- Data visualization
+- Machine learning model (Random Forest)
+- Interactive Streamlit dashboard
+- Crime heatmap visualization
+
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Streamlit
+- Folium
+
+## Run Dashboard
+
+streamlit run dashboard/app.py
